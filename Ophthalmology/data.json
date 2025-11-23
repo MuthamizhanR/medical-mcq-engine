@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "text": "The newborn eye is usually \t. Myopic Hypermetropic Emmetropic Astigmatic",
+        "options": {},
+        "correct_option": "d",
+        "explanation": ":\nA newborn is usually hypermetropic by +2D to +3D.\nThe anteroposterior (AP) diameter of the eyeball at birth is about 16.5 mm, which is about 70% of the adult size. This reduced axial length causes light to converge behind the retina, leading to\n\nhypermetropia.\nAdditionally, the corneal diameter at birth is 10 mm. The adult size (11.7 mm) is attained by 2 years of age. The orbit is more divergent (50\u00b0) as compared to adult (45\u00b0).\nNote: The lacrimal glands are underdeveloped in a newborn and, hence, do not secrete tears.",
+        "image": "Ophthalmology_img_1.png"
+    },
+    {
+        "id": 2,
+        "text": "At what age would a child attain full visual acuity? 6 months 1 year 3 years 6 years",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nFull visual acuity is attained by the age of 6 years. Important milestones in visual development are:\nAt birth, there is no central fixation, and the eyes move randomly.\nBy the first month of life, the fixation reflex starts developing and becomes established by 6 months.\nBy 3 months, binocular vision is established.\nBy 6 months, macular stereopsis and accommodation reflex are fully developed.\nBy 6 years of age, full visual acuity (6/6) is attained.",
+        "image": "Ophthalmology_img_2.png"
+    },
+    {
+        "id": 3,
+        "text": "A 45-year-old lady presents with the abnormality as shown below. She is diagnosed with uveal melanoma. What is the embryological origin of the cells involved? Neural ectoderm Mesoderm Surface ectoderm Neural crest",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nUveal melanomas arise from uveal melanocytes. Uveal and conjunctival melanocytes are derived from the neural crest cells.",
+        "image": "Ophthalmology_img_3.png"
+    },
+    {
+        "id": 4,
+        "text": "Which of the following statements is false regarding the development of the eye? The macula is fully developed at birth. The lens grows throughout life. The cornea attains normal diameter by 2 years. Full visual acuity is attained by 6 years of age.",
+        "options": {},
+        "correct_option": "d",
+        "explanation": ":\nThe macula is fully developed by 4\u20136 months of age. Apart from the macula, the rest of the retina is fully developed at birth.\nPostnatal Development of Eye:\n3 Months - Binocular single vision develops.\n4-6 Months - Macula fully develops. Fusional reflexes, stereopsis, and accommodation become well developed\n6 Months - Fixation, which had started developing in the first month is now complete\n2 Years - Cornea develops to the normal adult diameter\n6 Years - Visual acuity fully develops and reaches 6/6\nThe lens, however, continues to grow throughout the life",
+        "image": "Ophthalmology_img_4.png"
+    },
+    {
+        "id": 5,
+        "text": "By how many weeks of embryonic development does the optic groove appear? 2 weeks 3 weeks 4 weeks 5 weeks",
+        "options": {},
+        "correct_option": "d",
+        "explanation": ":\nThe optic groove appears by 3 weeks. By approximately day 22, 2 small grooves appear on either side of the developing forebrain in the neural folds, these are called optic grooves. As the neural tube closes, these grooves develop outpouchings called optic vesicles. These optic vesicles extend from the forebrain to the surface ectoderm.",
+        "image": "Ophthalmology_img_5.png"
+    },
+    {
+        "id": 6,
+        "text": "Embryonic development of ciliary muscles is from \t. Surface ectoderm Neural ectoderm Neural crest Mesoderm",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nEmbryonic development of ciliary muscles is from the neural crest.",
+        "image": "Ophthalmology_img_6.png"
+    },
+    {
+        "id": 7,
+        "text": "After conception, the canal of Schlemm appears by \t . 3rd month 4th month 5th month 6th month",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\n\nThe canal of Schlemm appears by the 4th month after conception.",
+        "image": "Ophthalmology_img_7.png"
+    },
+    {
+        "id": 8,
+        "text": "What is the anteroposterior diameter of the adult eyeball? 2.6 cm 2.5 cm 2.4 cm 2.1 cm",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe anteroposterior (AP) diameter of the adult eye is 24 mm/2.4 cm.\nAt birth, the average axial length of the eyeball is 16.5 mm. By 3 years, it grows rapidly to approximately 23 mm. From 3 to 14 years of age, the axial length gradually increases by a further 1 mm, bringing it to the adult size of 24 mm. This overall adjustment in the eye size, including the refractive power, is called emmetropization.",
+        "image": "Ophthalmology_img_8.png"
+    },
+    {
+        "id": 9,
+        "text": "A 34-year-old lady comes to the clinic complaining of problems in her vision. On perimetry, a visual field defect as shown below is obtained. Which of the following vessels does not supply the anatomical location of the lesion? Anterior cerebral arter Anterior communicating arter Internal carotid arter Middle cerebral arter",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe image shows bitemporal hemianopia, a defect caused by optic chiasmal lesions. The middle cerebral artery does not supply the optic chiasma.\nBlood supply of optic chiasma:\nAnterior cerebral artery - dorsal chiasma\nAnterior communicating artery - ventral chiasma\nInternal carotid artery - ventral chiasma\nSuperior hypophyseal artery - ventral (branch of internal carotid artery).",
+        "image": "Ophthalmology_img_9.png"
+    },
+    {
+        "id": 10,
+        "text": "A college student comes to the OPD for refractive error testing. Her eyes are dilated using tropicamide. Which of the following statements is false about the structure this drug acts on? It is triangular in cross section. There are around 30-40 processes in pars plana and pars plicata Its epithelium is derived from the anterior edge of the optic cup. The pars plana is approximately 4.5 mm from the limbus.",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nTropicamide is a cycloplegic drug that acts on the ciliary body to cause mydriasis for refractory error testing. The ciliary body is a triangular structure that contains 60-70 ciliary processes in\n\neach eye, present on the pars plicata.\nThe pars plana is 4.5mm from the limbus while the distance between the equator and the limbus is 14mm.\nThe ciliary epithelium is derived from the optic cup (neuroectoderm) by the continued growth of the outer lip's anterior edge.",
+        "image": "Ophthalmology_img_10.png"
+    },
+    {
+        "id": 11,
+        "text": "A 12-year-old girl you examined in an outreach camp is found to have this abnormality. What is the most common site where the condition is seen? Superonasal Inferonasal Superotemporal Inferotemporal",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe condition depicted in the image is a coloboma of the iris, and the most common site of coloboma is the inferonasal quadrant.\nA coloboma is a congenital malformation in one of the structures in the eye, such as the iris, retina, choroid, or optic disc, due to the failure of embryonic fissure closure. Coloboma of the uveal tract may be typical (seen in the inferonasal quadrant) or atypical (occasionally found in other positions). Typical coloboma is of two types:\nComplete: Extends from pupil to optic nerve, causing a corresponding lens indentation.\nIncomplete: May involve iris alone, or iris and ciliary body (more common), or iris, ciliary bod and a part of choroid.\nOther embryonic remnants in the eye:\nMittendorf's dot - Remnant of the anterior end of the hyaloid arter\nBergmeister papilla - Remnant of the posterior end of the hyaloid arter\nPersistent hyperplastic primary vitreous (PHPV) - Failure of fetal vasculature to regress The image below shows a fundoscopy view of persistent hyperplastic primary vitreous.",
+        "image": "Ophthalmology_img_11.png"
+    },
+    {
+        "id": 12,
+        "text": "A child was brought with complaints of decreased vision. Fundus examination shows a developmental anomaly as shown below. What is the cause of this anomaly? Incomplete closure of the embryonic fissure Faulty migration of neural crest cells Exuberant proliferation of glial tissue Abnormal retinal differentiation",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe image shows a coloboma of the optic disc, accompanied by a large chorioretinal coloboma located below the optic disc, which is caused by incomplete closure of the embryonic fissure.\nThis developmental anomaly may involve the optic nerve, choroid, retina, and iris. Coloboma of the optic disc can present in two forms: a minor effect often associated with refractive errors like hypermetropia and astigmatism and a fully developed coloboma that appears as a large inferonasal whitish excavation resembling the optic disc.\nDefective vision and superior visual field defects are typically associated with fully developed coloboma. Additionally, this condition may be associated with chorioretinal coloboma, a congenital anomaly where the developing optic cup fails to fuse completely, leading to abnormal choroidal and retinal development.\nNote: Faulty migration of neural crest cells results in anterior segment dysgenesis.",
+        "image": "Ophthalmology_img_12.png"
+    },
+    {
+        "id": 13,
+        "text": "What is the embryological origin of the structure marked in the image? Neural ectoderm Mesoderm Surface ectoderm Neural crest",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe lacrimal gland arises from the surface ectoderm.",
+        "image": "Ophthalmology_img_13.png"
+    },
+    {
+        "id": 14,
+        "text": "The optic foramen is situated between the: Lesser and greater wings of the sphenoid Lesser wing and body of the sphenoid Greater wing and body of the sphenoid Two roots of the lesser wing of the sphenoid",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe optic foramen is situated between the two roots of the lesser wing of the sphenoid.\nThe optic foramen leads into the optic canal, which is formed medially by the body and laterally by the lesser wing of the sphenoid bone, connecting the orbit's apex to the middle cranial fossa.\nThe optic canal transmits the optic nerve with its meningeal coverings; the ophthalmic artery, which is below the nerve, is embedded in its dural sheath, and a few twigs from the sympathetic plexus accompanying the artery.",
+        "image": "Ophthalmology_img_14.png"
+    },
+    {
+        "id": 15,
+        "text": "During a game, a 26-year-old baseball player is hit in the head by a baseball, which fractures the optic canal. Which of the following pairs of structures is most likely to be damaged? Optic nerve and ophthalmic vein Ophthalmic vein and ophthalmic nerve Ophthalmic artery and optic nerve Ophthalmic nerve and optic nerve",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\n\nIn the given clinical scenario, a fracture of the optic canal is most likely to damage the ophthalmic artery and optic nerve, as these are the primary structures passing through it.\nThe optic foramen leads into the optic canal, which is a short cylindrical structure bounded medially by the body and laterally by the lesser wing of the sphenoid bone, connecting the orbit's apex to the middle cranial fossa, serving as a pathway for the aforementioned structures along with its sympathetic plexus.\nOptic canal fractures, often associated with basilar skull fractures, can lead to optic neuropathy. The intracanalicular and intracranial portion of the optic nerve is most commonly affected in head trauma.\nNote: The greater and lesser wings of the sphenoid bound the superior orbital fissure.",
+        "image": "Ophthalmology_img_15.png"
+    },
+    {
+        "id": 16,
+        "text": "The anterior segment of the eye includes all except \t. Anterior chamber Posterior chamber Vitreous Lens",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe anterior segment of the eye does not include vitreous humor as it is a constituent of the posterior segment of the eye.",
+        "image": "Ophthalmology_img_16.png"
+    },
+    {
+        "id": 17,
+        "text": "The posterior chamber in the eyeball is filled with \t. Aqueous humor Vitreous humor Lymph Blood",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\n\nThe posterior chamber of the eyeball is filled with aqueous humor.\nThe eyeball is divided into anterior and posterior segments. The anterior segment includes the lens and the structures anterior to it, such as the cornea, iris and two aqueous humor-filled spaces:\nAnterior chamber: Located between cornea and iris, contains aqueous humor and communicates with the posterior chamber through the pupil.\nPosterior chamber: Triangular-shaped space, also contains aqueous humor, bounded anteriorl by the posterior surface of the iris, laterally by the ciliary body, and posteriorly by the lens.\nThe posterior segment includes all structures located posterior to the lens, comprising of the vitreous humor, retina, choroid and optic disc.",
+        "image": "Ophthalmology_img_17.png"
+    },
+    {
+        "id": 18,
+        "text": "Which of the following structures is attached to Whitnall\u2019s tubercle? Check ligament of the medial rectus Superior oblique tendon Check ligament of the lateral rectus Whitnall's ligament",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nCheck ligament of the lateral rectus is attached to Whitnall\u2019s tubercle.\nLateral orbital tubercle or Whitnall's tubercle is a small elevation on the orbital surface of the zygomatic bone, just within the lateral orbital margin. It is about 11 mm below the\nfronto-zygomatic suture.\nFour structures are attached to it:\nCheck ligament of the lateral rectus\nLockwood\u2019s ligament (Suspensory ligament of the eyeball)\nLateral palpebral ligament\nLateral horn of the levator aponeurosis\nThe Whitnall's ligament or the superior transverse ligament of the eye, is attached to the superior tarsal plate and the orbital bone.",
+        "image": "Ophthalmology_img_18.png"
+    },
+    {
+        "id": 19,
+        "text": "Which of the following statements is false regarding the tarsal plates? Tarsal plates are cartilaginous structures. They give structural support to the eyelid. LPS aponeurosis is attached to the superior border of the upper tarsal plate. Their medial and lateral ends form the medial and lateral palpebral ligaments, respectively.",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe tarsal plates are not cartilaginous structures but firm, dense connective tissue (fibrous tissue) plates.\nThe tarsal plates serve as the structural support of the eyelids. The height of the upper tarsal plate is about 10 mm, and that of the lower tarsal plate is 4 mm. Both plates have a thickness of about 1\nmm. The ends form the medial and lateral palpebral ligaments (medial and lateral canthal tendons). The levator palpebrae superioris (LPS) aponeurosis is attached to the superior border of the upper tarsal plate.\nThe meibomian glands are located within the tarsus. These are holocrine-secreting sebaceous glands that are not associated with lash follicles.",
+        "image": "Ophthalmology_img_19.png"
+    },
+    {
+        "id": 20,
+        "text": "A 55-year-old man is being evaluated for herpes zoster ophthalmicus. On eliciting corneal reflex, there is no response. Which of the following nerves forms the afferent limb of this reflex? Infratrochlear nerve Supratrochlear nerve Supraorbital nerve Long ciliary nerve",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe sensory supply of the cornea comes from the long ciliary nerve (branch of the nasociliary nerve). It forms the afferent limb of the corneal reflex.\nThe sensory nerve supply of the eye is by the ophthalmic nerve.\nLacrimal nerve- lacrimal gland, conjunctiva, lateral eyelid\nFrontal nerve- conjunctiva, eyelid, part of the forehead\nNasociliary nerve\nLong ciliary nerve- cornea, ciliary body, iris\nInfra-trochlear nerve- conjunctiva, lacrimal sac, caruncle, medial part of the eyelids Corneal sensation is reduced in leprosy and diabetes mellitus (neuropathy).",
+        "image": "Ophthalmology_img_20.png"
+    },
+    {
+        "id": 21,
+        "text": "Which intrinsic ocular muscle has a parasympathetic innervation? Superior rectus Superior oblique Sphincter pupillae Dilator pupillae",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe intrinsic ocular muscle supplied by parasympathetic innervation is the sphincter pupillae.\nParasympathetic innervation:\nSphincter pupillae: Short ciliary nerve\u2013Ciliary ganglion\nCiliary muscle\u2013Accessory ganglion\nSympathetic innervation: Dilator pupillae and Muller\u2019s muscle\nMotor Supply:\n3rd nerve: All extraocular muscles (except the 2 given below)\n6th nerve: Lateral rectus (LR6)\n4th nerve: Superior oblique (SO4)\n7th nerve: Orbicularis oculi",
+        "image": "Ophthalmology_img_21.png"
+    },
+    {
+        "id": 22,
+        "text": "What is the thinnest part of the retina? Foveola Fovea centralis Optic disc Ora serrata",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\nThe retina is the thinnest (0.080 mm) at the ora serrata, and thickest, at the foveal rim (0.23,\n0.320 mm).\nThe ora serrata is the serrated junction between the retina and ciliary body.",
+        "image": "Ophthalmology_img_22.png"
+    },
+    {
+        "id": 23,
+        "text": "In the anatomy dissection hall, you are shown the dissected orbit with the markers as shown below. You are asked to choose the muscles causing depression of the eyeball. Which will you choose? A and E B, C, and D B, D, and E B and E",
+        "options": {},
+        "correct_option": null,
+        "explanation": ":\n\nThe muscles responsible for the depression of the eyeball are the inferior rectus (E) and superior oblique (A).\nImage markings:\nA- Superior oblique\nB- Levator palpebrae superiors\nC- Superior rectus\nD- Inferior oblique\nE- Inferior rectus\n\n\nNerve supply of extra-ocular muscles:\nOculomotor nerve (III)- Superior rectus, inferior rectus, medial rectus, inferior oblique, and levator palpebrae superioris\nAbducens nerve (VI)- Lateral rectus\nTrochlear nerve (IV)- Superior oblique\n\nElementary Optics and Physiology of Vision\n\nQuestion 1:\n\nWhat is the most important factor influencing the focus of light rays on the retina?\nAnterior surface of cornea\nPosterior surface of cornea\nAnterior surface of lens\nPosterior surface of lens\n\n\nQuestion 2:\n\nThe refractive index is the maximum at the \t.\nAnterior surface of the lens\nPosterior surface of the lens\nCornea\nCentre of the lens\n\n\nQuestion 3:\n\nHow many Purkinje images are formed in a normal eye?\n3\n4\n5\n2\n\n\nQuestion 4:\n\nAmong the Purkinje images in the eye, which image is inverted?\nImage 1\nImage 2\nImage 3\n\nImage 4\n\n\nQuestion 5:\n\nThe visual axis is the line joining the \t.\nCentre of the cornea to the retina\nObject to fovea\nCentre of the lens to the cornea\nObject to center of rotation\n\n\nQuestion 6:\n\nWhat is the angle formed between the optic axis and visual axis at the nodal point?\n\uf061\n\uf0b0\n\uf06b\n\uf067\n\n\nQuestion 7:\n\nA 28-year-old man comes to get his power checked. The optometrist finds the focal length of his lens to be 0.75m; what will be its refractive power?\n0.75 D\n1.5 D\n1.25 D\n1.33 D\n\n\nQuestion 8:\n\nWhat is the distance between point A and B shown below?\n\n\n\n2 DD\n3 DD\n1.5 DD\n1 DD\n\n\nQuestion 9:\n\nA 6-year-old child complains that she cannot see anything on the whiteboard clearly. On ophthalmological examination, she is found to have a 2 mm shortening of the axial length of the eyeball. How much eye power will this lead to?\n3D myopia\n6D myopia\n3D hypermetropia\n6D hypermetropia\n\n\nQuestion 10:\n\nYou are studying the optics of a patient with regular astigmatism. Identify the point at which the clearest image is formed?\n\n\n\nC\nD\nE\nG\n\n\nQuestion 11:\n\nWhat is the Stiles-Crawford effect?\nCutting off of the peripheral rays by the iris\nHigh refractive index of the core of nucleus of the lens than that of the peripheral cortex\nLow sensitivity of the peripheral retina\nMore sensitivity of the retina to perpendicular rays than the oblique rays\n\n\nQuestion 12:\n\nWhat are the first-order neurons of the optic pathway?\nPhotoreceptors\nGanglionic cells\nBipolar cells\nOptic radiation\n\nQuestion 13:\n\nYou are tasked with studying and mapping the photoreceptor cells in a cohort of patients. Consider the following statements and pick out the false one.\nThere are 120 million rods in each human eye.\nRods produce a hyperpolarizing potential on activation.\nCones predominate in the extrafoveal region.\nCones produce a hyperpolarizing potential on activation.\n\n\nQuestion 14:\n\nWhich of the following cells are retinal glial cells?\nMeissner's corpuscles\nMuller cells\nAmacrine cells\nBasket cells\n\n\nQuestion 15:\n\nWhich of the following statements is false?\nRods and cones release Ach at their synapses.\nPhototransduction is associated with hyperpolarization.\nAmacrine cells release various neurotransmitters.\nBipolar cells show either depolarization or hyperpolarization.\n\n\nQuestion 16:\n\nWhich of the following is responsible for inducing phototransduction?\nMetarhodopsin I\nMetarhodopsin II\nBathorhodopsin\nLumirhodopsin\n\nQuestion 17:\n\nDuring the dark phase of the visual cycle, which form of vitamin A combines with opsin to form rhodopsin?\nAll trans-retinal\nAll trans-retinol\n11- cis-retinal\n11- cis-retinol\n\n\nQuestion 18:\n\nWhich of the following statements is false regarding the physiology of photoreceptors?\nPhototransduction results in closure of c-GMP-gated cation channels.\nChromophore regeneration occurs in the outer segment of photoreceptors.\nPhoton absorption induces photo-isomerisation of 11-cis-retinal to all-trans-retinal.\n11-cis-Retinal is bound to opsins by covalent bonds.\n\n\nQuestion 19:\n\nWhat signals are carried by the parvocellular pathway from the lateral geniculate body to the visual cortex?\nMovement, depth, and flicker\nColour vision, shape, and fine details\nTemporal frequency\nLuminance contrast\n\n\nQuestion 20:\n\nWhich of the following statements is false regarding \"blobs\" in the primary visual cortex?\nProcess colour vision\nAre rich in the enzyme citrate synthase\nAre present in layers 2 and 3 of the visual cortex\nReceive input from the interlaminar pathway\n\nQuestion 21:\n\nWhat are Konio cells involved in transmitting?\nMotion\nStere\nForm\nColor\n\n\nQuestion 22:\n\nWhat is the visible range of the electromagnetic spectrum of the human eye?\n200-370 nm\n370-740 nm\n740-1140 nm\n800-900 nm\n\n\nQuestion 23:\n\nWhat is the characteristic visual defect in deuteranomaly?\nGreen color is not perceived.\nBlue color is not perceived.\nGreen color perception is defective.\nBlue color perception is defective.\n\n\nQuestion 24:\n\nMajority of the energy requirement in the lens is met by the \t.\nGlycolysis\nPentose phosphate pathway\nTCA cycle\nSorbitol pathway\n\n\nQuestion 25:\n\nWhat is the angle subtended by the optotype on the second line of Snellen\u2019s chart when viewed from a distance of 6 meters?\n5 minutes of arc\n30 minutes of arc\n25 minutes of arc\n6 minutes of arc\n\n\nQuestion 26:\n\nA 42-year-old man with monocular aphakia wears contact lenses. What is the approximate percentage of aniseikonia in his eyes?\n3%\n8%\n30%\n1%\n\n\nQuestion 27:\n\nWhich cerebellar nucleus controls the ocular saccade?\nDentate\nEmboliform\nFlocculus\nGlobose\n\n\nQuestion 28:\n\nPurely depolarizing cells in the optic pathway are \t.\nAmacrine cells\nRods and cones\nBipolar cells\nHorizontal cells\n\n\nQuestion 29:\n\nMost afferent fibers from the lateral geniculate body terminate in the primary visual cortex in\n\t.\nLayer 1\nLayers 2 and 3\nLayer 4\nLayers 5 and 6\n\n\nQuestion 30:\n\nWhat is the mean value for outflow facility of the aqueous in the normal eye?\n2.3 \u00b5L/min/mm Hg\n0.06 \u00b5L/min/mm Hg\n2.8 \u00b5L/min/mm Hg\n0.28 \u00b5L/min/mm Hg\n\n\n\n\nAnswer Key\n\n\n\n\nDetailed Explanations\nSolution to Question 1:\nThe anterior surface of the cornea is the most important factor influencing the focus of light rays on the retina.\nThe refraction of light is the maximum at the cornea, due to the curvature of the cornea and the difference between the refractive index of air and tear film.\nRefractive indices of various surfaces of the eye:\n\n\nSolution to Question 2:\nThe refractive index is the maximum at the center of the lens. Refractive indices of the various surfaces of the eye:\nThe total dioptric power of the lens is about 18 D (16 to 20 D). Lens is composed of 64% water, 35% protein, and 1% lipid/carbohydrates/trace elements, and these components contribute to the refractive index of the lens.\n\n\n\n\nSolution to Question 3:\nA total of 4 Purkinje images are formed in normal eyes.\nPurkinje images are reflections of objects from the structure of the eye. They are also known as Purkinje reflexes or Purkinje\u2013Sanson images.\n\n\n\n\n\nIn aphakia, images 3 and 4 are absent, while in a mature cataract, image 4 is absent.\n\n\n\nSolution to Question 4:\nImage 4, which is formed on the posterior surface of the lens, is inverted.\n\n\n\n\nSolution to Question 5:\nThe visual axis is the line joining the fixation point (object), nodal point (centre of the lens), and the fovea.\n\nSolution to Question 6:\nAngle alpha (\uf061) is the angle between the optical axis and visual axis at the nodal point.\nAngle lambda (\uf0b0 ) is the angle between the pupillary axis and the line of sight. It is the global tilt offset of the eye when it fixates on a specific target and is a response to the eccentric displaced position of the fovea from the geometrical center of the retina. (Option B)\nAngle kappa (\uf06b) is the angle between the visual axis and the pupillary line at the cornea. It is the only angle that can be measured and is of clinical significance. (Option C)\nPositive \uf06b is seen in pseudoexotropia\nNegative \uf06b is seen in pseudoesotropia\nAngle gamma (\uf067) is the angle between the optical axis and the fixation axis at the center of eyeball rotation. (Option D)\n\n\n\n\nSolution to Question 7:\nRefractive power (dioptre) = 1/Focal length in metres\nSo, for the given question, refractive power (D) = 1/0.75 = 1.33 D\n\n\n\nSolution to Question 8:\nIn the image, point A is the optic disc and point B is the fovea. The fovea is situated about 2 disc diameters (3\u20134 mm) away from the temporal margin of the optic disc.\nThe optic disc is an area of about 1.5 mm. There is a blind spot / physiological scotoma, corresponding to the optic disc.\n\n\n\n\n\nSolution to Question 9:\nShortening of 2mm of the axial length of the eyeball will lead to 6D of hypermetropia.\nIn axial hypermetropia, 1mm shortening of the anteroposterior diameter of the eye results in 3 dioptres of hypermetropia. Therefore, 2-mm shortening will lead to 6D of hypermetropia.\nIn curvature hypermetropia, a 1mm increase in radius of curvature results in 6 dioptres of hypermetropia.\n\n\n\nSolution to Question 10:\nThe given figure is a Sturm's conoid. It represents a bundle of light rays formed by a regularly astigmatic surface. The image is clearest or least confusing as point D, the circle of least confusion.\nWhen light passes through a regularly astigmatic surface(surface with toric curvature), vertical and horizontal rays converge at different points.\nThe distance between the points of convergence (focus) of the vertical and horizontal rays is called the focal interval of strum. (distance between points B and F). The circle of least confusion/ circle of diffusion lies at the mid-point of this interval.\nF r the given Sturm's conoid,\nAt point A, a horizontal oval is formed because vertical rays converge more rapidly than horizontal rays.\nAt point B, vertical rays come to a focus, while horizontal rays are still converging; so, it will be a horizontal straight line.\nAt points C, D, and E, the vertical rays are diverging and horizontal rays are still converging.\n\nAt point D, the vertical rays have diverged as much as the horizontal rays have converged; so, we get a perfect circle called the circle of least confusion.\nAt point E, a vertical oval is formed.\nAt point F, a vertical straight line is formed\nAt point G and beyond, both rays are diverging, and we always get a vertical oval/prolate ellipse.\n\n\n\n\n\nSolution to Question 11:\nThe Stiles\u2013Crawford effect refers to the greater sensitivity of the retina to perpendicular rays than the oblique rays. It is one of the natural mechanisms that decrease aberration in the eye. The rays of light that enter through the center of the pupil have higher sensitivity as compared to those entering from the periphery of the pupil.\nNatural mechanisms that decrease aberrations in the human eye:\nCutting-off of the peripheral rays by the iris\nThe high refractive index of the core of the nucleus of the lens than that of the peripheral cortex\nLow sensitivity of the peripheral retina\nStiles\u2013Crawford effect\n\n\n\nSolution to Question 12:\nPhotoreceptors are the first-order neurons in the visual pathway.\n\n\n\nSolution to Question 13:\n\nCones predominate in the foveal region, not the extrafoveal region.\n\n\n\n\n\nSolution to Question 14:\nMuller cells are a type of glial cells found in the retina that help in the binding of the neuronal elements together. They do no take part in the neurosensory pathway of light.\nOther cells in the retina:\nMeissner's corpuscles: Tactile receptors localizing in the dermis between epidermal ridges, perceiving touch\nBasket cells: GABAergic interneurons found in the cerebellum\n\n\n\n\n\n\nSolution to Question 15:\nRods and cones release glutamate (not acetylcholine) at their synapses.\nPhotoreceptors get hyperpolarized in response to stimulus, and hence, phototransduction is associated with hyperpolarization.\nAmacrine cells secrete at least eight types of neurotransmitters, including GABA, glycine, dopamine, acetylcholine, and indolamine, all of which function as inhibitory neurotransmitters.\nBipolar cells show both depolarization/hyperpolarization.\n\n\n\nSolution to Question 16:\nMetarhodopsin II is responsible for phototransduction.\nIt activates transducin member of G proteins. This leads to the closure of Na+ channels and hyperpolarization, thereby inducing phototransduction (signal transduction in the retina).\n\n\nSolution to Question 17:\nOpsin combines with 11-cis-retinal to produce rhodopsin.\nOnly the retinal form of vitamin A is involved in the formation of the photopigment.\n\n\n\n\n\nSolution to Question 18:\nChromophore regeneration occurs in the retinal pigment epithelial cells. Phototransduction:\nRhodopsin is a G-protein-coupled receptor found in the outer segments of rod photoreceptors.\n11-cis-retinal (a chromophore) is covalently bound to opsins via a lysine residue on one of the transmembrane domains.\nThe receptor is activated by photo-isomerization of prebound 11-cis-retinal t ALL-TRANS-retinal.\nActivation of the receptor causes binding and activation of the G protein, transducin, with signal transduction via cGMP phosphodiesterase, resulting in a decrease in the intracellular cGMP levels and closure of the cGMP-gated Na channels.\nThis causes hyperpolarization of the photoreceptor cell, which modulates neurotransmitter release at the synapse with bipolar cells.\nThis entire process triggered by the activation of rhodopsin is phototransduction, which occurs in the outer segment of photoreceptors and converts light energy into an electrical signal.\nChromophore regeneration:\nAll-trans retinAL is converted to all-trans-retinOL.\n\nAll-trans-retinOL gets transported by interphotoreceptor retinoid-binding protein (IRBP) to the retinal pigment epithelial cells, where it is reconstituted into the 11-cis retinal isoform.\n\n\n\n\nSolution to Question 19:\nThe parvocellular pathway gives signals for color vision, texture, shape, and fine details. LGB: lateral geniculate body\nThe interlaminar pathway gives signals for color vision to layers 2 and 3 of the visual cortex having clusters of cells called blobs.\n\n\n\n\n\n\nSolution to Question 20:\nBlobs in the primary visual cortex are rich in the enzyme cytochrome oxidase.\nBlobs are sections of the visual cortex where groups of neurons that are sensitive to color assemble in cylindrical shapes. They are present in layers 2 and 3 of the visual cortex.\n\n\n\nSolution to Question 21:\nK nio cells are involved in the transmission of color.\nThe koniocellular pathway is ventral to each parvocellular and magnocellular layer of the lateral geniculate nucleus (LGN). K cells are neurochemically and anatomically distinct from M and P cells. They contain calbindin protein, whereas M cells and P cells contain parvalbumin. K1,\nK4, and K6 receive ipsilateral retinal inputs, and K3 and K5 receive contralateral retinal inputs. K2 receives both.\n\n\n\n\n\n\nSolution to Question 22:\nThe visible range of the electromagnetic spectrum for the human eye is 400\u2013700 nm. Theories of color vision:\nTrichromatic theory (Young\u2013Helmholtz theory) assumes that there are three types of color receptors. Each receptor is assumed to respond to all wavelengths, however, each has different spectral sensitivities.\nOpponent process theory, also known as the Hering theory, assumes three sets of receptor systems\u2014red-green, blue-yellow, and black-white. Each one of these functions as an antagonistic pair (e.g., red light stimulates the red receptors and, at the same time, inhibits the green).\nEdwin Land's theory has three separate color systems (retinexes). Each is an analog to a black-and-white picture.\n\n\n\n\n\n\nSolution to Question 23:\nIn deuteranomaly, the perception of green color is defective. It is the most common disorder of color vision.\nMonochromacy: Only one of the three primary colors (red, blue, or green) can be appreciated. Dichromacy: Two primary colors are appreciated. (anopia = absent).\nProtanopia: Red color is not perceived.\nDeuteranopia: Green color is not perceived.\nTritanopia: Blue color is not perceived.\nTrichromacy: All the three primary colors are appreciated, but one of them can be defective\n(anomaly = defective).\nProtanomaly: Red color perception is defective.\nDeuteranomaly: Green color perception is defective.\nTritanomaly: Blue color perception is defective.\nAchromatopsia: No color perception due to the absence of cones. It may also occur in the lesion of area V4 or V8 of the visual cortex.",
+        "image": "Ophthalmology_img_23.png"
+    }
+]
