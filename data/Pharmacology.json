@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Fundoscopic evaluation in an HIV patient showed CMV retinitis. He was started on intravenous foscarnet, a highly ionized drug. Which of the following statements is true about the drug?",
+      "Excreted mainly by the kidneys",
+      "Can cross the blood brain barrier easily",
+      "Well absorbed from the intestine"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nImatinib mesylate blocks the action of the chimeric fusion protein of BCR-ABL. It targets the BCR-ABL tyrosine kinase and inhibits the activity of the fusion protein.\nA single molecular event, 9:22 translocation, leads to the expression of the Abelson\nproto-oncogene kinase (ABL) fused to BCR (breakpoint cluster region) yielding a constitutively activated protein kinase in chronic myelogenous leukemia. Imatinib causes remission in &gt;90% of patients in the chronic phase of CML."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Alkalinization of the urine is done in case of toxicity with which of the following substances?",
+      "Barbiturate",
+      "Amphetamine",
+      "Heparin"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nErlotinib is an epidermal growth factor receptor (EGFR) inhibitor. Classification of BCR-ABL kinase inhibitors:\nFirst-generation: most likely to develop resistance.\nImatinib\nSecond generation: active against imatinib-resistant CML cases but not against T315I mutant ases.\nNilotinib\nDasatinib\nBosutinib\nThird generation: active against T315I mutant CML cases and other known mutant cases.\nPonatinib"
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "When the pH = pKa of a drug, which of the following statements is true?",
+      "Concentration of the drug is 50% ionic and 50 % non-ionic",
+      "Concentration of the drug is 90% ionic and 10% non-ionic",
+      "Concentration of the drug is 75% ionic and 25 % non-ionic"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "a",
+    "explanation": "\nThe drug of choice for the management of a patient with a metastatic gastrointestinal stromal tumor is imatinib.\nIt is an oral anticancer drug that acts by inhibiting tyrosine kinase activated due to BCR-ABL fusion. It also inhibits other related tyrosine kinases and hence is used in the treatment of conditions like gastrointestinal stromal tumor (driven by a c-KIT mutation).\nImatinib is the agent of choice for GIST patients with metastatic disease and as adjuvant therapy for c-kit positive GIST."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "In a patient with nephrotic syndrome, drug toxicity is least likely with which of the following drugs?",
+      "Efavirenz",
+      "Morphine",
+      "Diazepam"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nThe given scenario is suggestive of the development of resistance to imatinib, which is a tyrosine kinase inhibitor. This condition arises due to point mutations in three separate regions of the kinase domain.\nThe contact points between imatinib and the enzyme become sites of mutations in drug-resistant leukemic cells and hence these mutations prevent tight binding of the drug and lock the enzyme in its open configuration (the configuration in which it has access to the substrate and is enzymatically active).\nMechanisms other than BCR-ABL kinase mutations play a minor role in resistance to imatinib. They include:\nAmplification of the wild-type kinase gene has been identified in some cases.\nOverexpression of MDR-gene leading to increased drug efflux transporter has been shown experimentally but not implicated in clinical resistance.\nNilotinib retains inhibitory activity in the presence of most point mutations that confer resistance to imatinib."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "What does time for peak plasma concentration (Tmax) indicate?",
+      "Rate of elimination",
+      "Rate of absorption",
+      "Duration of effect"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nImatinib is the agent of choice in patients with metastatic GIST and as adjuvant therapy for c-kit positive GIST. Imatinib also shows therapeutic benefits in patients with hypereosinophilia syndrome and dermatofibrosarcoma protuberans (driven by activating mutations in the PDGFR).\nImatinib is an oral anticancer drug that acts by inhibiting tyrosine kinase activated due to\nABL-BCR fusion. Imatinib also inhibits other kinases and hence is used in the above-mentioned conditions.\nIndications for imatinib:\nBCR-ABL kinase mutations:\nChronic myelogenous leukemia (CML)\nAcute lymphoblastic leukemia (ALL)\nC-KIT mutations - gastrointestinal stromal tumors (GIST)\nPDGFR mutations:\nDermatofibrosarcoma protuberans\nHypereosinophilia syndrome\nChronic myelomonocytic leukemia (CML)"
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "The pharmacokinetics of an experimental drug is being studied. If its apparent volume of distribution is 6L/kg, which of the following is true regarding its distribution?",
+      "Highly bound to plasma proteins",
+      "Confined to vascular compartment",
+      "Sequestered in body tissues"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nPonatinib is a third-generation BCR-ABL kinase inhibitor. Classification of BCR-ABL kinase inhibitors:\nFirst-generation: most likely to develop resitance.\nImatinib\nSecond-generation: active against imatinib-resistant CML cases but not against T315I mutant ases.\nNilotinib\nDasatinib\nBosutinib\nThird-generation: active against T315I mutant CML cases and other known mutant cases.\nPonatinib"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Which of the following parameters is used to assess the extent of drug absorption in a plasma concentration vs. time graph?",
+      "Tmax",
+      "Cmax",
+      "T1/2"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nLapatinib is a dual inhibitor of epidermal growth factor (EGFR) and human epidermal growth factor 2 (HER2) tyrosine kinase.\nLapatinib in combination with capecitabine is approved for the treatment of patients with metastatic HER2-positive and trastuzumab-refractory breast cancer."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is true about first-order kinetics?",
+      "A constant amount of drug is eliminated in unit time",
+      "The half life increases with an increase in dose",
+      "The rate of elimination is constant"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nAfatinib binds covalently with epidermal growth factor receptor tyrosine kinase (EGFR-TK) also known as Her-1 receptor and inhibits it irreversibly. It is approved for the use of metastatic\nnon-small cell lung cancer.\nGefitinib and erlotinib compete with ATP binding to EGFR and results in competitive inhibition, which is reversible.\n [Image Reference: Pharmacology_img_14.jpeg, Pharmacology_img_188.jpeg]"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "You would consider administering a loading dose for a patient if the drug has",
+      "High clearance",
+      "High volume of distribution",
+      "Long plasma half life"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nHypertension is one of the characteristic side effects of angiogenesis inhibitors like bevacizumab.\nThe mechanism is not clear but may be related to decreased endothelial nitric oxide production. Patients receiving higher doses and prolonged treatment might require antihypertensive medications.\nBevacizumab can be used in the treatment of metastatic colon cancer, in combination with FOLFOX or FOLFIRI regimen. It can also be used in the treatment of non-small cell lung cancer."
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Which of the following drugs approach zero-order kinetics at higher therapeutic levels?",
+      "Penicillin",
+      "Phenytoin",
+      "Valproate"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nAflibercept is more effective in diabetic macular edema in patients with worse baseline values of visual impairment when compared to bevacizumab and ranibizumab.\nAll of them are administered intravitreally. Clinical trials have shown the advantage of aflibercept over bevacizumab and ranibizumab in visual and anatomic terms at the end of one year.\nRamucirumab which is a monoclonal antibody against VEGFR is not indicated for diabetic macular edema."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Which of the following routes of administration will not bypass hepatic first-pass metabolism?",
+      "Sublingual",
+      "Oral",
+      "Intravenous"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nSorafenib is indicated as a first-line treatment for unresectable hepatocellular carcinoma. It is an angiogenesis inhibitor.\nHepatocellular carcinoma management:\nResection, ablation, and other physical measures are the mainstay.\nOnly two drugs (angiogenesis inhibitors) are approved in this condition:\nSorafenib (first-line)\nRegorafenib (second-line).\nSunitinib and thalidomide are not indicated in hepatocellular carcinoma."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "In the metabolism of xenobiotics, all of the following are phase 1 reactions except?",
+      "Oxidation",
+      "Reduction",
+      "Acetylation"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "a",
+    "explanation": "\nThalidomide use is associated with peripheral neuropathy and is usually avoided in HIV-associated peripheral neuropathy as it can worsen the condition.\nIt is being investigated as an orphan drug for:\nRecurrent aphthous ulcers\nGVHD\nBehcet syndrome\nprimary brain malignancies\nKaposi's sarcoma\nCrohn\u2019s disease.\nIt is approved for use in multiple myeloma and erythema nodosum leprosum."
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "Sulphonamides undergo which of the following metabolic reactions?",
+      "Acetylation",
+      "Methylation",
+      "Hydroxylation"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nLenalidomide, which is a congener of thalidomide, suppresses bone marrow and is associated with significant leukopenia.\nLenalidomide use is associated with a lesser incidence of sedation, constipation, and neuropathy when compared to thalidomide."
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "All of the following can cause lupus-like syndromes except:",
+      "Isoniazid",
+      "Penicillin",
+      "Hydralazine"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nBortezomib is a proteasome inhibitor.\nIt is a boron-containing anticancer drug that covalently binds to the proteasome and inhibits its proteolytic activity, thereby disrupting many intracellular signaling pathways. The most important of these is nuclear factor-\uf06bB (NF-\uf06bB) mediated signaling. It is indicated in the management of multiple myeloma.\nOption A: Paclitaxel is a taxane.\nOption C: Cetuximab is a monoclonal antibody against the extracellular domain of EGFR.\nOption D: Irinotecan is a topoisomerase I inhibitor."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "A patient on long-term anticoagulation therapy with warfarin would need an increased dose when coadministered with which of the following drugs?",
+      "Captopril",
+      "Erythromycin",
+      "Rifampicin"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nTamoxifen is a selective estrogen receptor modulator that is indicated for hormone-responsive breast cancer.\nIt is approved for endocrine treatment of women with ER+ metastatic breast cancer or following primary tumor excision as adjuvant therapy."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Contraceptive failure while on oral contraceptive pills is unlikely to occur with which of the following drugs?",
+      "Valproate",
+      "Rifampicin",
+      "Phenytoin"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nAmifostine is the radioprotective drug that has been prescribed to this patient.\nIt is an organic thiophosphate cytoprotective agent that is indicated for the following conditions:\nReduction of nephrotoxicity associated with cisplatin.\nReduction of xerostomia in patients with head and neck cancer undergoing postoperative irradiation."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "Which of the following microsomal enzymes is important for the activation of procarcinogens?",
+      "CYP3A4",
+      "CYP2C8/9",
+      "CYP2C19"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nPalbociclib is a cyclin-dependent kinase (CDK) 4/6 inhibitor. It is approved for use in advanced or metastatic ER-positive HER2-negative breast cancer.\nRuxolitinib is an inhibitor of Janus associated kinases: JAK1 and JAK2. Tramitenib and cobimetinib are inhibitors of serine-threonine kinases."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Cytochrome enzymes are not involved in which of the following processes?",
+      "Oxidation",
+      "Production of bile acids",
+      "Synthesis of steroids"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nVemurafenib and dabrafenib inhibit V600E mutated BRAF present in melanoma. Both are indicated in the management of melanoma.\nThe name vemurafenib is derived from the target V600E mutated BRAF. Ibrutinib is a Bruton tyrosine kinase inhibitor."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "A patient is brought to the emergency in an unresponsive state. There is an alleged history of consumption of multiple prescription tablets in an attempt to commit suicide. After the drug was conclusively identified, the doctor recommends dialysis for definitive management. The drug most likely is:",
+      "Digoxin",
+      "Verapamil",
+      "Diazepam"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nVismodegib acts as a competitive antagonist of the SMO (smoothens hedgehog) receptor in the hedgehog signaling pathway.\nHedgehog signaling plays a key role in stem cell regulation and tissue regeneration. Basal cell carcinoma (BCC) is associated with dysregulation of this pathway. Vismodegib is indicated in patients with metastatic or relapsed BCC.\nOption A: Vemurafenib is a BRAF kinase inhibitor.\nOption C: Olaparib is an inhibitor of PARP [Poly (ADP-ribose) polymerase] enzyme. Option D: Neratinib is an irreversible inhibitor of HER-2 and EGFR."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "Which of the following is not a prodrug?",
+      "Enalapril",
+      "Imipramine",
+      "Sulfasalazine"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nVenetoclax is a small-molecule inhibitor of BCL-2 that is approved for use in CLL with a 17p deletion.\nOverexpression of BCL-2 has been demonstrated in CLL cells where it mediates tumor cell survival. Venetoclax helps restore the process of apoptosis by binding directly to the BCL-2 protein, displacing proapoptotic proteins like BIM, triggering mitochondrial outer membrane permeabilization and the activation of caspases.\nOlaparib and rucaparib are inhibitors of PARP [Poly (ADP-ribose) polymerase] enzymes."
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "Which of the following is not true about P-glycoprotein?",
+      "Pgp stands for permeability glycoprotein",
+      "Also known as CD243",
+      "Also known as ABCB1"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nSipuleucel-T is a cell-based approach to induce an immune response against prostatic acid phosphatase (PAP) that is commonly expressed in prostatic cancer. It is approved for use in minimally symptomatic, hormone-refractory, metastatic prostate cancer.\nSipuleucel-T preparation is done by isolating a patient's peripheral blood cells by leukapheresis and then exposing them to PAP-GM-CSF (which is a human recombinant protein). When these treated cells are infused to a patient, the APCs present in the blood produces antibodies directed against PAP.\nProstate-specific membrane antigen (PSMA) is a specific prostate epithelial cell membrane antigen, showing increased expression in prostate cancers, which is also a potential target for monoclonal antibody therapy."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "For which of the following drugs, is absorption increased after a fatty meal?",
+      "Griseofulvin",
+      "Amphotericin B",
+      "Ampicillin"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nFebuxostat is a uric acid synthesis inhibitor that acts by inhibiting the enzyme xanthine oxidase and it is indicated in gout management.\nExamples of histone deacetylase inhibitors are:\nVorinostat - cutaneous T cell lymphoma\nBelinostat - peripheral T cell lymphoma\nRomidepsin - cutaneous/peripheral T cell lymphoma\nPanobinostat - multiple myeloma"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "You prescribe an antibiotic course for a patient following cesarean section. What advice would you give regarding breastfeeding?",
+      "No advice as most of drug are not present in breast milk",
+      "Avoid breastfeeding during the antibiotic course",
+      "Medications to be taken 3-4 hours before next feeding"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "c",
+    "explanation": "\nThe scenario is suggestive of metastatic melanoma and trametinib is used in this condition. It is a reversible inhibitor of the mitogen-activated extracellular signal-regulated kinase (MEK). It inhibits the serine-threonine kinase domain of BRAF V600E mutant of MEK.\nIt can be used as a single agent but it is more effective when used with BRAF inhibitors like dabrafenib.\nAdverse effects of this drug include:\nCutaneous rash\nAcneiform dermatitis\nDiarrhea\nFatigue\nNausea\nLymphedema.\nCardiomyopathy\nHypertension\nHemorrhage\nInterstitial lung disease\nOcular toxic effects.\nOptions A and B: Dabrafenib and vemurafenib are BRAF inhibitors used in metastatic melanoma.\nOption D: Ipilimumab is a human cytotoxic T-lymphocyte antigen 4 (CTLA-4) blocking antibody used in metastatic or unresectable melanoma."
+  },
+  {
+    "id": 24,
+    "question_text": "",
+    "options": [
+      "A 55-year-old patient is on omeprazole for gastroesophageal reflux disease. She is now to be started on dual antiplatelet therapy with aspirin and clopidogrel. You decide to switch to pantoprazole because of the action of omeprazole on which enzyme?",
+      "CYP3A4",
+      "CYP2D6",
+      "CYP2C19"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nTisagenlecleucel is the first gene therapy-based treatment that is approved for use in acute lymphoblastic leukemia (ALL).\nThe therapy involves reprogramming a patient\u2019s own T-cells with a transgene encoding a chimeric antigen receptor (CAR) to identify and eliminate CD19-expressing malignant and normal cells."
+  },
+  {
+    "id": 25,
+    "question_text": "",
+    "options": [
+      "Subfamily of CYP3A4 is",
+      "CYP",
+      "A",
+      "3"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "d",
+    "explanation": "\nThe given scenario and the peripheral smear findings (increased WBCs with myelocytes, metamyelocytes, and band forms), is suggestive of chronic myelogenous leukemia\n(CML). Bosutinib is approved for use in this condition only for resistant and/or intolerant cases and not in newly diagnosed cases.\nAgents that can be used as first-line for CML are:\nImatinib\nDasatinib\nNilotinib\nDasatinib and nilotinib can be used in newly diagnosed cases of CML, that are found to be imatinib-resistant."
+  },
+  {
+    "id": 26,
+    "question_text": "",
+    "options": [
+      "How much drug will remain at the end of 6 hours when a patient is given 200 mg drug, 75 mg excreted in 90 min and if the drug follows first-order kinetics?",
+      "50 mg",
+      "30.5 mg",
+      "12.5 mg"
+    ],
+    "images": [],
+    "subject": "Pharmacology",
+    "correct_option": "b",
+    "explanation": "\nThe clinical scenario points towards a diagnosis of metastatic ovarian cancer. Rucaparib is a poly ADP-ribose polymerase/ PARP inhibitor approved for the treatment of advanced ovarian cancer.\nPARP is a nuclear protein that transfers ADP-ribose from NAD+ to target proteins and this plays an important role in the DNA damage response. Rucaparib and olaparib are PARP inhibitors.\nOption A: Palbociclib is a selective inhibitor of the cyclin-dependent kinases CDK4 and CDK6. It is used in the treatment of metastatic breast cancer.\nOptions C &amp; D: Vorinostat and romidepsin are histone deacetylase inhibitors."
+  }
+]

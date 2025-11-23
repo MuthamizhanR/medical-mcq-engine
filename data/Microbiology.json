@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Identify the condenser in the following image.",
+      "Above the stage",
+      "Below the stage",
+      "Near the eyepiece"
+    ],
+    "images": [
+      "Microbiology_img_1.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nEijkman test is also known as differential coliform test.\nDrinking water should be free of any pathogenic microorganisms. The presence of coliform bacteria in the water may indicate faecal pollution, while the detection of E.coli confirms it.\nThe presumptive coliform test is done by the multiple tube technique. Following this, the Eijkman test is done to confirm the presence of E. coli. They can grow at 44\u00b0C (faecal thermotolerant bacilli), ferment lactose and cause indole and gas production.\nOption A: Presumptive coliform count detects the probable number of coliform bacilli in water. It can be positive due to the presence of organisms other than E.coli also.\nOption C: Colony counts provide an estimate of the general bacterial purity of water.\nOption D: Methylene blue reduction test is used to assess the bacterial contamination of milk."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "A 28-year-old sex worker presented with a painless ulcer on her vulva. On examination, inguinal lymphadenopathy is present. Which of the following methods has been used to demonstrate the causative agent as per the given image?",
+      "Dark-field microscopy",
+      "Phase contrast microscopy",
+      "Fluorescent microscopy"
+    ],
+    "images": [
+      "Microbiology_img_2.png"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nRecent fecal contamination of water is suggested by the presence of enterococcus (fecal streptococci).\nClostridium perfringens may be present for a long duration. If it is present in water, it suggests that contamination is not recent.\nIf Escherichia coli is detected, it is definitive proof of fecal contamination. However, it is non-specific for suggesting the duration of the contamination."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "Which among the following statements is false?",
+      "Muramic acid is present in prokaryotes",
+      "Mitotic division is present in eukaryotes",
+      "80S ribosome is present in prokaryotes"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "d",
+    "explanation": "\nPasteurization is not used for the bacteriological examination of milk.\nPasteurization is the process of applying heat, to milk, for a specified period for the purpose of killing pathogenic bacteria. There are two methods: holder method and flash method.\nOption A: Methylene blue reduction test depends on the reduction of methylene blue by bacteria in milk when incubated at 37 \u00b0C in complete darkness.\nOption B: Resazurin test is similar to methylene blue reduction test, but the dye resazurin on reduction passes through a series of colour changes from blue to pink to colourless. The shade of colour after incubation with milk for a particular period of time depends on the degree of contamination.\nOption C: Phosphatase test is used to check whether milk has been pasteurised. Positive test after pasteurisation of milk shows contamination after pasteurisation."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Which of the following methods will not help you visualize the bacterial cell wall?",
+      "Fluorescence microscopy",
+      "Electron microscopy",
+      "Differential staining"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nThe image depicts the production of monoclonal antibodies by hybridoma technology. The following are the steps involved in hybridoma technology:\nMice are immunized with an antigen. After several weeks of immunization, blood samples are obtained from mice for measurement of serum antibodies.\nWhen the antibody titer is high enough, mice are commonly boosted by injecting antigen without adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their spleens removed for in vitro hybridoma cell production.\nFusing antibody-producing spleen cells, which have a limited life span with myeloma cells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of unlimited growth.\nThe cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT medium) which allows only the fused cells to survive in culture.\nMonoclonal antibodies are then harvested.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_473.jpeg]"
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "In which of the following phases of the bacterial growth curve does sporulation occur?",
+      "D",
+      "A",
+      "C"
+    ],
+    "images": [
+      "Microbiology_img_3.jpeg",
+      "Microbiology_img_4.jpeg",
+      "Microbiology_img_5.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nAminopterin is a folate antagonist present in the HAT medium that inhibits the de novo pathway of nucleotide synthesis. Since myeloma cells cannot use the salvage pathway for nucleotide synthesis due to the lack of HGPRTase enzyme, they cannot survive in the HAT medium.\nHybridoma technology is a method for producing large numbers of identical antibodies\n(monoclonal antibodies).\nHybridomas are somatic cell hybrids produced by fusing the antibody-forming spleen cells with myeloma cells. The resultant hybrid thus has both the antibody-producing ability of the B-cell and the ability to multiply indefinitely of the myeloma.\nThe following are the steps involved in hybridoma technology:\nMice are immunized with an antigen. After several weeks of immunization, blood samples are obtained from mice for measurement of serum antibodies.\nWhen the antibody titer is high enough, mice are commonly boosted by injecting antigen without adjuvant intraperitoneally or intravenously. Then the mice are euthanized and their spleens removed for in vitro hybridoma cell production.\nFusing antibody-producing spleen cells, which have a limited life span with myeloma\ncells (derived from an immortal tumor of lymphocytes) results in a hybridoma that is capable of unlimited growth.\nThe cells are cultured in a medium containing hypoxanthine, aminopterin, and thymidine (HAT medium) which allows only the fused cells to survive in culture.\nMonoclonal antibodies are then harvested.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_473.jpeg]"
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Which organism has the following cell wall structure?",
+      "Gram-positive organism",
+      "Gram-negative organism",
+      "Fungi"
+    ],
+    "images": [
+      "Microbiology_img_6.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "c",
+    "explanation": "\nEpsilometer (E-test) is both a diffusion and a dilution method of testing antibiotic sensitivity.\nIt is a quantitative technique for determining the antimicrobial susceptibility (AST) and minimum inhibitory concentration (MIC) in \u00b5g/mL of gram-negative and gram-positive aerobic bacteria.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_474.jpeg]\nThe antibiotic sensitivity tests are classified as follows:\nDiffusion methods: Kirby\u2013Bauer method, Stokes method\nDilution methods: Tube dilution method, Agar dilution method\nDiffusion and dilution method: E\u2013test (Epsilometer)"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Which of the following helps in bacterial adhesion?",
+      "Cytoplasmic membrane",
+      "Mesosomes",
+      "Fimbriae"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nThe disc diffusion method for antibiotic susceptibility testing is applied in the Kirby-Bauer method.\nTo perform Kirby-Bauer\u2019s disc diffusion method, a suitable standard dilution of a broth culture of the test bacterium is inoculated on the surface of a solid medium (Cation-adjusted Mueller-Hinton agar) as a lawn culture. After drying, various antibiotic discs are placed on its surface. Zones of inhibition around the disc are recorded and interpreted according to the zone diameters available in the tables of the Clinical and Laboratory Standards Institute (CLSI) guidelines. The results obtained are qualitative (resistant, sensitive, or partially sensitive).\nLaboratory testing for antibiotic sensitivity can be done by:\nDiffusion method- Kirby-Bauer disc diffusion method, Stokes disc diffusion method\nDilution method- broth dilution method, agar dilution method\nCombination of diffusion and dilution method- E\u2013test (Epsilometer)\nThe image below shows Kirby-Bauer disc diffusion method.\n [Image Reference: Microbiology_img_43.jpeg, Microbiology_img_475.jpeg]"
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Pasteurization is done at \t.",
+      "73 degree Celsius for 20 minutes",
+      "63 degree Celsius for 30 minutes",
+      "72 degree Celsius for 30 seconds"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nMinimum inhibitory concentration (MIC) cannot be calculated using Kirby-Bauer's disk diffusion method and Stokes disk diffusion method as they are semi-quantitative methods.\nMIC is the lowest concentration of an antimicrobial agent that will inhibit the visible growth of a microorganism.\nMethods to determine MIC include:\nTube dilution method\nAgar dilution method\nE-test method"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Which of the following methods of sterilization involves exposure to 100 \u00b0C for 20 minutes on 3 successive days?",
+      "Autoclaving",
+      "Tyndallization",
+      "Pasteurization"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "d",
+    "explanation": "\nReal-time polymerase chain reaction (PCR) can be used to quantify the PCR by monitoring the amplification process while the PCR is ongoing.\nTypes of PCR:\nReverse transcriptase PCR- The enzyme reverse transcriptase (RT) is used to synthesize a complementary copy of DNA (cDNA) from RNA and this cDNA is then used as a template for PCR.\nReal-time PCR- This helps quantify the PCR and gives an estimate of the pathogen DNA load in the specimen. It uses fluorescent dyes or specific DNA probes. It is also known as qPCR (Quantitative PCR)\nMultiplex PCR- Primers to more than one pathogen are used simultaneously and hence multiple products are obtained.\nNested PCR- It involves the sequential use of two primer sets. The first primer set is used for amplification and the amplicon obtained is then used as a target sequence for second amplification. This ensures specificity."
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Which of the following works by disrupting the cell membrane?",
+      "Lysol",
+      "Povidone-iodine",
+      "Thiomersal"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "d",
+    "explanation": "\nThe hemagglutination test is not based on the principle of antibody marking.\nWhen antibodies bind to antigens on the surface of red blood cells, the resultant clumping reaction is referred to as hemagglutination. It is routinely performed to type red blood cells in ABO blood-typing.\nThe image below shows hemagglutination.\n [Image Reference: Microbiology_img_43.jpeg, Microbiology_img_476.jpeg]\nIn ELISA, radioimmunoassay and immunofluorescence, the antigens or antibodies are labeled or marked with enzymes, fluorescent dyes, etc.\nNote: If no hemagglutination occurs it means the patient\u2019s serum has anti-haemagglutinin antibodies that bind to hemagglutinin and prevent the clumping reaction. This hemagglutination inhibition reaction is a method of detection of viruses and antiviral-antibodies and is used to make a diagnosis of influenza."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Which of the following methods is used in the test shown below?",
+      "Streak culture",
+      "Lawn culture",
+      "Stroke culture"
+    ],
+    "images": [
+      "Microbiology_img_7.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nPour plate culture (quantitative test) is not used as an immediate test for screening of\nUTI. However, it is considered the best diagnostic test for confirmation of UTI due it\u2019s high sensitivity and specificity.\nThe screening tests for UTI are as follows:\nWet mount examination- It is done to demonstrate pus cells in urine.\nLeukocyte esterase test- It is a rapid and cheaper method and detects leukocyte esterases secreted by pus cells present in urine.\nNitrate reduction test (Griess test)- Nitrate reducing bacteria like E. coli gives a positive result.\nCatalase test- E. coli and other bacteria that produce the enzyme catalase give a positive result. Quantitative Culture:\nStandardized loop technique\nPour plate method"
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "In which of the following organisms will the following phenomenon not be observed in?",
+      "Bacillus anthracis",
+      "Klebsiella pneumoniae",
+      "Neisseria gonorrheae"
+    ],
+    "images": [
+      "Microbiology_img_8.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nCLED (Cysteine lactose electrolyte-deficient) medium is preferred over MacConkey agar for the culture of organisms involved in urinary tract infections because it is less inhibitory and promotes the growth of gram-positive bacteria (except \uf062 hemolytic streptococcus) and candida.\nIt is used as an alternative to the combination of blood agar and MacConkey agar, for the processing of urine specimens.\nCLED medium is not similar to blood agar in the fact that it can prevent swarming of proteus. It is similar to MacConkey agar in that it differentiates between lactose fermenters and\nnon-fermenters.\n [Image Reference: Microbiology_img_43.jpeg, Microbiology_img_477.jpeg]"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "A 32-year-old laborer working at a construction site presented with fever and hemoptysis. The sputum sample collected for examination showed the following. The smear will be stained by which of the following sequences?",
+      "Gentian violet - iodine - alcohol - saffranin",
+      "Methylene blue - malachite green- acetic acid-water",
+      "Methanol-methylene blue-acid-water"
+    ],
+    "images": [
+      "Microbiology_img_9.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "c",
+    "explanation": "\nFrom the given case scenario and image we can deduce that the most likely organism involved is Enterococcus faecalis.\nThe image shows gram-positive cocci in chains, that are described as catalase negative. This helps rule out Staphylocococcus aureus and coagulase-negative staphylococcus.\nStreptococcus viridans is usually sensitive to penicillin and vancomycin hence it is ruled out.\nThe mechanism of vancomycin resistance seen in E. faecalis is the alteration of the D-alanyl\u2013D-alanine chain in the cell wall."
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "Given are a few case scenarios. The etiological agents of which of the following are microaerophilic?",
+      "2 and 5",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nBacillus anthracis which causes anthrax is categorized under category A bioterrorism agent."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "The given image shows a culture medium with lactose fermenting and non-lactose fermenting bacteria. Which of the following is not a component of the culture medium?",
+      "Taurocholate",
+      "Peptone",
+      "Neutral red"
+    ],
+    "images": [
+      "Microbiology_img_10.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nThe above image shows a HbsAg card test kit which works on the principle of immunochromatography.\nThe immunochromatographic membrane is used for antigen detection, while a nitrocellulose membrane is used to absorb the antigen from a specimen. A coloured reaction appears directly on the membrane with the sequential addition of conjugate followed by the substrate. In some cases, the antigen is captured by a bound antibody directed against the antigen. These assays have the advantage of being rapid and also frequently include a built-in internal control."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Which of the following is an enrichment medium?",
+      "B",
+      "C",
+      "A"
+    ],
+    "images": [
+      "Microbiology_img_11.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nThe given clinical scenario and the peripheral smear showing sheathed microfilaria with two nuclei at the tail tip is suggestive of infection with Brugia malayi.\nAcute infection may manifest as acute adenolymphangitis which is characterized by high fever, lymphatic inflammation (lymphangitis and lymphadenitis) and transient local edema. The most commonly affected lymph nodes are inguinal nodes followed by axillary nodes which become enlarged, painful and tender.\nThe following are the characteristic features of microfilaria of Brugia malayi:\nSmaller in size compared to microfilaria of W. bancrofti.\nShows kinks and secondary curves.\nCephalic space is longer.\nCarries double stylets at the anterior end.\nNuclear column appears blurred in Giemsa-stained films.\nTail tip carries 2 distinct nuclei, one terminal and the other subterminal. The below image shows the microfilaria of Brugia malayi.\n [Image Reference: Microbiology_img_41.jpeg, Microbiology_img_463.jpeg]"
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "A microbiologist observes the following growth on a blood agar plate. Which of the following will not be the etiological agent?",
+      "Clostridium tetani",
+      "Corynebacterium diphtheriae",
+      "Proteus mirabilis"
+    ],
+    "images": [
+      "Microbiology_img_12.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "b",
+    "explanation": "\nThe given clinical scenario with a peripheral smear showing sheathed microfilaria with a pointed tail free of nuclei is suggestive of Wuchereria bancrofti. The third stage filariform larva is the infective form.\nWuchereria bancrofti infection is usually asymptomatic. The symptoms are due to obstruction of lymphatics by the filarial stage of adult worms.\nThe lymphatic vessels of the male genitalia are most commonly affected in bancroftian filariasis, producing episodic funiculitis, epididymitis, and orchitis. Adenolymphangitis of the extremities is less common.\nHydrocele is the most common sign of chronic bancroftian filariasis, followed by lymphedema, elephantiasis, and chyluria. The swelling involves the whole leg, the whole arm, the scrotum, the vulva, or the breast.\nDEC provocation test is used to demonstrate microfilaria during the day. The image below shows the life cycle of Wuchereria bancrofti.\n [Image Reference: Microbiology_img_41.jpeg, Microbiology_img_464.jpeg]\nThe image below shows the difference between microfilaria of various filarial nematodes.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_465.jpeg]"
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Bacterial transduction occurs by",
+      "Plasmids",
+      "Sex pili",
+      "Bacteriophage"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "c",
+    "explanation": "\nThe clinical scenario and image showing sclerosing keratitis are suggestive of onchocerchiasis\n(river blindness). The drug of choice is ivermectin.\nIt is caused by Onchocerca volvulus. It is also known as convoluted filaria or blinding filaria.\nThe vector is blackfly (Simulium species) which breed in fast-flowing rivers, and therefore the disease is most common along the course of rivers. Hence, it is also called river blindness.\nThe usual presentation is formation of a subcutaneous nodule or onchocercoma. It is a firm non-tender nodule arising from bony sites like scalp, elbow, ribs, and iliac crest. It is associated with pruritus and rashes.\nThe microfilaria in the eyes cause photophobia and gradual loss of vision. The most severe manifestation is sclerosing keratitis and chorioretinitis which causes blindness. It is the 2nd major infective cause of blindness in the world after trachoma.\nSuramin and diethylcarbamazine (DEC) were used earlier but are not used nowadays. DEC destroys microfilariae but usually causes Mazzotti reaction consisting of pruritus,\nrash, lymphadenopathy, fever, hypotension, and occasionally, eye damage.\nNote: Onchocerciasis is not endemic in India but sporadic cases have been reported from North-Eastern India."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "Which of the following principles is primarily used in polymerase chain reaction?",
+      "Transcription of DNA",
+      "It can amplify small amounts of DNA",
+      "It can amplify small amounts of RNA"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nThe given clinical scenario and the image showing Calabar swelling is suggestive of loiasis caused by Loa loa.\nCalabar swellings are temporary foci of inflammation that appear as Loa loa wanders through the subcutaneous tissues. They are up to 3 cm in size and are also called fugitive swellings because they disappear in a few days only to reappear elsewhere.\nLoa loa is transmitted by the bite of Chrysops species (deerflies). The infective form is the third stage microfilaria. After entry into human skin, it grows into an adult worm.\nThe ocular manifestations occur when the worm reaches the subconjunctival tissue during its wanderings. They include:\nGranuloma in bulbar conjunctiva\nPainless edema of the eyelids\nProptosis.\nThe image below shows Calabar swelling.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_466.jpeg]\nThe image below shows a live, adult Loa loa in the anterior chamber of the eye.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_467.jpeg]"
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "Which of the following describes the reverse transcriptase enzyme used in RT-PCR correctly?",
+      "DNA-dependent RNA polymerase",
+      "RNA-dependent DNA polymerase",
+      "DNA-dependent DNA polymerase"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nTropical pulmonary eosinophilia is also known as Weingarten syndrome.\nTropical eosinophilia occurs as a result of hypersensitivity reaction to microfilarial antigens and not directly due to lymphatic involvement. It is a manifestation of occult filariasis\n(Meyer's-Kouwenaar syndrome).\nClinical features of occult filariasis include massive eosinophilia and hepatosplenomegaly. Synonyms of tropical pulmonary eosinophilia include -\nWeingarten syndrome\nPseudo-tuberculosis of the lung\nEosinophilic pseudo-leukemia\nTropical eosinophilic asthma\nFrimodt-Moller and Barton's syndrome"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "What are jumping genes known as?",
+      "Episomes",
+      "Plasmids",
+      "Transposons"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "c",
+    "explanation": "\nDracunculus medinensis is known as serpent worm. It is a viviparous nematode.\nThis has been eradicated from India and all of the southeast Asian region in the year 2000."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "In which of the following situations will you use a sanitizer?",
+      "A, B &amp; C only",
+      "A &amp; B only",
+      "A, B C &amp; D"
+    ],
+    "images": [],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nApplied Microbiology\nQuestion 1:\nWhile assessing the quality of drinking water in a village, you detect the presence of coliform bacilli by the multiple tube technique. Following this, you decide to perform the Eijkman test. What is this test also known as?\nPresumptive coliform count\nDifferential coliform test\nColony plate count\nMethylene blue reduction test\nQuestion 2:\nFaecal contamination of a water source is suspected by the mayor of a municipal corporation. He asks you to test the water for evidence of recent contamination. The presence of which of the following organisms would suggest this?\nShigella\nEnterococcus\nClostridium\nStaphylococcus\nQuestion 3:\nWhich of the following tests is not used for bacteriological examination of milk?\nMethylene blue reduction test\nPhosphatase test\nResazurin test\nPasteurisation\nQuestion 4:\nThe following image depicts:\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_468.jpeg, Microbiology_img_469.jpeg, Microbiology_img_470.jpeg]\nProduction of monoclonal antibodies\nCell lines for viral culture\nVaccine synthesis\nProcess of genetic engineerin\nQuestion 5:\nWhich of the following statements about hybridoma is false?\nSpecific antibody-producing cells are integrated with myeloma cells.\nMyeloma cells using salvage pathway grow well in HAT medium.\nAminopterin, a folate antagonist, inhibits de novo pathway.\nHGPRTase and thymidylate synthetase are required for salvage pathway.\nQuestion 6:\nWhich of the following is both a diffusion and a dilution method of testing antibiotic sensitivity?\nKirby\u2013Bauer method\nStokes method\nEpsilometer method\nTube dilution method\nQuestion 7:\nIn which of the following is the disc diffusion method for antibiotic susceptibility testing applied?\nAgar dilution method\nKirby-Bauer method\nBroth dilution method\nPCR based assay\nQuestion 8:\nWhich of the following methods of antibiotic susceptibility testing cannot be used to calculate the minimum inhibitory concentration of an antimicrobial drug?\nKirby\u2013Bauer method\nTube dilution method\nAgar dilution method\nEpsilometer method\nQuestion 9:\nA microbiologist is about to run a polymerase chain reaction assay on the serum of a patient suspected to have Q fever. He wishes to quantify the PCR by monitoring the amplification process while the PCR is ongoing. Which of the following types of PCR should he perform?\nMultiplex PCR\nNested PCR\nReverse transcriptase PCR\nReal time PCR\nQuestion 10:\nWhich of the following investigations does not use antibody marking?\nELISA\nRadioimmunoassay\nImmunofluorescence\nHemagglutination Test\nQuestion 11:\nWhich of the following is not used as an immediate test in the screening of urinary tract infections?\nPour plate culture\nGriess Nitrite test\nLeukocyte esterase test\nWet mount examination\nQuestion 12:\nThe CLED medium is preferred over MacConkey agar for the culture of organisms in case of UTI because:\nIt inhibits proteus swarmin\nIt promotes the growth of candida, streptococcus and staphylococcus\nIt differentiates between lactose-fermenting and non-lactose fermenting bacteria\nIt promotes the growth of pseudomonas\nQuestion 13:\nA patient who had been receiving ceftazidime and amikacin via central venous line for a week suddenly spiked a fever. Blood culture is positive for a vancomycin-resistant,\ncatalase-negative organism whose Gram-stained image is given below. Identify the organism.\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_471.jpeg]\nStaphylococcus aureus\nViridans streptococci\nEnterococcus faecalis\nCoagulase-negative staphylococcus\nQuestion 14:\nWhich of the following is a bioterrorism category A agent?\nNipah virus\nAnthrax\nCoxiella\nBrucella\nQuestion 15:\nThe test kit shown in the image below works on the principle of:\n [Image Reference: Microbiology_img_42.jpeg, Microbiology_img_472.jpeg]\nELISA\nImmunochromatography\nImmunofluroscence\nChemiluminiscence\nAnswer Key"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "An orthopedician is performing the following procedure to visualize the anterior cruciate ligament in a patient. Which of the following will be used to sterilise the instrument used?",
+      "Ethylene oxide",
+      "Gamma rays",
+      "Hydrogen peroxide"
+    ],
+    "images": [
+      "Microbiology_img_13.jpeg"
+    ],
+    "subject": "Microbiology",
+    "correct_option": "a",
+    "explanation": "\nThe rapid dipstick test is the method of choice for the diagnosis of kala-azar. The following tests are used for the laboratory diagnosis of kala-azar:\nRapid diagnostic tests - rK39 and dipstick test strip.\nParasitological diagnosis - demonstration of LD bodies on microscopy is confirmatory\nSurveillance purposes - Aldehyde test of Napier\nSerological diagnosis - Rapid dipstick test, direct agglutination test, ELISA, indirect fluorescent antibody test\nAssessing immune status - Leishmanin (Montenegro) test\nInduration of \uf0b3 5 mm is considered positive\nUsually becomes positive 4-6 weeks after onset of cutaneous leishmaniasis\nProtozoology - Sporozoa\nQuestion 1:\nA 55-year-old man comes with complaints of fever and increasing fatigue for the past week. On examination, he is febrile, hypotensive and tachycardic. The findings of microscopic examination of his peripheral blood smear is given below. What is the causative agent?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_397.jpeg]\nPlasmodium vivax\nPlasmodium falciparum\nPlasmodium ovale\nPlasmodium malariae\nQuestion 2:\nDuring your rural posting, a patient presents with a high fever and chills. Malaria is endemic in the area so you order a peripheral smear. While examining the peripheral blood smear, you note that the schizont stage is not seen. Which of the following organisms is implicated here?\nPlasmodium vivax\nPlasmodium malariae\nPlasmodium falciparum\nPlasmodium ovale\nQuestion 3:\nWhich of the following Plasmodium spp. has the longest incubation period?\nPlasmodium vivax\nPlasmodium falciparum\nPlasmodium malariae\nPlasmodium ovale\nQuestion 4:\nWhich of the following Plasmodium spp. mainly affects the old RBCs?\nPlasmodium vivax\nPlasmodium falciparum\nPlasmodium malariae\nPlasmodium ovale\nQuestion 5:\nA microbiologist is examining the slide shown in the following image under the microscope. Which of the following is false regarding this?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_398.jpeg]\n'B' is used for determining the species\n'B' is more sensitive than 'A'\n'A' is air dried rapidly and stained with one of the Romanowsky stains\nFor 'B' to be considered negative, at least 200 oil immersion fields should be examine\nQuestion 6:\nA 15-year-old boy presents to the OPD with high-grade fever, chills, and rigors for the past 3 days. A peripheral blood smear revealed the following. Which of the following is false regarding the diagnostic methods used to detect the condition he is likely suffering from?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_399.jpeg]\nJaswant Singh Bhattacharya stain is used for peripheral smear examination\nHRP-2 antigen test is done for detection of P.vivax\nAcridine orange dye is used in quantitative buffy coat metho\nRapid diagnostic tests have lesser sensitivity than microscopy\nQuestion 7:\nA 50-year-old man with a 5-day history of fever is brought to the casualty by his son after an episode of seizures. He is diagnosed with malignant tertian malaria. Which of the following complications will you not expect to see in this patient?\nHypoglycemia\nAcute renal failure\nPulmonary edema\nMetabolic alkalosis\nQuestion 8:\nA 24-year-old patient presents with a high-grade fever, headache, and weakness for 5 days. He gives a history of blood transfusion 4 months back. The microscopic examination of the thin blood smear is given below. What is the most probable causative agent?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_400.jpeg]\nPlasmodium knowlesi\nBabesia microti\nPlasmodium falciparum\nPlasmodium malariae\nQuestion 9:\nSabin-Feldman dye test is used for diagnosis of which of the following condition?\nParagonimiasis\nHydatid cyst\nToxoplasmosis\nCryptococcus\nQuestion 10:\nWhich of the following statements is true regarding Toxoplasma gondii?\nHumans are the definitive host\nOocysts are formed within the intermediate host\nThe tachyzoites inside the tissue cyst can be reactivated on immunosuppression\nHuman toxoplasmosis is a zoonosis\nQuestion 11:\nAn HIV positive pregnant woman was brought to the ER after an episode of generalized tonic-clonic seizures. CECT was done which showed multiple enhancing lesions. A stereotactic biopsy of the cerebral lesions was done and the image is given below. Which of the following is the most appropriate drug for her treatment?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_401.jpeg]\nTrimethoprim\nSulfadadiazine\nSpiramycin\nAlbendazole\nQuestion 12:\nA Kinyoun-positive oocyst (25 \uf06dm) isolated from an HIV patient with diarrhea is shown in the image. What is the likely organism implicated here?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_402.jpeg]\nCystoisospora\nCyclospora\nCryptosporidium\nMicrospora\nQuestion 13:\nA patient who underwent a renal transplant 3 months ago came with complaints of diarrhea for the last 9 days. The stool sample subjected to Kinyoun staining revealed 4-6 \u00b5m structures as shown below. Which of the following is true about the causative organism?\n [Image Reference: Microbiology_img_35.jpeg, Microbiology_img_403.jpeg]\nIt does not shows autoinfection\nIt is an obligate intracellular organism\nOocysts are immediately infective after being excreted in stool\nMetronidazole is the drug of choice\nQuestion 14:\nMatch the following:\nA-2, B-1, C-3, D-4\nA-3, B-2, C-1, D-4\nA-4, B-1, C-2, D-3\nA-1, B-2, C-4, D-3\nAnswer Key"
+  }
+]

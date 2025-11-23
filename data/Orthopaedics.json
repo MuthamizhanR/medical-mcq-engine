@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Which of the following is a pathognomonic sign of a long bone fracture?",
+      "Pain on movement",
+      "Swelling",
+      "Deformity"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "a",
+    "explanation": "\nThe test shown in the image is the anterior drawer test. This is done to detect injuries to the anterior cruciate ligament (ACL).\nThe patient is made to lie supine on the examining table. The hip is flexed to 45\u00b0 and the knee is flexed to 90\u00b0 with the foot flat on the examination table. The upper end of the tibia is held in both hands and is gently pulled anteriorly. Increased displacement compared to the normal knee indicates injury to the ACL.\nLachman test is also done to detect injuries to the anterior cruciate ligament. Here the leg is in slight external rotation and the knee is in a mid-flexed to 20\u00b0 position. One hand is placed to stabilize the femur, while another hand applies the anterior force to the proximal tibia, as shown below.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_586.png]\nApley's grinding test and McMurray's test are done to detect meniscal injuries."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Match the following type of fractures with their associated mechanism of force.",
+      "1-a, 2-d, 3-c, 4-b",
+      "1-c, 2-a, 3-d, 4-b",
+      "1-b, 2-c, 3-a, 4-d"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "c",
+    "explanation": "\nThe above clinical scenario points to a diagnosis of anterior cruciate ligament injury. Lachman test is preferred in a swollen and acutely painful knee.\nThe anterior drawer test is not preferred in a painful knee, as it may not be possible to carry out the test in the conventional 90\u00b0 flexed position.\nLachman test: The leg is kept in slight external rotation and the knee is in a position between flexion and extension. One hand is placed to stabilize the femur, while another hand applies the anterior force to the proximal tibia, as shown below.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_587.png]\nThe ACL is an intraarticular extra-synovial structure. Hence patients with an ACL injury can present with hemarthrosis. It is attached to the intercondylar area of the tibia, therefore intercondylar tibial fractures can lead to ACL injury."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "An elderly woman was brought to the OPD after she slipped and fell from her chair. She is a known case of breast cancer with distant metastasis. The X-ray of the patient is given below. Which of the following statements is false regarding this type of fracture?",
+      "It occurs in abnormal bones",
+      "Mirels\u2019 score is used to assess the risk of fracture",
+      "FDG-PET or CT is the gold standard in evaluating bony metastasis"
+    ],
+    "images": [
+      "Orthopaedics_img_1.jpeg",
+      "Orthopaedics_img_2.jpeg",
+      "Orthopaedics_img_3.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "b",
+    "explanation": "\nO\u2019 Donoghue triad refers to the injury of:\nAnterior cruciate ligament (ACL)\nMedial (tibial) collateral ligament (MCL)\nMedial meniscus"
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "All of the following conditions can cause a pathological fracture, except:",
+      "Gaucher\u2019s disease",
+      "Osteogenesis imperfecta",
+      "Hyperparathyroidism"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "c",
+    "explanation": "\nThe given clinical scenario and a positive McMurray's test indicate a meniscal injury.\nIn this test, the patient is made to lie in the supine position and the knee is completely flexed. One hand is used to stabilize and palpate the knee joint, while the other hand is used to internally or externally rotate the leg, depending on which meniscus is to be tested. The leg is then slowly extended. Any palpable or audible click indicates injury to the menisci.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_588.jpeg]\nOther tests used to detect meniscal injury include:\nApley's grinding test\nThessaly test\nSquat test\nEge's test\nJoint line tenderness test\nApley's test: In this test, the patient is made to lie in the prone position. The knee is flexed to 90\u00ba and rotated while a compression force is applied, which is called the grinding test. The reproduction of symptoms indicates a torn meniscus. The distraction test involves repeated rotation while the leg is pulled upwards by the examiner, holding the thigh down. This produces increased pain only if there is ligament damage.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_589.jpeg]\nThessaly test: With the affected knee flexed to 20\u00ba and the foot placed flat on the ground, the patient bears his full weight on that leg while being supported by the examiner. The patient is then asked to twist his or her body to one side and then to the other three times. This test has shown a high diagnostic accuracy rate (95%) in detecting meniscal tears.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_590.jpeg]"
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "You are working as a medical officer in the Indian army. An army recruit presents to you with complaints of pain in the right foot. He joined his training 6 months back. His X-ray is given below. What is the most likely diagnosis?",
+      "Pathological fracture",
+      "March fracture",
+      "Runner's fracture"
+    ],
+    "images": [
+      "Orthopaedics_img_4.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "b",
+    "explanation": "\nMeniscal injury is mainly caused by rotational force on a partially flexed knee.\nThe rotational forces at the knee compress and rotate the menisci anteriorly or posteriorly, causing a tear. The medial meniscus is less mobile than the lateral meniscus and hence is more prone to injury."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "In which of the following conditions does the bone heal by increased callus formation?",
+      "Necrosis of bone ends",
+      "Rigid fracture fixation",
+      "Compression plating"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "d",
+    "explanation": "\nMedial collateral ligament injury does not lead to hemarthrosis, as it is an extra-articular structure.\nThe cruciate ligaments and menisci are intra-articular structures and hence their injury leads to hemarthroses."
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "A teenager is brought to the casualty after sustaining a wrist injury during a sports meet. His X-ray is given below. The orthopedic surgeon tries to reduce the fracture fragments by using traction on soft tissues around the bones. What is this technique known as?",
+      "Callotaxis",
+      "Ligamentotaxis",
+      "Distraction osteogenesis"
+    ],
+    "images": [
+      "Orthopaedics_img_5.jpeg",
+      "Orthopaedics_img_6.jpeg",
+      "Orthopaedics_img_7.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "b",
+    "explanation": "\nIn a patient with an injury to the tibial (medial) collateral ligament, the abduction or valgus stress test would be positive.\nThe abduction or valgus stress test is done as follows:\nThe patient is made to lie in the supine position.\nOne hand of the examiner is placed on the lateral aspect of the knee for support.\nThe other hand is placed over the ankle.\nGentle abduction or valgus stress is applied to the knee while the hand at the ankle externall rotates the leg slightly, and the knee is flexed to 30\u00b0.\nThe test is said to be positive when pain is reproduced, or there is excessive gapping at the medial joint. The below image shows the abduction or valgus stress test.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_591.jpeg, Orthopaedics_img_592.jpeg, Orthopaedics_img_593.jpeg]\nAdduction or varus stress test is positive in patients with a lateral collateral ligament injury.\nDial test is used to assess the posterolateral instability. This occurs when there is damage to the lateral collateral ligament, popliteofibular ligament, and popliteus tendon."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Hanging cast is used to treat which of the following?",
+      "Olecranon fracture",
+      "Malgaigne's fracture",
+      "Humerus shaft fracture"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "d",
+    "explanation": "\nPatella baja is an abnormally low-lying patella and is not responsible for recurrent dislocation of the patella.\nCauses for recurrent dislocation of the patella include:\nExcessive joint laxity as in connective tissue disorders like EDS, Marfan's syndrome\nPatella alta - the patella is high-lying in the shallow part of the inter-condylar groove\nTrochlear dysplasia\nSmall patella\nGenu valgum\nGiven below is a lateral radiograph of the knee joint showing the Insall-Salvati index. This is the ratio of the patella tendon length (LT) to the length of the patella (LP).\nIn patients with high-lying patella, the ratio is above 1.2. This is known as patella alta.\nIn patients with low-lying patella, the ratio is below 0.8. This is known as patella baja.\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_594.jpeg]"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "A cast was applied to a patient with a wrist injury as shown below. What is this cast known as?",
+      "Colles cast",
+      "Scaphoid cast",
+      "Bachelor cast"
+    ],
+    "images": [
+      "Orthopaedics_img_8.jpeg",
+      "Orthopaedics_img_9.jpeg",
+      "Orthopaedics_img_10.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "c",
+    "explanation": "\nThe presence of swelling around the medial malleolus and increased medial joint space on radiography indicates injury to the deltoid ligament.\nThe deltoid ligament is present on the medial side of the ankle joint and the fibers are attached to the medial malleolus. Hence injury to it can lead to the widening of the medial joint space, best\nvisualized on the mortise view of an ankle radiograph.\nThe below image shows the attachment of the deltoid ligament.\n [Image Reference: Orthopaedics_img_1.jpeg, Orthopaedics_img_55.jpeg, Orthopaedics_img_595.jpeg]"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Which of the following statements are true about open fractures?",
+      "1 and 2",
+      "1 and 4",
+      "2 and 4"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "c",
+    "explanation": "\nThe above clinical scenario and positive Thompson's test point to a diagnosis of Achilles tendon rupture.\nAchilles tendon rupture is usually seen in those playing sports like squash, badminton, and football. The pain is acute and the patient can feel a ripping or popping sensation at the back of the heel. The patient would be unable to plantarflex the affected foot.\nIn Thompson's test, the patient lies prone with his foot over the end of the examination table. The examiner squeezes the calf muscles, specifically the gastrocnemius-soleus complex, with his hand. This should normally cause contraction of the Achilles tendon, resulting in plantar flexion. If the Achilles tendon is completely ruptured, plantar flexion would be absent.\nAchilles tendinitis is usually seen in athletes, joggers, and hikers. It is caused due to the local irritation of the tendon sheath. Patients present with gradually progressive pain over the Achilles tendon. On examination, there may be thickening of the tendon with inflammation over the affected area.\nUltrasound may be needed to exclude tendon tear or rupture. It is usually treated by physiotherapy."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "A 40-year-old man presents with a fracture of the right tibia following an RTA. On examination, the wound is highly contaminated and appears as shown below. His distal pulses are felt well. According to the Gustilo-Anderson classification, this injury would be classified as type:",
+      "II",
+      "IIIA",
+      "IIIB"
+    ],
+    "images": [
+      "Orthopaedics_img_11.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "d",
+    "explanation": "\nIn MIPO (minimally invasive plate osteosynthesis) technique, soft tissue damage is minimal.\nMIPO is a type of bridge plating or biological fixation (option C). Here, the plate is fixed proximally and distally and the central fracture area is rendered untouched. Hence, fracture hematoma and soft tissue damage are minimised.\nOption A: Gallow's traction, hip spica and Russel traction are measures commonly used in children. But Russell's traction can also be used in adults as a first-aid measure.\nOption B: Metaphyseal fractures or fractures extending intra-articularly are the only indications for primary plating."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "You are the intern on duty and you receive patients who have been in a road traffic accident. For which of the following patients will you urgently call the orthopaedic resident on call?",
+      "Patient with recurrent shoulder dislocation",
+      "Patient with a fractured arm with capillary refill time of less than 3 seconds in his fingers",
+      "Patient with a fractures arm with a 10 cm long incision over the arm"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows Thompson's prosthesis.\nThompson prosthesis is used in hemiarthroplasty to replace the head of the femur. It is specially indicated in cases where the neck of the femur is absorbed. It can be used with or without cement.\nThompson prosthesis has no fenestrations. Austin-Moore prosthesis contains two fenestrations in the stem which are for the growth of bone as shown in the images below.\n [Image Reference: Orthopaedics_img_53.jpeg, Orthopaedics_img_577.jpeg, Orthopaedics_img_578.jpeg, Orthopaedics_img_579.jpeg]\n [Image Reference: Orthopaedics_img_53.jpeg, Orthopaedics_img_580.jpeg]"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "An industrial worker was rushed to casualty after he accidentally got his leg stuck in a machine. On examination, he was found to have an open fracture as shown below. He was urgently taken up for wound debridement and was considered for primary closure. It can be performed in all of the following conditions, except:",
+      "If injury to debridement interval &lt; 12 hours",
+      "Capillary refilling time of 2 seconds",
+      "Impaired nerve supply"
+    ],
+    "images": [
+      "Orthopaedics_img_12.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "d",
+    "explanation": "\nPatients with metal on metal implants have high levels of cobalt and chromium in serum, erythrocytes, and urine.\nHigh carbon cobalt-chromium alloy carbides are 5 times harder than the metal matrix and have lower wear rates.\nImpaired renal function leads to increased accumulation of cobalt and chromium compounds in the blood and hence, contraindicated in patients with renal failure. They are also transported through the placenta, hence they are not used in women of childbearing age."
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "In which of the following fractures is surgical management necessary for optimum functional results?",
+      "Clavicle fracture",
+      "Distal radius fracture",
+      "Fibula fracture"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "d",
+    "explanation": "\nPreoperative radiation is effective in preventing heterotopic bone formation after hip arthroplasty. Risk factors for heterotopic bone formation after hip arthroplasty are:\nPosttraumatic arthritis\nHypertrophic arthritis\nDiffuse idiopathic skeletal hyperostosis\nPaget's disease\nAnkylosing spondylitis\nHistory of heterotopic bone formation in either hip\nHeterotopic bone formation around the hip is seen in about 20% of patients 5 years after joint replacement. Treatment consists of NSAIDs for 3\u20136 weeks post-operatively or a single dose of radiation."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "All of the following are common indications for the procedure shown below, except:",
+      "Burns over the fracture site",
+      "Type 1 open fracture",
+      "Type 3 open fracture"
+    ],
+    "images": [
+      "Orthopaedics_img_13.jpeg",
+      "Orthopaedics_img_14.jpeg",
+      "Orthopaedics_img_15.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "c",
+    "explanation": "\nIn uncemented arthroplasty, hydroxyapatite increases the formation of new bone.\nUncemented arthroplasty is preferred in younger patients. Prosthesis contains pores or mesh on the surface to enhance bone growth. The prosthesis stem remains attached to the bone by bone ingrowth."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "A 25-year-old patient underwent external fixation after sustaining a femur fracture. On follow-up, he was noted to have developed a pin-tract infection. He did not respond to antibiotics. On performing radiograph, what kind of sequestrum are you most likely to see in this patient?",
+      "Button-hole sequestrum",
+      "Black",
+      "Tubular"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "b",
+    "explanation": "\nIn patellar clunk syndrome, the scar tissue which is formed at the superior pole of the patella becomes impinged during knee extension.\nPatellar clunk syndrome is seen after posterior-stabilized knee arthroplasty. A fibrous nodule forms on the posterior surface of the quadriceps tendon just above the superior pole of the patella. This can become entrapped in the intercondylar notch of the femoral prosthesis and cause the knee to \"clunk\" at 30- 45 degrees to the femoral axis while the patient actively extends the knee.\nThe recommended treatment is arthroscopic debridement of the nodule."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "A 20-year-old patient presents to the OPD with complaints of limping. He gives a history of fracture a few months back. On examination, his left leg is shorter than his right leg. He undergoes the following procedure. Identify the incorrect statement regarding this procedure.",
+      "Distraction is done at a rate of 1 mm per day.",
+      "It is based on the principle of callotaxis.",
+      "It is contraindicated in the presence of osteomyelitis."
+    ],
+    "images": [
+      "Orthopaedics_img_16.jpeg"
+    ],
+    "subject": "Orthopaedics",
+    "correct_option": "a",
+    "explanation": "\nDegloving is the avulsion of skin and subcutaneous fat from the underlying fascia, muscle or bone.\nDegloving injuries can be open or closed. An example of open degloving injury is finger avulsion injury with loss of skin. Closed degloving injuries result from shearing forces (e.g. motor vehicle collisions).\nThe extent of degloving injuries are often underappreciated and much of the skin may be\nnon-viable. Disruption of perforating vascular and lymphatic vessels may result in a characteristic haemolymphatic collection between the fascial planes called a Morel-Lavall\u00e9e lesion.\nPatterns of degloving injury:\nLimited degloving with abrasion or avulsion\nNon-circumferential degloving\nCircumferential single plane degloving\nCircumferential multiplanar degloving\nAssessing the viability of degloved tissue can be difficult and may therefore require more than one surgical exploration and debridement before definitive reconstruction. Non-viable skin may show fixed staining and thrombosis of subcutaneous veins. Most surgeons serially excise the degloved skin until punctate dermal bleeding is seen from viable tissue.\nIntravenous fluorescein can help in delineating non-viable tissue, but it requires specialist equipment and there is a small risk of anaphylaxis. Indocyanine green has been found to have less\nrisk of allergy.\nOpen degloving injuries are managed by reattaching the viable skin and grafting. Closed degloving injuries are managed by draining the accumulated fluid, removing the dead tissue and sclerotherapy. For severe, multiplanar degloving, amputation is done.\nThe given image below shows a degloving injury of the lower limb:\n [Image Reference: Orthopaedics_img_53.jpeg, Orthopaedics_img_581.jpeg]"
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "A patient undergoes bone grafting after losing a bone segment due to an open fracture. Which of the following is the best material that can be used to fill the defect?",
+      "Freeze dried allograft",
+      "rhBMP-7",
+      "Calcium phosphate"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "a",
+    "explanation": "\nThe given image shows ankle-foot orthosis (foot drop brace) which is commonly used in foot drop. Foot drop occurs due to common peroneal nerve injury."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "A polytrauma patient with femur fracture and massive hemorrhage presents to the emergency department after a road traffic accident. Which of the following is not an immediate treatment consideration in this patient?",
+      "Administration of IV crystalloids",
+      "Administration of tranexamic acid",
+      "Check coagulation with thromboelastography"
+    ],
+    "images": [],
+    "subject": "Orthopaedics",
+    "correct_option": "c",
+    "explanation": "\nThe technique of plaster cast wedging involves the plaster cast being cut circumferentially at the level of fracture and not above the level of the fracture.\nIn certain situations, after the fracture is reduced and the plaster applied, a check x-ray may show some angulation. The angulation is corrected by forcing open a cut on the concave side of the angulation and the plaster is reinforced with extra bandages.\n [Image Reference: Orthopaedics_img_53.jpeg, Orthopaedics_img_582.jpeg]\nSports Injury\nQuestion 1:\nYou notice your senior resident performing the following test in a patient with an acute painful knee. Identify the test.\n [Image Reference: Orthopaedics_img_53.jpeg, Orthopaedics_img_583.jpeg]\nAnterior drawer test\nMcMurray's test\nLachman test\nApley's test\nQuestion 2:\nA young footballer is brought to the OPD by his teammates. He says that while tackling his opponent, he had heard a sudden 'pop' followed by severe pain in his right knee. On examination, the joint appears slightly swollen. Which of the following statements is false about his injury?\nIt is a component of the O' Donoghue triad\nIt can lead to hemarthrosis\nAnterior drawer test is preferred for evaluation\nIntercondylar fractures of tibia can lead to this injur\nQuestion 3:\nThe unhappy triad of O'Donoghue refers to :\nDamage to medial meniscus, LCL, and PCL\nDamage to medial meniscus, ACL, and MCL\nDamage to lateral meniscus, ACL, and MCL\nDamage to lateral meniscus, LCL, and PCL\nQuestion 4:\nA 26-year old athlete presented with sudden pain in her right knee after performing a heavy deadlift. On examination of the joint, swelling is present and McMurray's test is positive.\nray appears normal. Which of the following structures is likely to be injured?\nAnterior cruciate ligament\nPosterior cruciate ligament\nMenisci\nCollateral ligaments\nQuestion 5:\nWhat is the most likely mechanism of injury in a patient with a meniscal tear?\nHyperextension force\nRotational force\nValgus force\nVarus force\nQuestion 6:\nA young man presented to your OPD with pain and swelling over the right knee following a traumatic injury. Aspiration of the joint revealed hemarthrosis. Injury to which of the following structures would not have led to this presentation?\nLateral meniscus\nAnterior cruciate ligament\nPosterior cruciate ligament\nMedial collateral ligament\nQuestion 7:\nWhich of the following tests would be positive in a patient suspected to have tibial collateral ligament injury?\nDial test\nAbduction stress test\nAdduction stress test\nLachman test\nQuestion 8:\nA patient presented with complaints of recurrent patellar dislocation. Which of the following would not be a cause for this condition?\nExcessive joint laxit\nSmall patella\nPatella alta\nPatella baja\nQuestion 9:\nA 22-year-old ballerina presented with severe pain following an injury to her right ankle while practicing a pirouette. On examination, tenderness and swelling were noted around the medial malleolus. X-ray showed the following finding. What is the structure most likely to be injured in this patient?\n [Image Reference: Orthopaedics_img_53.jpeg, Orthopaedics_img_584.png]\nAnterior talofibular ligament\nSpring ligament\nDeltoid ligament\nTalonavicular ligament\nQuestion 10:\nA 30-year-old squash player came limping to your OPD with pain and swelling above his left heel, as shown below. On examination, Thompson's test was also positive. What is the most likely diagnosis?\n [Image Reference: Orthopaedics_img_54.jpeg, Orthopaedics_img_585.jpeg]\nAnterior talofibular ligament injur\nCalcaneal spur\nAchilles tendon rupture\nAchilles tendinitis\nAnswer Key"
+  }
+]

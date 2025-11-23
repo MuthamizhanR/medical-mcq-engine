@@ -1,0 +1,214 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Which embryological structure gives rise to the pinna?",
+      "1st branchial arch",
+      "2nd branchial arch",
+      "1st and 2nd branchial arch"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "a",
+    "explanation": "\nThe above image shows Mollison\u2019s mastoid retractor. It is used in mastoidectomy procedures to retract soft tissues after incision and elevation of flaps. It is self-retaining and hemostatic.\nShown below is Jansen\u2019s self-retaining mastoid retractor.\n [Image Reference: ENT_img_26.jpeg, ENT_img_306.jpeg]"
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "A patient is incidentally noted to have the following finding. It is also present on the other ear. Which of the following is the cause for such abnormality?",
+      "Persistent opening of first branchial cleft",
+      "Improper fusion of auricular tubercle",
+      "Infection of haematoma of pinna"
+    ],
+    "images": [
+      "ENT_img_2.jpeg"
+    ],
+    "subject": "ENT",
+    "correct_option": "c",
+    "explanation": "\nThe given instrument with an arrowed blade and angled shank is a myringotome. It is used for myringotomy."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "When are reconstructive surgeries for congenital malformations of pinna usually performed?",
+      "Soon after birth",
+      "Within 1 year of age",
+      "5 or 6 years of age"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "d",
+    "explanation": "\nLempert\u2019s trocar does not exist.\nOption A: Lempert\u2019s curette (scoop) is used for removal of bony septa and granulations in mastoid surgery.\n [Image Reference: ENT_img_26.jpeg, ENT_img_307.jpeg]\nOption B: Lempert\u2019s endaural retractor is used for endaural approach to ear surgery. It has two lateral blades which retract the flaps and a third central blade with holes. The central blade retracts the temporalis muscle. The central blade can be fixed to the body of the retractor by its hole.\n [Image Reference: ENT_img_26.jpeg, ENT_img_308.jpeg]\nOption C: Lempert\u2019s endaural speculum is used to spread open the meatus when giving the local injection or making an endaural incision.\n [Image Reference: ENT_img_26.jpeg, ENT_img_309.jpeg]\nLempert\u2019s incision is used in endaural approach. It consists of two parts:\nLempert I: It is a semicircular incision, made from 12 o\u2019clock to 6 o\u2019clock position in the posterior meatal wall at the bony-cartilaginous junction.\nLempert II: Starts from the first incision at 12 o\u2019clock and then passes upwards in a curvilinear fashion between tragus and the crus of helix. It passes through the incisura terminalis and thus does not cut the cartilage.\nBoth mastoid and external canal surgery can be done.\n [Image Reference: ENT_img_26.jpeg, ENT_img_310.jpeg]"
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Invagination of which of the following structures will form the external auditory meatus?",
+      "First pharyngeal arch",
+      "First pharyngeal pouch",
+      "Second branchial cleft"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "a",
+    "explanation": "\nThe above image is a MacEwen\u2019s curette and cell seeker. During mastoid surgeries, one end is used to explore the air cells and the other end is used to curette the intervening septa and\ngranulations.\nNote: MacEwan\u2019s (suprameatal) triangle is an important landmark to locate the mastoid antrum in mastoid surgery. It is bounded by-\nTemporal line\nThe posterosuperior segment of the bony external auditory canal\nThe line drawn as a tangent to the external canal"
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "Examination of a child with otorrhea revealed two discharging sinuses. One was present on the floor of the left external auditory canal and the other on the left neck just below the angle of the mandible. Which of the following structures is abnormal here?",
+      "First branchial cleft",
+      "First branchial pouch",
+      "Second branchial cleft"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "a",
+    "explanation": "\nThe image shows Luc\u2019s forceps. It is not used in FESS. Luc\u2019s forceps is used in:\nCaldwell- Luc operation - to remove mucosa\nSubmucosal resection- to remove bone or cartilage\nPolypectomy- to grasp and avulse polyps\nTo take a biopsy from the nose or throat"
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Which of the following structure develops from all three germ layers?",
+      "Tympanic membrane",
+      "Pinna",
+      "Ear ossicles"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "a",
+    "explanation": "\nThe image is of a Ballenger swivel knife. It is used in the removal of septal cartilage in SMR\n(Submucosal resection) operation.\nThe blade of the knife revolves automatically and changes direction when cutting the cartilage anteroposteriorly downwards and posteroanteriorly. Different sizes of blades are present. It can be used to harvest septal cartilage as a graft for reconstruction.\n [Image Reference: ENT_img_26.jpeg, ENT_img_311.jpeg]"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Which of the structures given below forms the eustachian tube?",
+      "1st pharyngeal pouch",
+      "1st and 2nd pharyngeal cleft",
+      "2nd pharyngeal pouch"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "a",
+    "explanation": "\nThe procedure is proof puncture (antral lavage) which uses Tilley-Lichwitz trocar and cannula. They are used for the puncture of the lateral wall of the inferior meatus at a point 1.5-2.0cm from the anterior end of the inferior turbinate, near the attachment of concha with the lateral wall.\nTilley\u2013Lichtwiz trocar and cannula:\n [Image Reference: ENT_img_26.jpeg, ENT_img_312.jpeg]"
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Which of the following pharyngeal arches gives rise to malleus and incus?",
+      "First arch",
+      "Second arch",
+      "Third arch"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "c",
+    "explanation": "\nThe instrument is Rose\u2019s sinus douching cannula. It is used in irrigation of the maxillary sinus, which should already have a nasoantral window due to intranasal antrostomy or Caldwell Luc operation. The direction of the tip is indicated by the hook outside.\nNote:\nTrephination (also known as trepanning or burr holing) is a surgical intervention where a hole is drilled, incised or scraped into the skull using simple surgical tools. Trephination of frontal sinus is done for acute frontal sinusitis if there is persistence or exacerbation of pain or pyrexia in spite of medical treatment for 48 h or if the lid swelling is increasing and threatening orbital cellulitis."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Which of the following arches gives rise to the stapes?",
+      "First arch",
+      "Second arch",
+      "Third arch"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "a",
+    "explanation": "\nThe image is of a Digital audiometer.\nAn audiometer is an electronic device that produces pure tones, which can be increased or decreased in 5 dB steps. The amount of intensity that has to be raised above the normal level is a measure of the degree of hearing loss at that frequency. This is charted in the form of a graph\ncalled an audiogram.\nThe difference in the thresholds of air and bone conduction (A\u2013B gap) is a measure of the degree of conductive deafness.\nUses:\nTo measure the threshold of hearing of air and bone conduction\nHelps to predict speech reception threshold\nTo diagnose the type of hearing loss and measure the degree\nFor the prescription of hearing aids\nHelps to find the degree of handicap for medicolegal purposes\nA record can be kept for future reference."
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Which of the following attains adult size before birth?",
+      "Ear ossicles",
+      "Mastoid",
+      "Orbit"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "b",
+    "explanation": "\nThe image is of a tympanometer. It is used in evaluating the status of the middle ear.\nIt is based on a simple principle that when a sound strikes the tympanic membrane, some of the sound energy is absorbed while the rest is reflected. A stiffer tympanic membrane would reflect more sound energy than a compliant one.\nBy charting the compliance of the tympano-ossicular system against various pressure changes, different types of graphs called tympanograms are as follows:\n [Image Reference: ENT_img_26.jpeg, ENT_img_313.jpeg]"
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Which of the following does not reach adult size at birth?",
+      "Ear ossicles",
+      "Mastoid",
+      "Tympanic membrane"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "d",
+    "explanation": "\nTumour limited to both vocal cords with normal mobility can be classified as stage T1b. Treatment will include radiotherapy or transoral laser microsurgery. There is no indication for a total laryngectomy.\nTotal laryngectomy is indicated in:\nAll T4 lesions\nInvasion of thyroid or cricoid cartilage\nBilateral arytenoid cartilage involvement\nLesions of the posterior commissure\nFailure after radiotherapy or conservation surgery\nTransglottic cancers with cord fixation.\nIt is contraindicated in patients with distant metastasis.\nTreatment of T3 cancers is controversial, open vertical hemilaryngectomy and more\nextensive partial laryngectomies are used in carefully selected cases. Total laryngectomy or CRT is recommended for bulky T3 tumors or tumors not suitable for conservation laryngeal surgery."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "An ENT surgeon has difficulty locating the mastoid antrum due to the presence of Korner's septum. Which of the following sutures is persistent in this case?",
+      "Frontozygomatic suture",
+      "Petrosquamous suture",
+      "Temporosquamous suture"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "b",
+    "explanation": "\nAmong the given options, a patient with tumor limited to one cord, with normal mobility will be advised for transoral laser microsurgery as the first choice. TNM staging in this patient is T1a.\nOption A: TNM staging here is T2b and the patient is advised for chemoradiotherapy as the first choice.\nOption C: TNM staging here is T4a and the patient is advised for total laryngectomy as the first choice.\nOption D: TNM staging here is T3 and the patient is advised for chemoradiotherapy as the first choice.\nTNM classification of glottic carcinoma (American Joint Committee on Cancer, 2002) Treatment of laryngeal cancers:\nTLM: Transoral laser microsurgery; RT: Radiotherapy; OPL: Open partial laryngectomy; CT: Chemotherapy; CRT: Chemoradiotherapy, TL: Total laryngectomy."
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "From which of the following structure does the saccule develop?",
+      "Saculus anterior",
+      "Saculus posterior",
+      "Pars superior"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "d",
+    "explanation": "\nLaryngeal carcinoma is an indication of high tracheostomy. It is done at the level of the 1st tracheal ring and an opening is made above the isthmus of the thyroid gland.\nThe disadvantage of a high tracheostomy is subglottic stenosis at the level of the cricoid and perichondritis of the cricoid. However, in laryngeal carcinoma this would be a temporary measure as the definitive management is total laryngectomy.\nTracheostomy involves making an opening and placing a stoma in the anterior wall of the trachea.\nFunctions:\nProvides an alternative pathway for breathing by bypassing the obstruction.\nImproves alveolar ventilation by reducing dead space by 30-50% and reducing airway resistance\nUses a cuff to protect the airways from secretions and blood\nAllows suction of secretions in the setting of the impaired cough reflex.\nAllows positive pressure respiration\nAllows administration of anesthesia Indications:\nRespiratory obstruction due to\nInfections (laryngo-tracheo-bronchitis, epiglottitis)\nTrauma due to external injury, mandibular or maxillofacial fractures\nNeoplasms\nForeign bodies or edema\nBilateral abductor paralysis\nCongenital anomalies\nRetained secretions\nInability to cough due to coma, spasm, or paralysis of respiratory muscles\nAspiration of pharyngeal secretions\nPainful cough\nRespiratory insufficiency due to emphysema, chronic bronchitis\nInstruments\nQuestion 1:\nA surgeon is to perform a mastoidectomy procedure for a patient with CSOM. He uses the following instrument during the procedure. What is the name of the given instrument?\n [Image Reference: ENT_img_25.jpeg, ENT_img_295.jpeg]\nMollison\u2019s mastoid retractor\nLempert\u2019s endaural retractor\nMyringotome\nJansen\u2019s self-retaining mastoid retractor\nQuestion 2:\nThe following instrument is used for:\n [Image Reference: ENT_img_25.jpeg, ENT_img_296.jpeg]\nSeptoplasty\nMyringoplasty\nMyringotomy\nAdenoidectomy\nQuestion 3:\nA 25-year-old patient is to undergo mastoid surgery. Which of the following instruments will not be present in the operation theatre?\nLempert\u2019s curette\nLempert\u2019s endaural retractor\nLempert\u2019s endaural speculum\nLempert\u2019s trocar\nQuestion 4:\nA patient is undergoing a mastoidectomy procedure. During the procedure, a surgeon uses the following instrument to explore the mastoid air cells. Name the given instrument\n [Image Reference: ENT_img_25.jpeg, ENT_img_297.jpeg]\nMacEwen\u2019s curette\nVolkmann\u2019s curette\nMcElroy curette\nMastoid gouge\nQuestion 5:\nWhich procedure is the following instrument not used in?\n [Image Reference: ENT_img_25.jpeg, ENT_img_298.jpeg]\nFunctional endoscopic sinus surgery (FESS)\nCaldwell\u2013Luc operation\nSubmucosal resection\nPolypectomy\nQuestion 6:\nThe following instrument is:\n [Image Reference: ENT_img_25.jpeg, ENT_img_299.jpeg]\nBallenger swivel knife\nKillian\u2019s nasal gouge\nEves\u2019 tonsil snare\nLeighton tonsillotome\nQuestion 7:\nA 35-year-old man with chronic sinusitis undergoes the following procedure to relieve him of his symptoms. Which of the following instruments is required to carry out this procedure?\n [Image Reference: ENT_img_25.jpeg, ENT_img_300.jpeg]\nTilley\u2013Lichtwiz trocar\nTilley\u2019s harpoon\nNasal snare\nTilley\u2019s antral burr\nQuestion 8:\nGiven below is an instrument used for irrigation. In which of the following procedures will it not be used?\n [Image Reference: ENT_img_25.jpeg, ENT_img_301.jpeg]\nIntranasal antrostomy\nCaldwell\u2013Luc operation\nTrephination\nBoth A and B\nQuestion 9:\nA 20-year-old woman has complaints of reduced hearing on her right side. You perform a diagnostic test using the following instrument. What is the name of this instrument?\n [Image Reference: ENT_img_25.jpeg, ENT_img_302.jpeg, ENT_img_303.jpeg, ENT_img_304.jpeg]\nDigital audiometer\nTympanometer\nRhinomanometer\nBERA\nQuestion 10:\nAn objective diagnostic test is performed on a patient who complains of loss of hearing on his right side. The following instrument is used to perform this test. What is this instrument known as?\n [Image Reference: ENT_img_26.jpeg, ENT_img_305.jpeg]\nDigital audiometer\nTympanometer\nSpeech audiometer\nBERA\nAnswer Key"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "From how many ossification centre(s) does the inner ear develop?",
+      "1",
+      "2",
+      "7"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "b",
+    "explanation": "\nSurgical trauma is the most common cause of bilateral recurrent laryngeal nerve paralysis.\nThe incidence of permanent RLN paralysis is approximately 1% to 1.5% for total thyroidectomy and less for near-total procedures.\nNote: Previously, extra laryngeal malignancies had been the most common cause which included lung (50%), esophagus, thyroid, and larynx."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "When does the fetus start hearing?",
+      "10 weeks",
+      "20 weeks",
+      "30 weeks"
+    ],
+    "images": [],
+    "subject": "ENT",
+    "correct_option": "d",
+    "explanation": "\nOrtner's syndrome is a rare cause of left (unilateral) recurrent laryngeal nerve palsy due to compression by enlarged cardiac structures such as the left atrium or pulmonary artery.\nCauses of recurrent laryngeal nerve palsy:\nThyroid surgery\nNeck trauma\nThyroid malignancy\nCervical lymphadenopathy.\nThough the risk of bilateral nerve involvement is much less than unilateral, it is possible. Depending on whether the palsy is unilateral or bilateral, findings will differ.\nTerminologies in vocal cord palsy:\nPure RLN palsy: abductor palsy (the only abductor, posterior cricoarytenoid is affected)\nPure SLN palsy: rare (only cricothyroid, one of the adductors and the main tensor is affected)\nComplete paralysis: both SLN and RLN are involved."
+  }
+]

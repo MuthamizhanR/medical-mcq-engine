@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "How many base pairs the human genome is made of?",
+      "3.6 billion",
+      "3.2 billion",
+      "7.2 billion"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "c",
+    "explanation": "\nThe most common cause of peripheral neuropathy is diabetes mellitus.\nThe most common pattern of diabetic neuropathy is an ascending, distal symmetric, sensorimotor polyneuropathy (glove and stocking type).\nThe most common type of hereditary neuropathy is Charcot-Marie-Tooth (CMT) disease."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which of the following describes the non-coding regulatory RNAs?",
+      "Transcribed from protein-coding regions of DNA and translated to regulatory protein",
+      "Transcribed from protein-coding regions of DNA but never translated",
+      "Transcribed from non-protein-coding regions of DNA and translated to regulatory protein"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nThe given clinical scenario is suggestive of Charcot\u2013Marie\u2013Tooth (CMT) disease. It is most commonly associated with chromosome 17.\nIt is the most common type of hereditary neuropathy. The most common variant of this condition is CMT1A. It is caused by a duplication of a region on chromosome 17 that includes the peripheral myelin protein 22 (PMP22) gene.\nIt usually presents in the first to third decade of life with distal leg weakness, e.g., foot drop with no numbness or tingling. There is reduced sensation to all modalities with reduced muscle stretch reflexes. Atrophy of the muscles below the knee leads to inverted champagne bottle legs.\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1129.jpeg]"
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "What is the study of heritable changes in gene expression that are not caused by alterations in DNA sequence?",
+      "Genomic",
+      "Phylogenetic",
+      "Epigenetic"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nThe given clinical scenario is suggestive of myasthenia gravis. It is most commonly associated with thymic hyperplasia (65% of cases).\nThymoma is seen in around 10% of patients with myasthenia gravis.\nMyasthenia gravis is a neuromuscular disorder that is characterized by weakness and the fatigability of skeletal muscles. It is due to the autoantibody-mediated destruction of\nthe acetylcholine receptors (AChRs) at the neuromuscular junction. This consequentially leads to a decreased transmission at the neuromuscular (myoneural) junction.\nThere is a characteristic pattern of muscle involvement. Lid and extraocular muscles (diplopia and ptosis) are involved early in the disease course. The facial muscles weakness can produce a snarling expression, weakness in chewing, and nasal timbre to the voice. Weakness increases with repeated use of the muscles and improves with rest. The reflexes are normal in this condition."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Micro-RNA are involved during which of the following stages?",
+      "Pre-transcriptional",
+      "Post transcriptional",
+      "Post translational"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nThe given clinical scenario is suggestive of Lambert-Eaton myasthenic syndrome (LEMS). It is associated with small-cell lung carcinoma.\nIt is an autoimmune disorder caused by antibodies that block acetylcholine release by inhibiting a presynaptic calcium channel. In contrast to myasthenia gravis, rapid, repetitive\nstimulation (muscle activity) results in an increase in muscle response and strength.\nPatients typically present with weakness of their extremities. In about half the cases, there is an underlying malignancy; most often, neuroendocrine carcinoma of the lung (Small cell lung carcinoma). The stimulus for autoantibody formation in paraneoplastic cases may be the expression of the same calcium channel in the neoplastic cells.\nPatients without cancer often have other autoimmune diseases, such as vitiligo or thyroid disease. Treatment consists of drugs that increase acetylcholine release by depolarizing synaptic membranes (pyridostigmine), plasmapheresis, and immunosuppressive agents, similar to myasthenia gravis."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is false about microRNAs?",
+      "They are coding RNA",
+      "They are involved in cell differentiation and carcinogenesi",
+      "Mature forms of microRNAs are single stranded"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nDermatomyositis is the most common inflammatory myopathy in children. Two types of dermatomyositis are known\u2014juvenile and adult."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "What is the most common cause of cell injury?",
+      "Hypoxia",
+      "Immunologic reaction",
+      "Drug-induced"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nThe muscle biopsy shows myofiber atrophy accentuated at the edges of the fascicles (perifascicular atrophy). The biopsy along with the history is suggestive of dermatomyositis. It is associated\nwith perimysial CD4+ cellular infiltrates.\nDermatomyositis is an immunologic disease in which damage to small blood vessels contributes to muscle injury.\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1130.jpeg]\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1131.jpeg]\nNote: Viral myositis occurs 1-7 days after a viral infection (HIV-1, coxsackievirus). Muscle weakness and tenderness are seen. There are raised CK levels, muscle necrosis without inflammation, and positive urine myoglobin."
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is false?",
+      "Atrophy is a type of reversible cell injury",
+      "Plasma membrane blebbing occurs in reversible cell injury",
+      "On removal of stimulus, necrosis can be reversed"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "c",
+    "explanation": "\nThis patient has developed paraneoplastic dermatomyositis. Anti-P155/P140 antibodies (directed against several transcriptional regulators) are associated with paraneoplastic dermatomyositis and juvenile dermatomyositis.\nIt presents as gradual, symmetric muscle weakness and myalgias, typically affecting the proximal muscles first. Fine movements controlled by distal muscles are affected late in the disease.\nMyopathic changes and elevation in serum creatine kinase levels suggest muscle damage.\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1132.jpeg]"
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Which among the following is not a feature of reversible cell injury?",
+      "Large amorphous densities in the mitochondria",
+      "Decrease in ATP generation",
+      "Swelling of the endoplasmic reticulum"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "c",
+    "explanation": "\nAntibodies to cN1A are seen in inclusion-body myositis.\nIt is the most common inflammatory myopathy in patients &gt;65 years.\nPatients present with slowly progressive muscle weakness that tends to be most severe in the quadriceps and the distal upper extremity muscles. Dysphagia from esophageal and pharyngeal muscle involvement can also occur.\nLaboratory studies usually show modestly elevated creatine kinase levels. Most myositis-associated autoantibodies are absent but are positive for antibodies to cN1A."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Which is the most important light microscopic feature of irreversible cell injury?",
+      "Amorphous densities in mitochondria",
+      "Cell membrane blebs and loss of microvilli",
+      "Ribosomal detachment from endoplasmic reticulum"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nThe given clinical history and the image showing pseudohypertrophy of calf muscles are highly suggestive of Duchenne's muscular dystrophy. It is an X-linked recessive condition.\nDuchenne's and Becker's muscular dystrophy are caused by loss-of-function mutations in the dystrophin gene on the X chromosome. It is one of the largest human genes. Dystrophin provides mechanical stability to the myofiber during muscle contraction. Defects in the complex may lead to small membrane tears that permit the influx of calcium, triggering events that result in myofiber degeneration.\nDuchenne's muscular dystrophy is associated with deletions or frame-shift mutations that result in the total absence of dystrophin. Immunohistochemical studies for dystrophin show the absence of the normal sarcolemmal staining pattern.\nIn contrast, the mutations in Becker's muscular dystrophy typically permit the synthesis of a truncated version of dystrophin, which retains some function. Immunohistochemical studies for dystrophin show reduced staining."
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Thrombosis is initiated by:",
+      "Platelet activation",
+      "Endothelial injury",
+      "Coagulation cascade"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nNARP syndrome - Neuropathy Ataxia Retinitis Pigmentosa syndrome is described as a mitochondrial function disorder.\nNARP syndrome is due to a point mutation of the mitochondrial ATPase-6 gene. It has 2 phenotypes:\nNARP\nMaternally inherited Leigh syndrome (MILS)\nIt is characterized by moderate, diffuse cerebral and cerebellar atrophy and symmetric lesions of the basal ganglia on MRI. The severity of the syndrome corresponds to the mutant mitochondrial DNA load in the tissues."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Which of the following statements about cellular adaptations is correct?",
+      "Hyperplasia involves synthesis of intracellular component",
+      "Atrophy is defined as decrease in cell size",
+      "Atrophy is the decrease in number and size of cell"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "d",
+    "explanation": "\nThe following conditions are mitochondrial disorders:\nMyoclonic epilepsy with ragged red fibers\nLeber hereditary optic neuropathy\nKearns-Sayre syndrome\nThe proteins and tRNAs in the mitochondria may be encoded by 2 sets of genes:\nNuclear genome - Mendelian inheritance patterns\nMitochondrial genome (mtDNA) - maternally inherited, as the oocyte contributes all the mitochondria in the embry\nMitochondrial disorders are caused by mutations in the mitochondrial genome.\nThe most consistent pathologic change in skeletal muscle is abnormal aggregates of mitochondria.\nThese are seen preferentially in the subsarcolemmal area of affected myofibers, producing a ragged red fibers appearance, as shown below.\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1133.jpeg]"
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "A patient with long-standing hypertension develops left ventricular hypertrophy. Which of the following transcription factors do not play a role in this?",
+      "GATA4",
+      "NFAT",
+      "MEF2"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nHypokalemic periodic paralysis is most commonly caused by the mutation of the genes encoding calcium channels (CALCL1A3).\nIt is an autosomal dominant ion channel myopathy with an onset in adolescence. Males are usually affected more than females. It presents as proximal muscle weakness. Ocular and bulbar muscles are less likely to be involved.\nThe diagnosis is established by a low serum potassium level during an attack, after excluding secondary causes.\nIon channel myopathies include the following:"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "How does myosin change during muscle hypertrophy?",
+      "From \uf061-heavy chain to \uf0b0 -heavy chain",
+      "From \uf0b0 -heavy chain to \uf061-heavy chain",
+      "From \uf0b0 -light chain to \uf061-light chain"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "d",
+    "explanation": "\nMutations affecting the chloride channel CLC1 cause myotonia congenita. The resulting deficiency of CLC1 is responsible for the characteristic myotonia in myotonic dystrophy.\nIon channel myopathies:"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "Both physiological hyperplasia and hypertrophy are simultaneously seen in which of the following individuals?",
+      "A 24-year-old man vigorously training for an athletic race",
+      "A 35-year-old woman regularly taking combined oral contraceptive pill",
+      "A 50-year-old man with proliferation of liver cells following transplantation"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nGlial hamartia are seen in neurofibromatosis type 2 (NF 2). These are microscopic nodular collections of glial cells at abnormal locations, often in the superficial and deep layers of the cerebral cortex.\nNF2 is associated with the following:\nBilateral eighth-nerve schwannomas\nMultiple meningiomas\nGliomas - typically ependymomas of the spinal cord\nNonneoplastic lesions - schwannosis, meningioangiomatosis, and glial hamartia\nOption A: NF 1 is associated with neurofibromas of all types, malignant peripheral nerve sheath tumors, gliomas of the optic nerve, other glial tumors, hamartomatous lesions, and pheochromocytomas.\nOption C: Tuberous sclerosis is associated with hamartomas within the CNS in the form of cortical tubers and subependymal nodules. Other lesions include subependymal giant-cell astrocytoma, renal angiomyolipomas, retinal glial hamartomas, pulmonary lymphangioleiomyomatosis, cardiac rhabdomyomas, and cysts in the liver, kidneys, and pancreas.\nOption D: Von Hippel\u2013Lindau disease is associated with hemangioblastomas of the CNS and cysts involving the pancreas, liver, and kidneys, and have a propensity to develop renal cell carcinoma and pheochromocytoma.\nNOTE: A hamartia is not considered to be a tumor and is distinct from a hamartoma. A hamartoma is a benign neoplasm characterized by tissue misarrangement similar to a hamartia."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "Which among the following do not usually undergo hyperplasia?",
+      "Skeletal muscle only",
+      "Skeletal and heart muscle",
+      "Heart and smooth muscle"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nFocal collections of pseudo-Meissner corpuscles or tactile-like bodies (cells mimicking the appearance of Meissner corpuscles) is a feature of diffuse neurofibroma.\nNote: Meissner corpuscles consist of a cutaneous nerve ending responsible for transmitting the sensations of fine, discriminative touch and vibration."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Which of the following is an example of physiological atrophy?",
+      "Atrophy of the legs of a bedridden patient",
+      "Atrophy of the arm muscles following a nerve injury",
+      "Muscle wasting in a child suffering from marasmu"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nThe most common variant of Guillain-Barr\u00e9 syndrome is acute inflammatory demyelinating polyneuropathy (AIDP). The area affected in this condition is the myelin sheath (marked as 2 in the image).\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1134.jpeg]\nGuillain-Barr\u00e9 syndrome (GBS) is an acute autoimmune disease that causes fulminant polyradiculoneuropathy. It is a T-cell mediated immune response.\nGBS is usually associated with a history of upper respiratory infection (URI) or acute gastroenteritis (AGE) 1-3 weeks prior. The causative organisms may be Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus, and Mycoplasma pneumoniae.\nIt presents with the following features:\nAscending motor paralysis (lower limbs &gt; upper limbs)\nSensory deficits may or may not be seen\nDeep tendon reflexes - absent\nTransient bladder dysfunction - severe cases\nAutonomic manifestations - loss of vasomotor control, postural hypotension, cardiac dysrhythmias\nHistological examination shows inflammation of peripheral nerves, manifested as perivenular and endoneurial infiltration by lymphocytes, macrophages, and a few plasma cells. On electron microscopy, an early effect on myelin sheaths is seen. There is segmental demyelination induced by the actions of activated macrophages.\nThere are several types of Guillain\u2013Barre syndrome:\nDemyelinating\nAcute inflammatory demyelinating polyneuropathy (AIDP) - most common\nAxonal\nAcute motor axonal neuropathy (AMAN)\nAcute motor-sensory axonal neuropathy (AMSAN)\nRegional GBS syndromes: Miller\u2013Fisher syndrome (MFS)"
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "The cross-section of the brain of an 84-year-old man with dyslipidemia is given below, in comparison with a normal brain. Which of the following is the most likely pathological change?",
+      "Malnutrition atrophy",
+      "Pressure atrophy",
+      "Denervation atrophy"
+    ],
+    "images": [
+      "Pathology_img_1.jpeg"
+    ],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nCerebellum is involved in tonsillar herniation.\nTonsillar herniation refers to the displacement of the cerebellar tonsils through the foramen magnum. This pattern of herniation is life-threatening because it causes brainstem compression and compromises vital respiratory and cardiac centers in the medulla."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Which of the following is the most common type of metaplasia?",
+      "Columnar to squamous epithelium",
+      "Squamous to columnar epithelium",
+      "Squamous to transitional epithelium"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "d",
+    "explanation": "\nPrimary central nervous system lymphoma is the most common CNS neoplasm in immunosuppressed individuals, including those with AIDS and immunosuppression after transplantation.\nThe vast majority of primary central nervous system lymphomas are of B-cell origin. Overall, primary central nervous system lymphomas are aggressive and have worst outcome. The Epstein-Barr virus plays an important role in the pathogenesis of HIV-related primary central nervous system lymphoma."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "The lining epithelium of the respiratory tract of a middle-aged man who is a chronic smoker shows a change from columnar to stratified squamous epithelium, as depicted in the image below. The change is called:",
+      "Dysplasia",
+      "Hypertrophy",
+      "Atrophy"
+    ],
+    "images": [
+      "Pathology_img_2.jpeg"
+    ],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nThe given clinical history and biopsy picture is characteristic of schwannoma.\nThe biopsy specimen in schwannoma shows hypocellular (Antoni B) and hypercellular areas (Antoni A). Antoni A area has the nuclei of tumor cells aligned in palisading rows. The nuclear-free zones that lie between nuclear palisading are known as Verocay bodies.\nThe histological section of a schwannoma showing Antoni A, Antoni B and Verocay bodies is given below:\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1125.jpeg]"
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "Which of the following conditions is an example of connective tissue metaplasia?",
+      "Myositis ossifican",
+      "Dystrophic calcification",
+      "Atherosclerotic plaque"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "d",
+    "explanation": "\nMost of the meningiomas are benign tumors and very rarely metastasize to CSF.\nThe primary intracerebral malignancies that may cause metastases to the subarachnoid space are:\nGlioblastoma (GBM)\nAnaplastic astrocytoma\nMedulloblastoma\nEpendymoma\nPineoblastomas\nOligodendroglioma\nLeptomeningeal metastases, also known as carcinomatous meningitis, refer to the spread of malignant cells through the CSF space. These cells can originate both in primary CNS tumors (e.g. drop-metastases), as well as from distant tumors that have metastasized (hematogenous spread).\nThe most common secondary tumors that spread to CSF are breast cancer &gt; lung cancer &gt;\nmelanoma &gt; GI malignancies.\nContrast MRI is the investigation of choice and shows leptomeningeal enhancement and tumor scattered over the brain in a \u2018sugar-coated\u2019 manner.\nPeripheral nerves & Neuromuscular pathology\nQuestion 1:\nWhat is the most common cause of peripheral neuropathy?\nNutrition deficiency\nParaneoplastic syndrome\nDiabetes mellitus\nDrug-induced\nQuestion 2:\nA 20-year-old man presents with distal leg weakness with no complaints of tingling or numbness. On examination, you note reduced muscle stretch reflexes below the knee along with the following findings. This condition is associated with which chromosome?\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1126.jpeg]\n17\n19\n1\n13\nQuestion 3:\nA 32-year-old woman comes with complaints of double vision that gets worse after she reads a book or watches television. She also has drooping of the eyelids that gets better after a nap. Serology is positive for anti-acetylcholine receptor antibodies. Which of the following is more commonly associated with this condition?\nThymoma\nThymic hyperplasia\nMedullary carcinoma of thyroid\nSmall cell lung carcinoma\nQuestion 4:\nA 52-year-old man presents with mild ptosis and proximal lower limb weakness. Nerve conduction studies show incremental response following brief exercise. Further investigations reveal antibodies against presynaptic P/Q voltage-gated calcium channels. Which of the following malignancies is associated with this condition?\nSmall cell lung cancer\nThymoma\nMedullary thyroid cancer\nParathyroid cancer\nQuestion 5:\nWhat is the most common inflammatory myopathy in children?\nDermatomyositis\nPolymyositis\nInclusion body myositis\nViral myositis\nQuestion 6:\nA 51-year-old woman presents with complaints of weakness for 2 months. She reports that she has difficulty rising from a chair and combing her hair every morning. Physical exam reveals decreased strength in the shoulders and hip. Muscle biopsy findings are shown below. What is the likely diagnosis?\n[Image unavailable]\nDermatomyositis\nPolymyositis\nInclusion body myositis\nViral myosistis\nQuestion 7:\nA patient with gastric carcinoma develops proximal muscle weakness. Biopsy findings are suggestive of dermatomyositis. Which of the following antibodies are most likely to be present in this patient?\nAnti-Mi2 antibodies\nAntiribosomal P antibodies\nAnti-P155/P140 antibodies\nAnti-Jo1 antibodies\nQuestion 8:\nA patient with muscle weakness is found positive for antibodies against cN1A. What is the likely diagnosis?\nDermatomyositis\nPolymyositis\nInclusion-body myositis\nViral myositis\nQuestion 9:\nAn 8-year-old boy was brought with progressive muscle weakness and walking difficulties. The following finding was noted on examination. Genetic testing revealed a dystrophin gene mutation. On which chromosome is the affected gene located?\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1127.jpeg]\nX\nY\n21\n22\nQuestion 10:\nNARP syndrome is a?\nLysosomal storage disorder\nMitochondrial function disorder\nGlycogen storage disorder\nGolgi body transport disorder\nQuestion 11:\nWhich of the following are mitochondrial disorders?\n2, 4, 5\n1, 3, 4\n1, 2, 3\n2, 3, 5\nQuestion 12:\nHypokalemic periodic paralysis is most commonly caused by the mutation of genes encoding which of the following ion channels?\nSodium\nCalcium\nPotassium\nChloride\nQuestion 13:\nIn a child diagnosed with myotonia congenita, which of the following ion channel is likely to be mutated?\nSodium\nCalcium\nPotassium\nChloride\nQuestion 14:\nGlial hamartia is a feature of which of the following conditions?\nNeurofibromatosis type 1\nNeurofibromatosis type 2\nTuberous sclerosis\nVon Hippel-Lindau syndrome\nQuestion 15:\nA pathologist is examining a histopathological slide showing pseudo-Meissner corpuscles. This finding is seen in which of the following conditions?\nDiffuse neurofibroma\nPlexiform neurofibroma\nSuperficial cutaneous neurofibroma\nWallerian degeneration\nQuestion 16:\nAn electron microscopic picture of a cut section of a nerve fiber is given. Identify the area which will be affected in the most common variant of Guillain-Barr\u00e9 syndrome.\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_108.jpeg, Pathology_img_1128.jpeg]\n1\n2\n3\n4\nAnswer Key"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "Deficiency in which of the following vitamins can lead to metaplastic transformation in the lung?",
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "a",
+    "explanation": "\nThe image shows many histiocytes containing Leishman\u2013Donovan bodies and surrounding chronic inflammatory cells classically seen in cutaneous leishmaniasis.\nCutaneous leishmaniasis presents with a shallow and slowly expanding ulcer, often with heaped-up borders.\nOn microscopic examination, the lesion shows granulomatous inflammation, usually with many giant cells and few parasites.\nDiffuse cutaneous leishmaniasis is characterized by a single skin nodule, which continues spreading until the entire body is covered by nodular lesions. Microscopically, they contain aggregates of foamy macrophages stuffed with leishmania."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "Anaplasia refers to:",
+      "Lack of differentiation",
+      "Variation in cell size and shape",
+      "Replacement of one type of cell by other"
+    ],
+    "images": [],
+    "subject": "Pathology",
+    "correct_option": "b",
+    "explanation": "\nMax Joseph\u2019s space is a histopathological feature of lichen planus. Histological features of lichen planus:\nOrthokeratosis, parakeratosis, thickening of the stratum granulosum.\nAcanthosis with the formation of colloid bodies (also known as Civatte bodies/Sabouraud bodies)\nLiquefactive degeneration of the stratum basale, with separation from the underlying lamina propria, as a result of desmosome loss, creating small spaces (Max Joseph spaces)\nInfiltration of T cells in a band-like pattern into the dermis \u201chugging\u201d the basal layer (interface dermatitis)\n [Image Reference: Pathology_img_6.jpeg, Pathology_img_105.jpeg, Pathology_img_1099.png]"
+  }
+]

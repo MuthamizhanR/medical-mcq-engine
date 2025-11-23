@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Which of the following is not a contribution by Sigmund Freud?",
+      "Free association",
+      "Introducing cocaine in psychiatry",
+      "Psychodynamic theory"
+    ],
+    "images": [
+      "Psychiatry_img_1.png"
+    ],
+    "subject": "Psychiatry",
+    "correct_option": "d",
+    "explanation": "\nThe provision by which a patient has the right to choose his caretaker and future course of action in treatment because of illness or incapacity is known as an advance directive. It is also known as\nliving will, personal directive, or medical directive."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which of the following principles is matched correctly with the part of the mind it works on?",
+      "Id- principle of reality, in the conscious domain",
+      "Ego- principle of pleasure, in the unconscious domain",
+      "Super Ego- principle of idealism, both in the conscious and unconscious domain"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "d",
+    "explanation": "\nAll of the above are considered for provisions under the Rights of Persons with Disabilities Act. There are 21 disabilities included:\nSpecific learning disability\nMental illness\nParkinson's disease\nIntellectual disability\nAutism spectrum\nAcid attack victims\nBlindness\nLow-vision\nLeprosy cured person\nHearing impairment (deaf and hard of hearing)\nLocomotor disability\nDwarfism\nCerebral Palsy\nMuscular Dystrophy\nChronic neurological conditions\nMultiple Sclerosis\nSpeech and language disability\nThalassemi\nHemophili\nSickle cell disease\nMultiple disabilities including deaf-blindness\nThe Indian disability evaluation and assessment scale (IDEAS) is used for measuring and quantifying disability in mental illnesses."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "According to Sigmund Freud, we have a barrier in our mind called repression. This function is done by which of the following part of the mind?",
+      "The conscious part",
+      "The preconscious part",
+      "The unconscious part"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nA crime should include both a guilty mind (aka intent) and an illegal act.\nA person is responsible for a crime when there are two components involved:\nMens rea: A guilty mind aka intent.\nActus rea: An illegal act.\nBoth these components must be present. The act alone is not enough to be considered guilty. A crime may or may not have a motive (statement 3) or a plan of action (statement 4)."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Which of the following is false according to the topographical theory?",
+      "Primary process thinking is illogical and primitive",
+      "An unconscious thought can never reach conscious awareness",
+      "The drives and desires that one is born with are part of the unconscious mind"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nThe mentally ill in cases 3, 4, and 5 will be exempted according to M'Naghten's rule.\nIn a court of law to prove criminal liability against an accused with mental illness both mens rea (a guilty mind) and actus rea (an illegal act) at the point of time should be present when the crime was committed.\nCase 3: The accused does not know the nature of his act and absence of motive or secrecy and shows unsoundness of mind in this case. Hence he is exempted.\nCase 4: The delusion is judged as if it is real. The accused thought he was doing his job legally as the state executioner. Hence he is exempted.\nCase 5: Epilepsy, schizophrenia, and paranoia are exempted in the court of law from criminal liability. In this case, the patient was probably in post-ictal state, and mens rea was absent.\nThus, in cases 3, 4, and 5, the accused are medically insane and legally insane.\nCase 1: The accused killed his children out of severe disturbance. However, as per the law, the disturbance is not considered to impair his thinking capacity. There was also no need for\nself-defense. Hence he would not be exempted.\nCase 2: The delusion is judged as if it is unreal (i.e., there is no delusion), because the patient was deluded that the victim had killed his wife, but the motive to attempt the murder was out of revenge which is illegal and hence, the person is not exempted.\nThus, in cases 1 and 2, the people are medically insane, but not legally insane."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "What is defined as the emotional release and discharge after consciously reliving a painful experience that has been repressed?",
+      "Catharsis",
+      "Abreaction",
+      "Venting out"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nA kleptomaniac is fully responsible for his crimes and is not exempted based on sec 84 IPC (McNaughten's rule), as McNaughten's rule in India considers only a defect of mind, reason, and intellectual capability. However, it does not consider emotions and control of impulses. Thus, a kleptomaniac is only mentally ill but not legally insane.\nThe punishment for a kleptomaniac is given under the Doctrine of diminished responsibility. This absolves an accused person of part of the liability for his criminal act, as their mental functions were \"diminished\" or impaired at that time.\nA person is not criminally responsible during states where mens rea (guilty mind) is absent due to the unsoundness of the mind. The conditions for which this is applicable are:\nPost-traumatic automatism\nSomnambulism\nTwilight state: Disordered consciousness during which actions may be performed unconsciously.\nOneroid State: dream-like disturbances of one's consciousness by hallucinations, accompanied by catatonic symptoms (either catatonic stupor or excitement) and delusions.\nDelirium tremens"
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "\u201cThe dream is the (disguised) fulfillment of a (suppressed, repressed) wish.\u201d- Sigmund Freud. Which of the following mechanisms is not included in the 'Interpretations of dreams' written by Sigmund Freud?",
+      "Condensation",
+      "Displacement",
+      "Repression"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nA mentally ill person is indeed criminally responsible during the lucid interval.\nLucid interval: The period of sanity or consciousness between two periods of insanity or unconsciousness. Seen in states like mania, melancholia, extradural hemorrhage.\nDuring this period, a mentally ill person:\nCan give evidence.\nIs criminally responsible.\nHas testamentary capacity.\nTestamentary capacity is the mental ability of a person to make a will. A person of a sound disposing mind at the time of making the will (not necessarily always) can make a will. A person suffering from an insane delusion can make a will if the delusion is not related in any way by the disposal of property or the persons affected. For example:\nDelusion of grandeur: cannot make a will, as they believe they possess more than they actually do.\nDelusion of persecution: might not be allowed to make a will, because it will affect who they distribute their property to.\nSomatic delusions: can make a will. Only has delusions of physical symptoms, who they distribute their property to is not affected."
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Dependent personality traits are related to which phase of psychosexual development ?",
+      "Ora",
+      "Ana",
+      "Phallic"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nIf either person in the marriage is suffering from a mental illness at the time of marriage, only then can the marriage be declared null and void. The mental condition of both the parties at the time of marriage is taken for deciding nullification."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "There is a complex named after a legendary Greek hero who unknowingly killed his father and married his own mother. In which stage of psychosexual development does this complex develop in children?",
+      "Ora",
+      "Genita",
+      "Ana"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nAccording to the Mental Health Care Act of 2017, the patient should be re-examined within 24 hours to re-classify the admission as supported admission.\nMental Health Care Act 2017 classifies admissions as independent and supported.\nIndependent admissions refers to the admission of a person with mental illness, to a mental health establishment, who can make mental healthcare and treatment decisions or requires minimal support in making decisions.\nSupported admissions refer to the admission and treatment of persons with mental illness, with high support needs, in mental health establishments.\nThe medical officer or mental health professional must discharge any independently admitted patient immediately upon their request. However, under certain conditions, the discharge can be delayed for 24 hours to allow for an assessment necessary to reclassify the patient under the supported category. These conditions are:\nthe person is unable to understand the nature and purpose of their decisions and requires substantial or very high support from their nominated representative; or\nthe person has recently threatened or attempted or is threatening or attempting, to cause bodily harm to themselves; or\nthe person has recently behaved, or is behaving, violently towards another person or is causing another person to fear bodily harm; or\nthe person has recently shown or is showing, an inability to care for themselves to a degree that places them at risk of harm."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "According to psychoanalytic theory, alcoholic people have become fixative in which stage of psychosexual development?",
+      "Ora",
+      "Ana",
+      "Phallic"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nThe child is most likely suffering from a childhood anxiety disorder.\nSelective mutism refers to the lack of speaking (being mute) in one or more specific social situations, commonly in school, but speaking well in other situations, commonly at home. The child may be either completely silent at school or maybe just whispering. Rarely, a child may be silent at home but communicating normally at school.\nThe disorder may develop in children between 4 to 8 years of age and is associated with a social anxiety disorder. They may have symptoms of separation anxiety disorder, school refusal, and delayed language acquisition.\nThe first-line treatment includes cognitive behavioural therapy.\nOption A and B: selective mutism is not commonly associated with childhood depression or psychosis\nOption D: Hyperkinetic disorder is associated with overfamiliarity.\nForensic Psychiatry\nQuestion 1:\nUnder the Mental Health Care Act 2017, a patient has the right to choose his or her caretaker and future course of action in treatment. What is this provision known as?\nTreatment directive\nMental will\nFuture directive\nAdvance directive\nQuestion 2:\nWhich of the following conditions are included under the Rights of Persons With Disabilities Act, 2016?\nSpecific learning disability\nMental illness\nParkinson's disease\nAll the above\nQuestion 3:\nA crime must include:\n1, 2, 3, 4 and 5\n3, 4 and 5\n1, 2 and 5\n1, 3 and 4\nQuestion 4:\nWhich of the following mentally ill persons will be exempted from all charges under Sec 84?\n1, 2 and 3\n2, 3 and 4\n3, 4 and 5\n1, 2 and 5\nQuestion 5:\nA person suffering from which of the following conditions is criminally responsible?\nKleptomani\nSomnambulism\nOneroid state\nDelirium tremens\nQuestion 6:\nWhich of the following is false?\nA person suffering from a somatic delusion has testamentary capacity\nA mentally ill person can give evidence during lucid interval\nA mentally ill person is not criminally responsible during lucid interval\nA person suffering from delusions of grandiosity cannot make a will\nQuestion 7:\nIn which of the following situations, can a marriage be declared null and void?\nIf the partner's mental illness developed 6 months after marriage\nIf the partner's mental illness was present only before the time of marriage\nIf the partner's mental illness was present at the time of marriage\nAll of the above\nQuestion 8:\nA 37-year-old patient was admitted to a hospital independently for the treatment of depression. During the stay, the patient attempted to hurt themselves. According to the Mental Health Care Act, 2017, within how many hours should a repeat mental health assessment be carried out to reclassify the admission as a supported admission?\n48 hours\n72 hours\n24 hours\n36 hours\nAnswer Key"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "According to Erikson, the major conflict in the first year of life is between which of the following?",
+      "Trust vs mistrust",
+      "Initiative vs guilt",
+      "Autonomy vs shame"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "b",
+    "explanation": "\nA 13-year-old boy with a history of aggression towards people within the past 6 months, destruction of property, and theft for the last couple of years points towards a diagnosis\nof conduct disorder. If it persists beyond 18 years of age it is referred to as anti-social personality disorder.\nConduct disorder is diagnosed when at least 3 behaviors have been present within the previous 12 months, with at least 1 present in the past 6 months.\nConduct disorder can be classified based on onset as:\nChildhood-onset type: Individuals show at least one symptom characteristic of conduct disorder before the age of 10 years.\nAdolescent-onset type: Individuals do not show features of conduct disorder before the age of 10 years.\nUnspecified onset: Criteria for a diagnosis of conduct disorder are met, but there is not enough information available to determine whether the onset of the first symptom was before or after the age of 10 years.\nOppositional defiant disorder (ODD):\nA persistent pattern of negativistic, hostile, and defiant attitude/behavior towards adults.\nSeen in children less than 10 years of age.\nThe symptoms must be present at least 6 months, during which 4 or more of the following have to be present:\nArgues with other\nLoses temper\nBlames other\nEasily annoyed\nRefuses and defies to listening to adult\nAnnoys other people quite often\nUnlike conduct disorder, children with ODD do not indulge in destructive and physically harmful activities.\nDisruptive mood dysregulation disorder: Onset before age 10. Severe, recurrent temper outbursts out of proportion to the situation. Child is constantly angry and irritable between outbreks.\nNeurodevelopmental Motor Disorders\nQuestion 1:\nA worried mother brought her son to the OPD due to poor performance in sports as he struggles to perform activities such as jumping, running, or catching a ball. He also exhibits difficulty in assembling jigsaw pieces, using scissors or drawing. What is the most likely diagnosis in this child?\nTic disorder\nAttention deficit hyperactivity disorder\nCerebral palsy\nDevelopmental coordination disorder\nQuestion 2:\nWhich of the following is true regarding stereotypic movement disorder?\nThe movements are typically non-rhythmic.\nThe movements often appear to be self-soothing.\nThey are associated with purposeful movements.\nThese movements don't interfere with social activities.\nQuestion 3:\nA 9-year-old boy is brought to the OPD with complaints of repeated shoulder-shrugging movements. His mother says she first observed this behaviour 1 year back and the symptoms have been occurring on and off over the year. On questioning, the boy said he feels an urge to move his shoulder and experience uneasiness if he doesn't move his shoulder often. The boy is otherwise healthy, playful and has attained all milestones for his age. What is the most probable diagnosis?\nJuvenile myoclonus\nTourette's syndrome\nPersistent motor tic disorder\nLate onset autism\nQuestion 4:\nPalilalia is a type of which of the following tics?\nSimple motor tic\nSimple vocal tic\nComplex motor tic\nComplex vocal tic\nQuestion 5:\nA 7-year-old boy is sent to the principal's office for shouting and speaking obscene words abruptly in front of the class during a puppet show. On informing his parents, the child's concerned mother brings him to the psychiatry OPD for a consult. These symptoms are associated with which of the following disorders?\nStereotypic movement disorder\nTourette's disorder\nAvoidant personality disorder\nConduct disorder\nQuestion 6:\nWhich of the following is not a characteristic feature of a patient with Tourette's syndrome?\nOnset before 18 years\nPersistence of tics for at least 6 months\nSeverity peaks between 10 and 12 years\nPresence of at least one vocal tic\nQuestion 7:\nA 16-year-old boy presented to the psychiatric outpatient department with a 2-year history of repetitive involuntary blinking, shoulder shrugging, sniffing, vocalization, and whistling.\nWhich of the following drugs is not used in the treatment of this disorder?\nRisperidone\nClozapine\nClonidine\nPimozide\nQuestion 8:\nA 10-year-old boy, came to the clinic for an evaluation of tics in the head and neck, occasional coughing and grunting, and a new symptom of throat-clearing several times per day. Which of the following is used in the treatment of this disorder?\nSystemic desensitization\nHabit reversal training\nFlooding\nAversion therapy\nAnswer Key"
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "\"Guard your thoughts for they shape your future\". Teachers, peers, and adults outside the home become important in shaping attitudes towards oneself in which of the following Erikson's stages?",
+      "Trust vs mistrust",
+      "Initiative vs guilt",
+      "Industry vs inferiority"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nSeman's stop-start technique is used for premature ejaculation, to prolong the time period until ejaculation.\nSeman's technique (stop-start technique): A man approaches the point close to climax and then stops and relaxes before starting again. This method prolongs the time before ejaculation by relying on behaviour modification.\nOther treatments for premature ejaculation:\nSqueeze technique (by Master and Johnson's)- as a man approaches a climax, he squeezes the tip of the penis just below the head of the penis. The pressure is held there until the sensation of impending orgasm diminishes. The process can then be started over again so that over time a man prolongs the time period until he reaches ejaculation.\nSensate focusing - refocussing on the non-coital aspects of sexual activity.\nSelective serotonin reuptake inhibitors (SSRIs) - delays ejaculation. e.g.- dapoxetine, paroxetine.\nSexual Disorders and Sexual Abuse\nQuestion 1:\nCrossing over from one behavior to another is a feature of which of the following?\nParaphilia\nGender dysphoria\nSatyriasis\nNymphomania\nQuestion 2:\nWhich of the following is not a paraphilia?\nVoyeurism\nSexual sadism\nHomosexuality\nPedophilia\nQuestion 3:\nA 23-year-old man who says he always felt like a woman, got his genitals surgically modified corresponding to female anatomy. What is this called?\nTransvestism\nBody dysmorphic disorder\nGender incongruenc\nGender-queer\nQuestion 4:\nWhich of the following is false regarding exhibitionistic disorder?\nPunishable with imprisonment up to 3 months\nDiagnosed if persisting for a period of at least 3 months\nCauses significant distress or social impairment\nMore common in males\nQuestion 5:\nWhat should be the minimum age to diagnose a patient with pedophilic disorder?\n14 years old\n16 years old\n18 years old\nNo minimum ag\nQuestion 6:\nA 24-year-old, who was assigned as female at birth, presented with a history of strong desir to be a male right from her childhood. She has always dressed like a boy and constantly feels that she is trapped in the wrong body. She is now in a relationship with a girl, which sh considers to be a heterosexual relationship. What is the likely diagnosis?\nHermaphroditism\nTransvestism\nBody dysmorphic disorder\nGender dysphoria\nQuestion 7:\nA man is arrested by the police after multiple FIRs were registered against him for rubbing his genitals against women inappropriately in public transport. On questioning, the man says that he gets sexual gratification this way. Which of the following paraphilias describes this behavior?\nVoyeurism\nFetishism\nFrotteurism\nExhibitionism\nQuestion 8:\nA man who was caught peeking into his neighbor's intimate moments was served a restraining order. On evaluation, he is found to be a case of scopophilia. According to DSM-5, what is the minimum age at which this condition can be diagnosed?\n14 years\n16 years\n18 years\nNo age limit\nQuestion 9:\nA 28-year-old man is brought to the sexual wellness clinic by his wife. She complains that h acts like a woman during sexual intercourse. On questioning, he admits that though h identifies himself as a male, he is sexually aroused with the fantasies of being a woman.\nIdentify the condition.\nTransvestism\nTranssexualism\nAndrophilia\nAutogynephilia\nAnswer Key"
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "A 4-year-old child is brought to the casualty following a skating injury. The parents encouraged him to ask questions. He talked for most of the conversation and excitedly explained he wanted to try this so his parents let him. He even painted one wall in their house and asked if the doctor wants to see it. By this behavior of parents, what they are encouraging in the child?",
+      "Autonomy",
+      "Identity",
+      "Generativity"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nPatients are more likely to commit suicide soon after they are started on antidepressant medication.\nSomatic symptoms of depression improve faster than psychological symptoms when a patient is started on antidepressant medication and hence patients have the energy to act on their thoughts of deliberate self-harm and suicide (paradoxical suicide).\nOption A: For bipolar disorder, the suicidal risk is higher in the depressive phase than the manic phase.\nOption B: The highest risk of suicide is within a period of 6 months after discharge from a psychiatric facility than when admitted.\nOption D: During the peak of the depressive episode though the desire to die is intense, the energy level is low to execute the plan. The risk of suicide is higher at the onset and the end of the depressive episode.\nNormal Sexuality and Sexual Dysfunction\nQuestion 1:\nThe acts that a person says or does to disclose himself as having the status of boy or man is called \t.\nSexual identity\nGender role\nSexual orientation\nGender identity\nQuestion 2:\nWhat term is used to describe an individual\u2019s sense of maleness or femaleness?\nGender role\nSexual identity\nGender identity\nSexual orientation\nQuestion 3:\nA young woman presents to the psychiatry OPD. She says that she has an intense sexual desire but her husband is unable to fulfill her increasing needs, because of which she seeks extramarital affairs. What is the diagnosis?\nNymphomania\nSatyriasis\nVoyeurism\nTroilism\nQuestion 4:\nArrange the following disorders according to the sequence of the normal sexual response cycle?\n3 - 4 - 1 - 2\n1 - 4 - 3 - 2\n1 - 3 - 4 - 2\n3 - 1 - 2 - 4\nQuestion 5:\nWhich of the following is not a feature of a patient with hypoactive sexual desire disorder?\nSevere marital problems may be the cause\nSymptoms cause significant distress\nSymptoms last for at least 6 months episodically\nNo history of substance abuse\nQuestion 6:\nA 30-year-old woman persuaded her husband to attend couples therapy. She says that her husband cheated on her, to which he replies that his wife is never ready to put an effort into their relationship. The distressed wife then explains that since last year, she has lost interest in sexual intercourse and does not feel aroused anymore. Which of the following drugs would you prescribe her?\nSildenafil\nFluoxetin\nFlibanserin\nFlunitrazepam\nQuestion 7:\nA 40-year-old man comes to your clinic. He reports that sexual desire is present but he is unable to achieve and maintain an erection. He has avoided physical relations with his wife in order to avoid the embarrassment of not being able to perform. He often falls asleep early to avoid sex. Which of the following is the most common cause this condition in his age group?\nDiabetes mellitus\nHypertension\nPsychogenic\nAtherosclerosis\nQuestion 8:\nA patient is being evaluated for erectile dysfunction. Which of the following will help differentiate a psychological cause from an organic one?\nDecreased vibratory perception in the penis\nAbsence of erection with any partne\nPresence of nocturnal penile tumescence\nNo good erection during masturbation\nQuestion 9:\nPremature ejaculation is a disorder of which phase of the normal sexual cycle?\nDesire\nArousal\nOrgasm\nPain\nQuestion 10:\nWithin how many minutes of vaginal penetration should ejaculation regularly occur to diagnose a patient with premature ejaculation?\n1 minute\n2 minutes\n3 minutes\n4 minutes\nQuestion 11:\nSeman's technique is used for which of the following conditions?\nRetrograde ejaculation\nErectile dysfunction\nPremature ejaculation\nAnorgasmia\nAnswer Key"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "According to the stages of cognitive development, which of the following is correctly matched?",
+      "Starts seeing things from other's perspective - Stage of formal operation",
+      "Conservation and reversibility - Pre-operational stage",
+      "Symbolisation - Sensorimotor stage"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "d",
+    "explanation": "\nThe SCOFF (Sick, Control, One, Fat, Food) questionnaire is a screening tool for anorexia nervosa and bulimia nervosa.\nIt consists of 5 questions with 1 point being awarded for every positive reply. The SCOFF questions:\nDo you make yourself Sick because you feel uncomfortably full?\nDo you worry that you have lost Control over how much you eat?\nHave you recently lost more than One stone (~6.35 kg) in a 3-month period?\nDo you believe yourself to be Fat when others say you are too thin?\nWould you say that Food dominates your life?\nA score greater than 2 indicates likely anorexia or bulimia. This short questionnaire serves as a quick screening tool, similar to the CAGE questionnaire used in alcohol misuse.\nImpulse-Control Disorders\nQuestion 1:\nWhich of the following is not classified under impulse control disorder?\nIntermittent explosive disorder\nPyromania\nTrichotillomania\nKleptomania\nQuestion 2:\nWhich of the following is not a typical feature seen in a patient with an impulse control disorder?\nDoes not feel remorse about the act\nGratification after completing the act\nIntense drive to perform a particular act\nExperiences mounting tension and arousal before the act\nQuestion 3:\nA 21-year-old boy is brought by his mother to the OPD. She complains that the boy recently tried to light a fire in their garage. He explains that he has a great fascination with fire and experiences pleasure while doing so. He was also involved in multiple fire episodes in his neighbourhood. Which substance abuse is most commonly associated with his condition?\nCannabis\nAlcoho\nHeroine\nCocaine\nQuestion 4:\nA school girl is brought to the OPD by her worried mother with complaints of an urge to stea her classmate's pens and a feeling of gratification after doing so. The school headmistress says she was caught stealing one and was found with a bag full of pens. She is otherwise a good student and performs well. Which of the following is true about this condition?\nStealing is planned beforehand\nStealing is not for personal gain\nStealing can be explained by a conduct disorder\nStealing is done for vengeance\nQuestion 5:\nWhat is oniomania?\nCompulsive eating of onions\nCompulsive act of masturbation\nCompulsive drinking of alcoho\nCompulsive act of buying\nQuestion 6:\nWhich of the following features will be seen in a patient with intermittent explosive disorder?\nSingle episode of losing control of aggressive impulses\nRemain generally angry between episodes\nSymptoms can develop within minutes to hours\nAmnesia for the episode after the episode is over\nQuestion 7:\nA woman complains to HR about her boss's attitude. She says whenever he is angry, he bangs the table and starts throwing things around. Later he apologizes for his behavior. He was asked to undergo psychiatric evaluation and was diagnosed with intermittent explosive disorder. Which of the following neurotransmitters plays a major role in this condition?\nDopamine\nSerotonin\nHistamine\nGamma amino butyric acid\nAnswer Key"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "Which of the following is not seen during the operational period of cognitive development?",
+      "Reversibility",
+      "Transitivity",
+      "Conservation"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nThe given clinical scenario is suggestive of nightmares. They are seen in REM sleep."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "Which of the following defence mechanisms is matched correctly?",
+      "Anticipation - Mature",
+      "Intellectualisation - Mature",
+      "Regression - Neurotic"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nThe given clinical scenario points towards a diagnosis of somnambulism (sleep walking).\nSleepwalking or somnambulism is more common in children. While sleep walking the individual is in a confused state and is relatively unresponsive to efforts of others to communicate with them and can be awakened only with great difficulty. It resolves spontaneously after adolescence.\nTreatment:\nReassuranc\nPatient safety has to be maintained Somniloquy is otherwise called sleeptalking."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "A 32-year-old man is brought to the ED with severe hand injuries. His wife says he started throwing things in his house when she informed him that she wants a divorce, and punched a mirror in a fit of rage. Which of the following best describes the defence mechanism used by this patient?",
+      "Retroflexion",
+      "Reaction formation",
+      "Introjection"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "b",
+    "explanation": "\nSomnambulism is characterized by sequence of behaviors without full consciousness.\nNote: About 80% of sleepwalkers have a family history of sleepwalking, and an identical twin is much more likely to sleepwalk if their other twin sleepwalks."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "A student applied to four national universities for her MBA course but was disheartened when she got rejected from all four universities. While talking to her friend on the phone, she said she never wanted to go anyway because they were too far from home. What defense mechanism is being used by her?",
+      "Rationalisation",
+      "Passive-aggressive",
+      "Inhibition"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "d",
+    "explanation": "\nThe given clinical scenario is suggestive of bruxism (teeth grinding). It can be precipitated by anxiety, stress, and oromandibular dystonia.\nSleep-related bruxism is commonly seen in the 1st or 2nd decade of life and can persist lifelong. It can be prominently noted in mainly N1 and N2 NREM sleep and sometimes in REM sleep.\nIt may be associated with conditions such as:\nHuntington\u2019s diseas\nCerebral palsy\nMental retardation.\nBruxism can be precipitated by anxiety and stress. It can lead to temporomandibular joint (TMJ) syndrome. Local injections of botulinum toxins (botox) into the masseter muscles can help in the prevention of dental and TMJ problems.\nBruxism can be seen secondary to the usage of entactogen drugs (Methylenedioxymethamphetamine \u2013 MDMA), amphetamine, cocaine, alcohol, and some serotonin reuptake inhibitors."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "An egoistic doctor who enjoyed bossing people around was disliked in the hospital. A ward boy who was ordered to bring him tea intentionally makes sure that the tea is cold. This is an example of which of the following defense mechanisms?",
+      "Acting out",
+      "Passive-aggressive behaviour",
+      "Repression"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nThe history is suggestive of restless leg syndrome and gabapentin is the first-line choice of treatment for this condition.\nGabapentinoids are considered superior to dopamine agonists due to the high frequency of intermediate and long-term augmentation with dopamine agonists, as well as their risk of impulse\ncontrol disorders.\nRestless legs syndrome (RLS) is an irresistible urge to move the legs when at rest or while trying to fall asleep or an uncomfortable sensation of creeping-crawling feeling. It is worse at night and moving legs or walking reduces discomfort. Uremia, neuropathies, as well as iron-deficiency and folic acid\u2013deficiency anemias can produce secondary RLS.\nIn patients with restless legs syndrome, iron stores are initially repleted, and the aggravating factors are eliminated. If RLS still persists, initial therapy with a gabapentinoid (pregabalin, gabapentin, gabapentin enacarbil) is preferred, rather than a dopamine agonist (pramipexole, ropinirole, rotigotine).\nFDA-approved drugs for the treatment of restless leg syndrome:\nGabapentin\nRopinirol\nPramipexol\nRotigotin\nNote: A dopamine agonist is used as an alternative in patients with increased risk for side effects from gabapentinoids, such as those with obesity and its complications, a past or present history of moderate to severe depression, a disorder causing gait instability or respiratory failure, and a history of substance use disorder."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "A police inspector is investigating a murder case. The victim was brutally beaten and raped. The body had noose marks on the neck which seemed to be the cause of death. However, during the investigation, the inspector never showed any emotion. What defense mechanism is described here?",
+      "Distortion",
+      "Inhibition",
+      "Isolation"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nThe above image represents a hypnogram. It is a graph that depicts the stages of sleep as a function of time. It provides a visual representation of sleep structure and is useful in the diagnosis of various sleep disorders.\nAn electroencephalogram is the depiction of the electrical activity of the surface of the brain. Different waveforms (alpha, beta, theta, delta) are produced depending on the functional status of the brain.\n [Image Reference: Psychiatry_img_44.jpeg]\nPolysomnography is a multi parametric test that is considered the gold standard in the diagnosis of sleep disorders. It is a continuous recording of biophysiological changes that occur during sleep. It includes,\nContinuous EEG recording, from occipital and parietal leads\nElectro-oculography- to record eye movements\nElectromyography- for muscle potential and its activities\nECG\nMultiple sleep latency tests- repeated measures of time taken to sleep\nNasal-oral airflow, respiratory effort, oxyhemoglobin saturation, and leg movements during sleep are measured.\n [Image Reference: Psychiatry_img_48.jpeg]\nEpworth sleep assessment scale is a questionnaire used to quantify daytime sleepiness. It determines how frequently a patient is likely to doze off in 8 commonly encountered situations. It is a subjective assessment and hence less reliable."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "A couple visits the psychiatrist\u2019s office with the husband complaining that his wife is cheating on him, but he did not have any evidence. In a private conversation with his wife, she revealed that the husband had a reputation of having multiple affairs with his colleagues in the past. In this scenario, which defense mechanism is the husband using?",
+      "Distortion",
+      "Projection",
+      "Repression"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nREM sleep is represented by the marked area in the given polysomnography.\nThe three zones in the given image represent EOG, EEG, and EMG, respectively. In the marked area,\nEOG shows Positive activity\nEEG shows Mixed waves\nEMG shows Minimal activity\nThis is characteristic of REM sleep.\n [Image Reference: Psychiatry_img_49.jpeg]\nThe following table helps in identifying the state of wakefulness and sleep from the polysomnograph :\n [Image Reference: Psychiatry_img_44.jpeg]\nEating Disorders\nQuestion 1:\nWhich of the following is the most common eating disorder?\nBinge eating disorder\nAnorexia nervosa\nBulimia nervosa\nNight eating syndrome\nQuestion 2:\nWhich of the following is not a typical feature in a patient with a binge eating disorder?\nEating much more rapidly than norma\nResorting to excessive dieting after eating\nEating large amounts of food when not feeling physically hungry\nEating large amounts of food when alone\nQuestion 3:\nA concerned mother brings her 16-year-old daughter to a psychiatrist. She says her daughter has been fiercely fasting and does 2-3 hours of intense exercise every day even after repeated assurance from her that she is slim. Her periods are irregular and her BMI is 15 kg/m2. The daughter explains that she doesn't want to look fat at her farewell party and hence wants to lose some more weight. Which of the following clinical features is expected to be seen in this patient?\nNormal appetite\nTachycardia\nHyperthermia\nHypertension\nQuestion 4:\nA 25-year-old model who is on top of her game comes to get liposuction done. She says she is obese and would like to get rid of the \"flabby tissue\". On inquiry, it is revealed that she eats high-calorie food multiple times a month and regrets it afterward. She also sometimes skips meals. On examination, BMI is 23, and the finding shown below is noted. What is the likely diagnosis?\n [Image Reference: Psychiatry_img_50.jpeg]\nAnorexia nervosa\nBulimia nervosa\nBinge-eating disorder\nPurging disorder\nQuestion 5:\nA boy with a BMI of 16.5 kg/m2 is admitted to the hospital for nutritional rehabilitation for restricting-type anorexia nervosa. Which of the following is not a feature of this condition?\nCompulsive overactivity\nSelf induced vomiting\nHighly restricted calorie intake\nOveruse athletic injuries\nQuestion 6:\nA student on the college dance team was brought to the casualty after she got injured doing a back-flip. While eliciting her history, she revealed that she always feels cold and has not been\ngetting her periods on time. On examination, she appeared pale and thin and had bilateral parotid swelling. Soft, fine hair was incidentally noted on her trunk and shoulders. Her BMI was 15. Lower limb X-ray revealed a left tibial fracture and generalized osteopenia. Further workup is likely to reveal which of the following abnormalities?\n [Image Reference: Psychiatry_img_51.jpeg]\nOption 1\nOption 2\nOption 3\nOption 4\nQuestion 7:\nWhich of the following is the most common psychiatric comorbidity that you would expect to find in a patient with anorexia nervosa?\nSocial phobia\nDepression\nObsessive compulsive disorder\nDelusional disorder\nQuestion 8:\nA patient of anorexia nervosa was eating all her meals according to the prescribed diet chart but there is no change in her weight after 1 week. Which of the following needs to be done?\nObserve the patient for 2 hours post mea\nAsk the psychiatrist to prescribe anti-anxiety medication\nIncrease the calories from 1500 to 2000 in her diet\nIncrease water intake\nQuestion 9:\nA patient with a normal BMI comes with a history of binge eating followed by inappropriate compensatory behaviors. As per the DSM-5 criteria, you can make a diagnosis of bulimia nervosa if these occur, on average, for at least\nOnce a week for 3 months\nTwice a week for 3 months\nThrice a week for 3 months\nThroughout a week for 1 month\nQuestion 10:\nWhich of the following is consistent with a diagnosis of avoidant/restrictive food intake disorder?\nA normal body mass index\nAbsence of nutritional deficiency\nDependence on enteral feeding or oral nutritional supplements\nNormal psychosocial functioning\nQuestion 11:\nAn anxious lady comes with the complaint of insomnia for 4 months. On further probing, she reveals that she eats a lot of food after her evening meals. She also wakes up in between her sleep to eat. Because of this, she has less appetite when she wakes up in the morning. She is not concerned about her appearance or about gaining weight and doesn't resort to purging activities. What is the most probable diagnosis?\nBinge-eating disorder\nBulimia nervosa\nAnorexia nervosa\nNight eating syndrome\nQuestion 12:\nA 15-year-old female with an intellectual disability presents with complaints of repeated regurgitation of food for the last 2 months. There is no history of nausea or retching. She has no history of GERD or any esophageal motility disorder. Her weight and lab investigations are normal. Which of the following conditions is associated with such a presentation?\nBinge eating disorder\nBulimia nervosa\nRumination disorder\nAnorexia nervosa\nQuestion 13:\nYou can use the SCOFF questionnaire to screen patients for\n1, 4, 5\n3, 4\n1, 2\n2, 3\nAnswer Key"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "A 24-year-old woman is brought to the emergency department after a violent attack. The patient has injuries over her forearm and elbow. On examination, she has injuries over her breasts and inner thighs. Pelvic examination reveals lacerations in the vaginal mucosa. On enquiring about the injuries, the patient is unable to remember the violent incident. Which of the following defense mechanism best explains this phenomenon?",
+      "Repression",
+      "Suppression",
+      "Denia"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nAnaclitic depression, also known as hospitalism, is a type of depression in infants where sudden separation from their primary caregivers leads to depression, withdrawal, nonresponsiveness, and loss of milestones in the infants. However, they recover when their mothers return or when surrogate mothering is available."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "A patient is diagnosed with a phobic disorder. Which of the following defense mechanisms is likely to be present in this patient?",
+      "Displacement",
+      "Dissociation",
+      "Distortion"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nIn the given image, the arrow indicates Veraguth's sign or Veraguth's fold, a diagonal palpebral fold running from the lateral corners of the eyes, medially upward to the medial end of the eyebrows. It is a physical sign of depression.\nAnother physical sign of depression is the Omega sign. In this, there is vertical wrinkling between the eyebrows joined at the top by a horizontal crease.\n [Image Reference: Psychiatry_img_30.jpeg]"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "In the OPD, you inform a patient that he has bladder cancer. However, he replies saying, \"No, I cannot have cancer. I don't smoke or drink\u201d. What is the type of defense mechanism exhibited by the patient?",
+      "Rationalization",
+      "Acting out",
+      "Denia"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "c",
+    "explanation": "\nSleep-onset insomnia is a characteristic feature of anxiety disorder, not melancholia.\nMelancholia is one of the oldest terms used in psychiatry, to describe the dark mood of depression. It is still used to refer to a state of depression characterized by:\nSevere anhedonia\nEarly morning awakening (terminal insomnia)\nWeight loss\nProfound feelings of guilt (often over trivial events)\nMelancholia is sometimes referred to as \"endogenous depression\" or depression that arises in the absence of external life stressors or precipitants."
+  },
+  {
+    "id": 24,
+    "question_text": "",
+    "options": [
+      "A 17-year-old girl was kidnapped and held captive for 2 months until she was rescued. However, it was observed that the girl developed positive feelings towards her kidnapper, and",
+      "sympathized with his character, and the situations that made him kidnap her. Which of the following defense mechanisms has the girl most likely developed?",
+      "Retroflexion",
+      "Introjection"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "b",
+    "explanation": "\nPersons with hysteroid dysphoria respond well to treatment with monoamine oxidase inhibitors.\nHysteroid dysphoria is a type of atypical depression. The following features can be seen in this condition:\nReversed vegetative symptoms:\nInsomnia\nTendency to oversleep and to overea\nMood worsens in the evening\nExtreme sensitivity to rejection (hallmark feature)\nImpaired anticipatory pleasure (prediction of pleasure from a future reward), but affected persons are capable of mood reactivity i.e., their mood brightens in response to positive events\nCraving for chocolate\nLike patients with bipolar depression, they respond preferentially to monoamine oxidase inhibitors (MAOIs)."
+  },
+  {
+    "id": 25,
+    "question_text": "",
+    "options": [
+      "Which of the following is incorrectly matched?",
+      "Reaction formation - Defence mechanism for obsessive-compulsive disorder",
+      "Anal stage - Fixation stage for obsessive-compulsive disorder",
+      "Projection - Defence mechanism for delusions and hallucinations"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "b",
+    "explanation": "\nMajor depressive disorder with seasonal pattern is the most likely diagnosis in this scenario. Features of major depressive disorder with seasonal pattern:\nOnset and remission of major depressive episodes at specific times of the year.\nIn most cases, the episodes begin in the fall or winter and remit in spring.\nThis pattern of onset and remission of episodes must have occurred during at least a 2-year period, without any\nnonseasonal episodes during this period.\nIn addition, the seasonal depressive episodes must substantially outnumber any nonseasonal depressive episodes over the individual's lifetime.\nAbsence of seasonally linked psychosocial stressors (e.g., seasonal unemployment or school schedule).\nMajor depressive episodes that occur in a seasonal pattern are often characterized by prominen energy, hypersomnia, overeating, weight gain, and a craving for carbohydrates.\nNote: According to ICD-11, seasonal depressive disorder is included under recurrent depressive disorders."
+  },
+  {
+    "id": 26,
+    "question_text": "",
+    "options": [
+      "An employee in a company is friends with everyone in his office. He goes to different parties every weekend and says he loves talking to new people. This trait is described under which dimension of personality?",
+      "Agreeableness",
+      "Conscientiousness",
+      "Extraversion"
+    ],
+    "images": [],
+    "subject": "Psychiatry",
+    "correct_option": "a",
+    "explanation": "\nMajor depressive disorder is the most likely diagnosis in this case. DSM-V criteria for diagnosis of depression:\nDepressed mood most of the day\nAnhedonia- diminished interest in day-to-day activities\nSignificant weight loss or weight gain and/or change in appetite.\nInsomnia or hypersomnia\nPsychomotor agitation or retardation\nFatigue or loss of energy\nFeelings of worthlessness or excessive, inappropriate guil\nDiminished ability to think or concentrate, indecisiveness\nRecurrent thoughts of death and suicide\nAt least five out of nine symptoms must be present over a two-week period and one symptom must be depressed mood or anhedonia.\nMajor depressive disorder with seasonal pattern (option B) is not the diagnosis as there is the presence of a psychosocial stressor (e.g., seasonal unemployment or school schedule). It is explicitly mentioned in the question that the patient always remains unemployed during the winter months which acts as the objective psychological stressor in this case.\nMajor depressive disorder with seasonal pattern refers to the onset and remission of major depressive episodes at specific times of the year. In most cases, the episodes begin in the fall or winter and remit in spring. Major depressive episodes that occur in a seasonal pattern are often characterized by prominent energy, hypersomnia, overeating, weight gain, and a craving for carbohydrates. This pattern of onset and remission of episodes must have occurred during at least a 2-year period, without any nonseasonal episodes during this period.\nDysthymia (option C) is the presence of a persistently depressed mood that lasts most of the day and is continuous. There are also feelings of guilt, irritability, and anger associated with it. These symptoms are present for at least 2 years. Dysthymia will also never present with an episode of mania/hypomania.\nCyclothymia (option D) is a mild form of bipolar II disorder, characterized by symptoms\nof hypomania and mild depression. Hypomania mainly includes symptoms like persistently elevated or irritable mood and abnormally increased energy lasting for at least 4 consecutive days. The depression seen in cyclothymia does not qualify the criteria for a major depressive episode."
+  }
+]

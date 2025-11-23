@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Which of the following is incorrect regarding the development of skin?",
+      "Develops from neuroectoderm",
+      "Expression of bone morphogenetic proteins by cells",
+      "Blocking of response to fibroblast growth factors"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "a",
+    "explanation": "\nPinch purpura is diagnostic of primary systemic amyloidosis.\nPurpuric macules and ecchymoses, especially in the periorbital area, develop with minor trauma due to fragility from amyloid deposition around cutaneous vessels.\nThe common feature of these diseases is the production of monoclonal immunoglobulins of mostly light chains (isotypes \uf06b and \uf06c) serving as amyloid precursors (AL = light chain type/Bence\n\u02dcones amyloid).\nAmyloid precipitation within the oral cavity mucosa may present as macroglossia. The given image below shows macroglossia associated with amyloidosis.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_75.jpeg, Dermatology_img_803.jpeg]"
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which layer of the epidermis is underdeveloped in the very low birth weight infants in the initial 7 days?",
+      "Stratum germinativum",
+      "Stratum granulosum",
+      "Stratum lucidum"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "d",
+    "explanation": "\nSclerodactyly and Raynauds phenomenon are seen in scleroderma (not scleredema).\nThe symptoms of scleredema are due to a thickened dermis, deposition of mucin, and replacement of subcutaneous fat with coarse collagen fibers.\nThe dermis is 3\u20134 times thicker than normal due to an increase of type 1 collagen synthesis by dysfunctional fibroblast. However, fibroblast proliferation is not seen. Erythema and a peau d\u2019orange appearance of the skin are commonly observed. The hands and feet are characteristically spared.\nDiabetic scleredema is the most common type. Here, the accumulation of collagen may be due to irreversible non\u25a0enzymatic glycosylation of collagen and resistance to degradation by collagenase. It can also occur post-streptococcal infections.\nThe image shows scleredema in a diabetic patient with firm non\u25a0pitting edema and induration on the upper back, neck, and shoulders on an erythematous background.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_75.jpeg, Dermatology_img_804.jpeg]"
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "Choose the correctly labelled layer of the epidermis from the image given below.",
+      "1 - stratum spinosum",
+      "2 - stratum granulosum",
+      "3 - stratum basale"
+    ],
+    "images": [
+      "Dermatology_img_1.jpeg"
+    ],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nThe given clinical scenario and the findings shown- blistering, hypo, and hyperpigmented lesions over the sun-exposed areas (seen in panels A-C), and the absence of similar lesions on non-sun exposed areas (back) are suggestive of porphyria which presents with cutaneous features. Acute intermittent porphyria presents with acute abdominal pain, psychosis with no cutaneous features.\nThe common porphyrias are:\nCutaneous disease only:\nPorphyria cutanea tarda (PCT)\nCongenital erythropoietic porphyria (CEP)\nErythropoietic protoporphyria (EPP)\nCutaneous disease and acute attacks:\nHereditary coproporphyria (HC)\nVariegate porphyria (VP)\nAcute attacks only - Acute intermittent porphyria."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "A patient presents with complaints of dry skin and lesions as shown. The epidermal protein deficient in this patient is present in:",
+      "Stratum corneum",
+      "Stratum granulosum",
+      "Stratum spinosum"
+    ],
+    "images": [
+      "Dermatology_img_2.jpeg",
+      "Dermatology_img_3.jpeg",
+      "Dermatology_img_4.jpeg"
+    ],
+    "subject": "Dermatology",
+    "correct_option": "a",
+    "explanation": "\nPorphyria cutanea tarda (PCT) is the commonest porphyria.\nIt results from the deficiency of uroporphyrinogen decarboxylase (UROD). This causes an accumulation of uroporphyrin and other highly carboxylated porphyrins\nIt is usually acquired (75%, sporadic) and is often associated with liver disease. It does not cause acute attacks.\nPatients notice increased fragility on light\u25a0exposed skin, particularly the backs of the hands and forearms, with minor trauma shearing the skin away to leave sharply marginated erosions that crust and resolve over few weeks leaving atrophic scars, milia, and often mottled hyper\u25a0 or hypopigmentation. Hypertrichosis on the upper face and forehead is common\nPink or coral-red fluorescence of urine is seen under Wood's light.\nThe image given below is of porphyria cutanea tarda: erosions, blisters, pigmentary changes, and scarring.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_805.jpeg]"
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "Which of the following are included in malpighian layer of the epidermis?",
+      "Stratum corneum and stratum granulosum",
+      "Stratum granulosum and stratum spinosum",
+      "Stratum granulosum and stratum lucidum"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "c",
+    "explanation": "\nThe given image shows xanthelasma palpebrarum. They are seen in:\nFamilial hypercholesterolemia\nType III hyperlipoproteinemia (broad beta disease)\nPrimary biliary cirrhosis (chronic cholestasis)\nThey are not seen in type I hyperlipoproteinemia (familial chylomicronemia).\nXanthelasmas most commonly affect the upper eyelids and the area around the medial canthus. They are relatively soft on palpation and range from pale yellow to yellow\u25a0orange in color."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Which of the following terms is used to describe the skin with all its appendages?",
+      "Pilosebaceous unit",
+      "Malpighian system",
+      "Reactive unit"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nPainless, linear, yellow, lipid deposition along the palmar creases and flexor creases of the wrist are descriptive of xanthomata striata palmaris. It is pathognomonic of type III hyperlipoproteinaemia.\nThe image given below shows xanthomata striata palmaris.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_806.jpeg]"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Where are granules of Eleidin seen?",
+      "Stratum corneum",
+      "Stratum lucidum",
+      "Stratum spinosum"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nDiabetic dermopathy is common and is a marker for complications of diabetes such as retinopathy, nephropathy, and neuropathy.\nIt presents as asymptomatic, oval, dull\u25a0red papules 0.5\u20131 cm in diameter evolve slowly on the shins, forearms, thighs, and over bony prominences, producing a superficial scale and, ultimately, atrophic brown scars.\nPathologically, there is hyperpigmentation of the epidermal basal layer, deposition of haemosiderin and melanin in the dermis, and arteriolar basement membrane thickening.\nThe image given below shows Binkley's spots (diabetic dermopathy).\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_807.jpeg]"
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Choose the incorrect statement regarding skin.",
+      "Langerhans cells are dendritic cells which originate from bone marrow.",
+      "Melanocytes are present in stratum basale.",
+      "Stratified squamous epithelium with hallmark keratin filaments."
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows an erythematous rash with ulceration and healing over the shin. This clinical presentation in a diabetic patient is indicative of necrobiosis lipoidica.\nNecrobiosis lipoidica diabeticorum is a rare chronic and granulomatous skin disorder that affects only 0.3% of diabetic patients. The average age of onset is 30 years, with females being affected more commonly. Its postulated etiology is microangiopathy.\nMost rashes are located on the legs, especially above the tibiae. It may present as red papules that enlarge to form patches or plaques with an atrophic yellowish-brown and slightly depressed center.The lesions may resolve spontaneously or become persistent chronic lesions, that can ulcerate.\nOption A: Granuloma annular is most commonly found in children and females &lt;30 years. It manifests as groups of 1-2mm papules that range from skin colored to violaceous, in an annular arrangement over distal extremities. There is no confirmed association with diabetes.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_808.jpeg]\nOption C: Reactive perforating collagenosis (folliculitis) has been reported in patients with diabetes. It is attributed to collagen glycation.\nOption D: Rubeosis is a peculiar rosy reddening of the face, and sometimes hands and feet. In longstanding diabetes, it is attributed to microangiopathy or decreased vascular tone."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Which of the following layers of the skin predominantly contains non-nucleated cells?",
+      "Stratum lucidum",
+      "Stratum basale",
+      "Stratum granulosum"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "a",
+    "explanation": "\nThe image shows Binkley's spots or diabetic shin spots which is another name for diabetic dermopathy. The phrase diabetic dermopathy was coined by Binkley in 1965.\nIt is characterized by asymptomatic, oval, dull\u25a0red papules 0.5\u20131 cm in diameter evolve slowly on the shins, forearms, thighs, and over bony prominences, producing a superficial scale\nand atrophic brown scars."
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Where are Odland bodies present?",
+      "Stratum corneum",
+      "Stratum lucidum",
+      "Stratum granulosum"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "d",
+    "explanation": "\nLupus pernio (cutaneous sarcoidosis) is the most likely diagnosis.\nCutaneous sarcoidosis or presents as red\u25a0brown or red violaceous nodules or plaques, generally multiple. It is usually asymptomatic. Diascopy reveals the subtle brown\u25a0yellow or \u2018apple jelly\u2019 color characteristic of granulomatous diseases but usually more opaque than in lupus vulgaris. At diagnosis, at least 60% of patients have an increased serum angiotensin\u25a0converting enzyme level.\nLupus pernio is the most distinctive manifestation of cutaneous sarcoidosis. Infiltrated erythematoviolaceous plaques involve the nose, cheeks, ears, lips, forehead, and fingers. On the cheeks, a prominent telangiectatic component is characteristic. The clinical appearance is due to the presence of epithelioid cell granulomas in the dermis.\nLupus pernio is usually painless and, as it does not tend to ulcerate, is not as mutilating as lupus vulgaris.In more than half of cases, lupus pernio is associated with sarcoidosis of the upper respiratory tract, especially in patients with involvement of the nasal rims.\nIt is also frequently associated with pulmonary fibrosis, chronic uveitis, and bony cysts, particularly affecting the terminal phalanges."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Melanocytes are present in which layer?",
+      "A",
+      "C",
+      "D"
+    ],
+    "images": [
+      "Dermatology_img_5.jpeg",
+      "Dermatology_img_6.jpeg",
+      "Dermatology_img_7.jpeg"
+    ],
+    "subject": "Dermatology",
+    "correct_option": "c",
+    "explanation": "\nThe image given shows erythematous shiny plaques over the shin, indicative of erythema nodosum. The characteristic triad association of erythema nodosum with bilateral hilar and right paratracheal adenopathies, with or without pulmonary infiltrates, and polyarthritis is known as L\u00f6fgren syndrome. (it is a type of acute sarcoidosis).\nArthritis in sarcoidosis is usually symmetrical; the ankles (&gt;90% cases), knees, small joints of the hands or feet, wrists, and elbows are involved.\nErythema nodosum is the most common non\u25a0specific lesion of sarcoidosis and the first manifestation of the disease but may not be present in all patients. It may be accompanied by fever, polyarthralgia, and uveitis.\nInflammatory markers are elevated in &gt;80% of patients with acute sarcoid polyarthritis. Serum ACE level is usually increased, and rheumatoid factor is negative.\nIt usually resolves spontaneously. Some require treatment is with oral corticosteroids. The prognosis is very good.\nOption A: Heerfordt Syndrome is a rare presentation of sarcoidosis and is characterized by the presence of parotid gland enlargement, facial palsy, anterior uveitis, and fever.\nOption B: Tuberculosis generally does not show bilateral hilar lymphadenopathy.\nOption D: Rheumatoid arthritis also presents with polyarthralgia and erythema nodosum. Rheumatoid factor is often positive without chest involvement."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "Which of the following cells act as slow-adapting touch receptors?",
+      "Meissner corpuscle",
+      "Pacinian corpuscle",
+      "Langerhans cells"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows keratoderma or thickening of the soles. When this condition is present in both palms and soles, it is called palmoplantar keratoderma or tylosis. It is associated with a very high lifetime risk of developing squamous cell carcinoma of the esophagus.\nPressure points of the sole are predominantly affected, and the palms, less affected.\nTylosis esophageal cancer syndrome, also called as Howel-Evans syndrome is inherited as an autosomal dominant trait with complete penetrance of the cutaneous features.\nThe cutaneous features usually present by 7 to 8 years of age but can present as late as puberty. Esophageal cancer associated with tylosis usually presents in middle to late life (from mid-fifties onwards) and shows no earlier development than the sporadic form of the disease."
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "What is the location of Meissner's corpuscle in the skin?",
+      "Stratum lucidum",
+      "Stratum basale",
+      "Papillary dermis"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nThe condition in the given image is acanthosis nigricans. It is characterized by thickened, gray-brown velvety plaques seen in flexural areas such as the back of the neck, axillae, inframammary creases, waist, and groin.\nThe causal mechanism is due to the secretion of epidermal growth factors in the region involved. It can be benign or malignancy-associated.\nBenign - commonly associated with obesity or insulin resistance, usually mild.\nMalignancy - much less common, associated with gastric, lung, and uterine cancers. Acanthosis nigricans can also be seen in the following:\nDrugs such as nicotinic acid used to treat hyperlipidemia\nSudden onset of multiple seborrhoeic keratoses"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "Which of the following are connected by desmosomes?",
+      "Keratinocytes",
+      "Melanocytes",
+      "Dermis and epidermis"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "c",
+    "explanation": "\nThis image shows velvety warty hyperpigmentation on the front of the neck called acanthosis nigricans. By far, the commonest site of underlying neoplasm is the gastrointestinal tract (70\u201390%), and gastric adenocarcinoma is the most frequent.\nProduction by tumor cells of either transforming growth factor \uf0b0 (TGF-\uf0b0 ) or cytokines that activate insulin\u25a0like growth factors or their cutaneous receptors has been proposed as the pathogenetic mechanism."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "A patient presents with multiple blisters on the skin and oral mucosa. The immunofluorescence staining for IgG shows the following characteristic pattern. Which of the following is targeted by the immune system in this condition?",
+      "Keratinocytes",
+      "Melanocytes",
+      "Desmosomes"
+    ],
+    "images": [
+      "Dermatology_img_8.jpeg"
+    ],
+    "subject": "Dermatology",
+    "correct_option": "a",
+    "explanation": "\nThe image shows enhanced dermatoglyphics with thickened velvety palms that have the appearance of tripe, the stomach lining of beef. Tripe palms or acanthosis palmaris occurring alone is more often associated with bronchial carcinoma.\nOther sites of tumors are:\nGenitourinary tract\nCarcinoma breast\nAcanthosis nigricans or sign of Leser-Trelat is most commonly associated with gastric carcinoma\nThe appearance or exacerbation of tripe palms in a known cancer patient may be a sign of recurrence of the malignancy.\nThe image below shows tripe palms.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_75.jpeg, Dermatology_img_798.jpeg]"
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Hemidesmosomal plaque components include which of the following?",
+      "K5/K14",
+      "BPAg1",
+      "Nidogen"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nErythema gyratum repens is commonly associated with lung cancer.\nNecrolytic migratory erythema is commonly associated with glucagon secreting pancreatic islet cell adenoma.\nThe image given below shows erythema gyratum repens of the arm secondary to carcinoma of the bronchus.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_809.jpeg]"
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "A child presents with non-hemorrhagic bullous lesions on areas of friction that heal without scarring. Nikolsky's sign is negative. Choose the correctly matched defective protein and its site involved in this condition.",
+      "K5/K14 - Stratum basale",
+      "K1/K10 - Stratum corneum",
+      "K4/K13 - Stratum granulosum"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "d",
+    "explanation": "\nThe given image shows multiple eruptive seborrheic keratoses over the back, abdomen, and neck. This acute onset of an increase in size and number of seborrheic keratoses is a sign of internal malignancy called the sign of Leser-Tr\u00e9lat.\nWhen it is associated with pruritus or acanthosis nigricans, especially in younger patients, it warrants investigation for internal malignancy.\nAbout 1/3rd of associated tumors are in the gastrointestinal tract, and about half of these tumors are adenocarcinomas."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "What is the major component of lamina densa?",
+      "Laminin 5",
+      "Laminin 322",
+      "Collagen IV"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nLeukemia cutis is most common in patients with myeloid neoplasms, especially acute myeloid leukemia (AML). The risk is higher with translocation t(8,21).\nLeukemia cutis is an infiltration of the skin by myeloid or lymphoid neoplastic leukocytes resulting in clinically identifiable cutaneous lesions. When made up of malignant granulocytic precursor cells, leukemia cutis lesions are also called myeloid sarcoma, granulocytic sarcoma, or chloroma.\nLeukemia cutis typically presents as single or multiple monomorphic violaceous, dark\u25a0red or hemorrhagic skin nodules and plaques, especially on the legs, arms, and face.\nThe image below shows violaceous infiltrated nodules and plaques on the trunk suggestive of leukemia cutis.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_810.jpeg, Dermatology_img_811.jpeg, Dermatology_img_812.jpeg]"
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "What is the main type of collagen found in anchoring fibrils?",
+      "Type IV",
+      "Type VII",
+      "Type III"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "d",
+    "explanation": "\nThe given scenario is suggestive of pyoderma gangrenosum (PG). It is an autoinflammatory disease (excessive response to an internal antigen) due to neutrophil dysfunction and hence antibiotics have no role in its management.\nIt commonly presents on the anterior aspect of the lower limbs. The disease starts as a papule/pustule/bulla and rapidly progresses to an ulcerative lesion. The undermined edges of the ulcer show neutrophilic infiltration. Deep ulcers heal with a characteristic cribriform or criss-cross pattern of scarring.\nThe pustular form of PG is associated mainly with inflammatory bowel disease (ulcerative colitis\n&gt; Crohn's disease), the bullous form with hematological malignancies.\nPathergy is the phenomenon whereby skin trauma provokes lesions at the site of injury. It is seen in pyoderma gangrenosum, Behcet's disease.\nThe image below shows a large purulent ulcer with violaceous undermined borders which is a feature of pyoderma gangrenosum.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_813.jpeg]"
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "Where is the superficial vascular plexus of skin present?",
+      "Below the papillary dermis",
+      "Below the reticular dermis",
+      "At the dermo-epidermal junction"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "d",
+    "explanation": "\nNeutrophilic infiltration of the dermis indicates one of the diseases under neutrophilic dermatosis. Sweet's Syndrome presents as an acute febrile neutrophilic dermatosis which is characterized by non\u25a0itchy, sometimes tender, erythematous plaques and papules.\nThe plaques are often oedematous and as the process develops they may become studded with pseudovesicles or pseudopustules (no fluid collection present).\nThe lesions in Sweet's Syndrome are most commonly distributed on the arms, upper body, head, and neck. An associated fever and peripheral leucocytosis are commonly seen and females are more frequently affected.\nHistological findings include a dense dermal neutrophilic infiltrate with edema. Three subgroups are recognized:\nClassica\nMalignancy-associated\nDrug-induced\nOption A: Behcet's syndrome is also a neutrophilic dermatosis but presents as recurrent oral and genital aphthous ulcers with an erythematous halo.\nOption B: Pyoderma gangrenosum, another neutrophilic dermatosis presents as painful ulcerative erythematous plaques or papules with undermined violaceous borders.\nOption C: Kasabach-Merritt's syndrome shows hemangiomas with thrombocytopenia.\nThe image given below shows Sweet syndrome- pseudovesicles may occur within the inflammatory plaques.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_76.jpeg, Dermatology_img_814.jpeg]"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "Which is the most abundant form of collagen in the dermis?",
+      "Type I",
+      "Type II",
+      "Type III"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "d",
+    "explanation": "\nThe given clinical scenario is suggestive of hypothyroidism. Palmar erythema is seen in hyperthyroidism.\nGraves disease may also cause thyroid dermopathy resulting in pretibial myxoedema and exophthalmos, which are associated with the presence of thyroid antibodies."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "An infant with the following finding was diagnosed with incontinentia pigmenti. What does the pattern of these lesions represent?",
+      "Lines along lymphatics",
+      "Lines along blood vessels",
+      "Lines along nerves"
+    ],
+    "images": [
+      "Dermatology_img_9.jpeg",
+      "Dermatology_img_10.jpeg",
+      "Dermatology_img_11.jpeg"
+    ],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nLocalized (trunk, head) or generalized pruritus occurs in 90% of patients with end\u25a0stage kidney disease due to irritation of free nerve endings caused by uremia.\nOther cutaneous manifestations of end-stage renal disease are:\nXerosis\nAnemic pallor\nHyperpigmentation\n'Half and half' nails\nPseudoporphyria (following hemodialysis)\nNephrogenic fibrosing dermopathy\nCalciphylaxis\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_77.jpeg, Dermatology_img_815.jpeg]\nThe image given below shows calciphylaxis- also known as calcific uremic arteriolopathy (CUA) or \u201cGrey Scale\u201d, is a rare painful syndrome of calcification of the small blood vessels located within the fatty tissue and deeper layers of the skin, blood clots, and the death of skin cells due to too little flow.\n [Image Reference: Dermatology_img_3.jpeg, Dermatology_img_77.jpeg, Dermatology_img_816.jpeg, Dermatology_img_817.jpeg, Dermatology_img_818.jpeg]"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "Stem cells involved in skin homeostasis are present in all of the following areas except",
+      ".",
+      "Bulge area of hair follicle",
+      "Basal layer of interfollicular epidermis"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nThe most likely cause of the above picture is COVID-19, an entity called COVID toes.\nPernio (chilblains) present as erythematous-violaceous or purpuric macules on fingers, elbows, toes, and lateral aspect of the feet, with or without accompanying edema and pruritus. The underlying mechanism is thought to be an inflammatory process. They can be:\nIdiopathic, due to exposure to cold that present within 12-24 hours.\nSecondary to hematological disorder (paraproteinemia), autoimmune disease, viral hepatitis or malignancy.\nThe latest guidelines suggest patients presenting with new-onset, pernio-like lesions that have no other clear cause should be tested for severe acute respiratory syndrome coronavirus 2\n(SARS-CoV-2) by polymerase chain reaction (PCR). There are no treatment guidelines for COVID-19-associated, pernio-like lesions of the feet or hands. However, high-potency topical corticosteroids may be helpful if the lesions are causing discomfort."
+  },
+  {
+    "id": 24,
+    "question_text": "",
+    "options": [
+      "What is the ratio of type-I to type-III collagen in the adult human skin?",
+      "1:4",
+      "8:1",
+      "3:2"
+    ],
+    "images": [],
+    "subject": "Dermatology",
+    "correct_option": "b",
+    "explanation": "\nThe finding seen in the case scenario provided is seborrheic keratosis and this is highly suggestive of visceral malignancy.\nA sudden appearance of multiple seborrheic keratoses in association with skin tags and acanthosis nigricans has been associated with a variety of malignancies, including gastrointestinal and lung cancers; it is also known as the Leser-Tr\u00e9lat sign.\nSeborrheic keratoses are common epidermal tumors consisting of a benign proliferation of immature keratinocytes. They present as well-demarcated, round or oval lesions with a dull, verrucous surface and a typical stuck-on appearance."
+  },
+  {
+    "id": 25,
+    "question_text": "",
+    "options": [
+      "What is the type of connective tissue present in the area marked by the arrow in the given image?",
+      "Dense regular",
+      "Dense irregular",
+      "Loose irregular"
+    ],
+    "images": [
+      "Dermatology_img_12.jpeg"
+    ],
+    "subject": "Dermatology",
+    "correct_option": "a",
+    "explanation": "\nThe above image shows Medlar bodies that are suggestive of chromoblastomycosis.\nMedlar bodies are golden-brown, thick\u25a0walled muriform or sclerotic cells in abscesses. They may also be found within giant cells.\nChromoblastomycosis is a chronic infection of the skin and subcutaneous tissue which is caused by pigmented fungi (Phialophora and Fonsecaea species). The lesions start as warty papules, slowly enlarge to form a hypertrophic plaque progressing to large hyperkeratotic masses over months to years. Satellite lesions are produced by scratching."
+  }
+]

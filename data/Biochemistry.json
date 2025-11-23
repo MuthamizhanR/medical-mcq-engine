@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Which of the following is an aldose sugar?",
+      "Erythrulose",
+      "Ribulose",
+      "Fructose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "c",
+    "explanation": "\nEnzymes that cut DNA at specific DNA sequences within the molecule are called restriction enzymes.\nT ese defensive enzymes protect the host bacterial DNA from the DNA genome of foreign organisms (primarily infective phages) by specifically inactivating the invading phage DNA by digestion."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which of the following two monosaccharides are constituents of lactose?",
+      "Glucose and Fructose",
+      "Glucose and Mannose",
+      "Glucose and Galactose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "a",
+    "explanation": "\nRestriction enzymes are found with site-specific DNA methylases.\nRestriction endonucleases are present in cells that also have a companion enzyme that\nsite-specifically methylates the host DNA, thus rendering it an unsuitable substrate for digestion by that particular restriction enzyme.\nT us, site-specific DNA methylases and restriction enzymes that target the same sites always exist in pairs in a bacterium."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "Which of the following are enantiomers?",
+      "D-galactose and L-fructose",
+      "Galactose and glucose",
+      "D-mannose and L-mannose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "c",
+    "explanation": "\nRestriction endonucleases can act on AAGCTT.\nRestriction endonucleases act and cleave at the site of a palindromic sequence. A palindromic sequence is a sequence that reads the same backward and forward. An example is listed below.\n5' --AAGCTT-- 3'\n3' --TTCGAA-- 5'"
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Which among the following is an example of epimers?",
+      "D-glucose and L-glucose",
+      "D-glucose and D- mannose",
+      "D-glucose and D-fructose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nDNA ligase is not paired correctly with its use for cutting DNA and creating sticky ends. DNA ligase joins the adjacent nucleotides in a covalent linkage.\nRestriction endonucleases cut DNA at specific sites creating sticky ends."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "Which type of bond is there at the branching points in the structure of glycogen?",
+      "\uf0611 \uf0b0  4 glucosidic bond",
+      "\uf0611 \uf0b0  6 glucosidic bond",
+      "\uf0611 \uf0b0  1 glucosidic bond"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "d",
+    "explanation": "\nGene cloning uses both plasmids and bacteriophages.\nHybrid DNA molecules can be constructed in cloning vectors typically using bacterial plasmids, phages, or cosmids. A clone is a large population of identical molecules, bacteria, or cells that arise from a common ancestor. Molecular cloning allows for the production of a large number of identical DNA molecules, which can then be characterized or used for other purposes."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Which of the following has the highest glycemic index?",
+      "Glucose",
+      "Fructose",
+      "Sucrose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "a",
+    "explanation": "\nPhages have linear DNA into which foreign DNA can be inserted at several restriction enzyme sites.\nAmplification of DNA (cloning) is done using cloning vectors - bacterial plasmids, phages, or cosmids.\nBacterial plasmids are small, circular, duplex DNA molecules whose natural function is to confer antibiotic resistance to the host cell. Cosmid is a plasmid into which the DNA sequences from bacteriophage lambda (\uf06c cos sites) have been inserted. This enables the packaging of plasmid DNA in vitro. They have a small, circular, duplex DNA. (Options B and C)"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "\u0192ou want to assess glucose in the urine of a patient with diabetes. Which of the following tests/methods cannot be used to detect the same?",
+      "Nelson Somogyi method",
+      "Ferric chloride test",
+      "O-Toluidine method"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nA genomic library is bacteria with plasmids containing DNA fragments representing the majority of the genetic information from a plant or animal.\nGene library describes the combination of restriction enzymes and various cloning vectors allows the entire genome of an organism to be individually packed into a vector. A collection of these different recombinant clones is called a library.\nA genomic library is prepared from the total DNA of a cell line or tissue. A cDNA library comprises complementary DNA copies of the population of mRNAs in a tissue. (option C)\nGenomic DNA libraries are often prepared by performing partial digestion of total DNA with a restriction enzyme that cuts DNA frequently."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Which of the following compounds in a patient's urine will not give a positive reaction to\u25a0 Benedict's test?",
+      "Ascorbic acid",
+      "Homogentisic acid",
+      "Sucrose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nNorthern blotting is used for the detection of RNA.\nSouthern blotting is used for the detection of DNA and Western blotting is used for the detection of protein.\n [Image Reference: Biochemistry_img_14.jpeg, Biochemistry_img_190.jpeg, Biochemistry_img_191.jpeg, Biochemistry_img_192.jpeg]"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "What would be the respiratory quotient if someone is on an exclusive carbohydrate diet?",
+      "0.7",
+      "0.8",
+      "1"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "c",
+    "explanation": "\nIn Southern blotting DNA fragments are first separated by electrophoresis.\nThe DNA in the gel is then made single-stranded by exposure to dilute alkali, and transferred by capillary action to the nylon membrane, which is laid over it. The relative positions of the different DNA fragments are thus preserved on the membrane.\nThe membrane is then soaked in buffer containing the labelled probe, which base pairs with the DNA fragment of interest.\nThe position of that fragment is then determined by autoradiographic (exposure of the membrane to X-ray film), or fluorescent detection of the hybridized probe.\n [Image Reference: Biochemistry_img_14.jpeg, Biochemistry_img_193.jpeg]"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Which of the following tests can be used to estimate the liver function in a patient with chronic liver disease?",
+      "Glucose Tolerance Test",
+      "Fructose Tolerance Test",
+      "Galactose Tolerance Test"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "d",
+    "explanation": "\nA PCR reaction that continues for 30 cycles will produce approximately \u2030 billion PCR products from a single template DNA molecule.\nPolymerase chain reaction (PCR) is a method of amplifying a target sequence of DNA. DNA sequences as short as 50 to \u203000 bp and as long as \u20300 kb can be amplified by PCR. The amplification is exponential.\n20 cycles provide amplification of 220 = \u203006 or \u2030 million copies\n30 cycles provide an amplification of 230 =\u203009 or \u2030 billion copies"
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Which of the following is the most common mucopolysaccharidosis?",
+      "Hurler\u2019s disease",
+      "Hunter\u2019s disease",
+      "Sanfilippo disease"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nDideoxy-dNTPs (ddNTPs) is not required in PCR reaction.\nIn a PCR reaction, the DNA sample is first heat-denatured (&gt;90\u00b0C) to separate the two strands of the template DNA containing the target sequence. The primers, added in excess, are allowed to anneal to the DNA (typically 50\u2013\u203a5\u00b0C); and each strand is copied by a DNA polymerase, starting at the primer sites in the presence of all four dNTPs(again in vast excess).\nDNA synthesis is catalyzed by a heat-stable DNA polymerase purified from one of a number of different thermophilic bacteria, organisms that grow at \u203a0\u201380\u00b0C."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "A patient with deafness and mental retardation is found to have an excess accumulation of glycosaminoglycans in his body. After a detailed evaluation, he is diagnosed with Hunter disease. What is the site of synthesis of these accumulated substances?",
+      "Mitochondria and Golgi apparatus",
+      "Endoplasmic reticulum and Golgi apparatus",
+      "Lysosomes and endoplasmic reticulum"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "d",
+    "explanation": "\nAll of the listed options are applications of PCR.\nT e applications of PCR to forensic medicine are as follows:\nTo detect infectious agents, especially latent viruses\nMake prenatal genetic diagnoses\nDetect allelic polymorphisms\nEstablish precise tissue types for transplants\nTo study evolution, using DNA from archeological samples\nFor quantitative RNA analyses after RNA copying and mRNA quantitation by the so-called RT-PCR method (cDNA copies of mRNA generated by a retroviral reverse transcriptase)\nTo score in vivo protein-DNA occupancy using chromatin immunoprecipitation assays"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "What are the constituents of chondroitin sulfate?",
+      "N-acetyl glucosamine and glucuronic acid",
+      "N-acetyl galactosamine and glucuronic acid",
+      "N-acetyl glucosamine and galactose"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "d",
+    "explanation": "\nRT-PCR is a method that is used for analysis of mRNA expression and its amplification.\nReverse transcriptase polymerase chain reaction (RT-PCR) is a variant of PCR and includes 2 steps:\nGeneration of complementary DNA (cDNA copies) from mRNA using reverse transcriptase -\nused to qualitatively detect gene expression\nAmplification of newly synthesized cDNA by traditional PCR -This can be quantitatively measured by using fluorescent dyes (qRT-PCR).\nUses:\nDetermination of viral load in disease\nScreening of genetic diseases and cancers\n [Image Reference: Biochemistry_img_14.jpeg, Biochemistry_img_194.jpeg]"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "Which of the following mucopolysaccharides does not contain uronic acid?",
+      "Chondroitin sulfate",
+      "Hyaluronic acid",
+      "Keratan sulfate"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "c",
+    "explanation": "\nPCR is used for DNA profiling (DNA fingerprinting).\nT e PCR allows the DNA in a single cell, hair follicle, or spermatozoon to be amplified and analyzed. Thus, the applications of PCR to forensic medicine are obvious. DNA fingerprinting, or DNA profiling, is used for forensic analysis of crime scenes and paternity testing (Option D).\nOther options:\nOption A: Short Tandem Repeat (STR) are short sequences of DNA at scattered locations in the genome, repeated in tandem (one after the other). E.g., CG-CG-CG-CG-CG. The number of these repeat units varies from person to person but is unique for any given individual and, therefore, serves as a molecular fingerprint.\nOption B: Single Nucleotide Polymorphism(SNP) refers to variations that involve just one base at a given locus (Eg., base C replaced by base A), which can occur within exons, introns, intergenic or coding regions. They are almost always biallelic and are majorly used in the definition of inherited diseases where the functional deficit is unknown. Each of these variations is present to some appreciable degree within a population and hence not unique to an individual."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "In a patient presenting with corneal opacity, deficiency of which of the following could be a likely cause?",
+      "Keratan sulfate",
+      "Hyaluronic acid",
+      "Chondroitin sulfate"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nIn situ hybridization uses a radioactive probe for gene localization.\nIt is added to a metaphase spread of chromosomes on a glass slide. The exact area of hybridization is localized by layering photographic emulsion over the slide and after exposure, lining up the grains with some histologic identification of the chromosome.\nFluorescence in situ hybridization (FISH) utilizes fluorescent probes, not radioactive probes. Fluorescent probes have greater safety, stability, and ease of detection (Option C)."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Which of the following glycosaminoglycan plays an important role in cellular migration?",
+      "Dermatan sulfate",
+      "Heparan sulfate",
+      "Chondroitin sulfate"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "d",
+    "explanation": "\nSickle cell disease is caused by a point mutation.\nT is is caused by mutation of a single base out of the 3 \u00d7 \u203009 in the genome, a T-to-A DNA substitution, resulting in an A-to-U change in the mRNA corresponding to the sixth codon of the\n\uf062-globin gene.\nDefective production of \uf062-globin results in a variety of diseases and is due to many different lesions in and around the \uf062-globin gene."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "Which of the following GAG is responsible for the charge selectiveness of the renal glomerular basement membrane?",
+      "Heparan sulfate",
+      "Heparin",
+      "Dermatan sulfate"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "d",
+    "explanation": "\nRestriction fragment length polymorphism (RFLP) is used to construct a high-resolution linkage map, QTL maps, and identify single gene-disease.\nAn inherited difference in the pattern of restriction enzyme digestion (e.g., a DNA variation occurring in more than \u2030% of the general population) is known as a restriction fragment length polymorphism (RFLP). RFLPs result from single-base changes (e.g., sickle-cell disease) or from deletions or insertions (CNVs) of DNA into a restriction fragment (eg, the thalassemias) and have proved to be useful diagnostic tools.\nSNPs(single nucleotide polymorphisms)/RFLPs can be used to establish linkage groups, which in turn, by the process of chromosome walking, will eventually define the disease locus."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "All mucopolysaccharidoses are inherited in an autosomal recessive manner, except:",
+      "Hurler\u2019s disease",
+      "Hunter\u2019s disease",
+      "Maroteaux - lamy disease"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "a",
+    "explanation": "\nT e CRISPR-Cas9 system, found in many bacteria, represents a form of acquired, or adaptive immunity to infection by bacteriophages, which complements the system of restriction endonucleases and methylases.\nIn recent years, a novel DNA editing/gene regulatory system termed Clustered Regularly Interspersed Short Palindromic Repeats- CRISPR-associated gene 9 (CRISPR-Cas9) has been\ndeveloped. CRISPR uses RNA-based targeting to bring the Cas9 nuclease to foreign (or any complementary) DNA.\nWithin bacteria, this CRISPR-RNA-Cas9 complex then degrades and inactivates the targeted DNA."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "A 6-year-old mentally retarded girl presents with a protuberant abdomen, short stature, coarse facial features, and cloudy corneas. Skeletal malformations include dysostosis multiplex and bullet-shaped middle phalanx. Which of the following enzyme deficiencies is most likely in this patient?",
+      "Iduronate sulfatase",
+      "\uf062-Galactosidase",
+      "\uf061-L-Iduronidase"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nRestriction endonuclease enzymes act at specific palindromic sequences that create DNA fragments of different lengths. By analyzing the fragments, specific species of bacteria can be identified. Option B is the only palindromic sequence here, hence it is the answer.\nRFLP is a restriction fragment length polymorphism (RFLP) analysis technique that involves cutting a particular region of DNA with known variability, with restriction enzymes, then separating the DNA fragments by agarose gel electrophoresis and determining the number of fragments and relative sizes.\nCleavage of a sample of DNA with a restriction enzyme produces a characteristic set of smaller DNA fragments. Deviations in the normal product pattern, produce RFLPs that occur if a mutation renders a restriction site unrecognizable and alternatively, generates a new recognition site."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "A 4-year-old boy presents with mental retardation, dysostosis multiplex, coarse facial features, and clear cornea. What is the most likely diagnosis?",
+      "Hurler's disease",
+      "Hunter's disease",
+      "Maroteaux-Lamy disease"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nTandem mass spectrometry (MS) is the technique of choice for screening neonates for inherited metabolic diseases.\nTandem MS employs the equivalent of two mass spectrometers linked in series (MS-MS or MS2). It can be used to screen blood samples from newborns for the presence and concentrations of amino acids, fatty acids, and other metabolites.\nAbnormalities in metabolite levels indicate inherited metabolic diseases, such as phenylketonuria, ethylmalonic encephalopathy, and glutaric acidemia type \u2030."
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "A 7-year-old boy presented with dwarfism and skeletal abnormalities. Upon examination, the abdomen was distended with no hepatosplenomegaly. The child was assessed and was found to be of normal intelligence. Which of the following mucopolysaccharidoses could be a likely cause?",
+      "Hurler\u2019s disease",
+      "Hunter\u2019s disease",
+      "Sanfilippo disease"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "c",
+    "explanation": "\nT e best method to measure HBA\u2030C is ion-exchange chromatography. In ion-exchange chromatography:\nProteins interact with the stationary phase by charge-charge interactions.\nProteins with a net positive charge at a given pH will tightly adhere to beads with negatively charged functional groups such as carboxylates or sulfates (cation exchangers).\nProteins with a net negative charge adhere to beads with positively charged functional groups, typically tertiary or quaternary amines (anion exchangers).\nNon-adherent proteins flow through the matrix and are washed away.\nProteins elute in inverse order of the strength of their interactions with the stationary phase."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "Naglazyme is used for treating patients with which of the following diseases?",
+      "Maroteaux-Lamy syndrome",
+      "Morquio\u2019s disease",
+      "Von Gierkes disease"
+    ],
+    "images": [],
+    "subject": "Biochemistry",
+    "correct_option": "c",
+    "explanation": "\nT e image shows a schematic representation of the blue-white assay used in the screening of recombinant vectors for inserted DNA fragments. It uses the phenomenon of complementation (\uf061lpha-complementation of the \uf062-galactosidase gene).\nBlue white assay: The DNA of interest is ligated into a vector. The vector is then inserted into a competent host cell viable for transformation, which is then grown in the presence of X-gal (X-gal detects active \uf062-galactosidase). Cells transformed with vectors containing recombinant DNA will produce white colonies whereas cells transformed with non-recombinant plasmids (i.e. only the vector) grow into blue colonies.\nT e image below shows the result of a blue-white assay.\n [Image Reference: Biochemistry_img_15.jpeg, Biochemistry_img_195.jpeg]"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "A 5-year-old boy presented with easy fatigability, irritability and inability to concentrate. Labs revealed the following findings a and b (light and oil immersion respectively) on the bone marrow aspiration. Which of the following is the most likely enzyme deficient in this condition?",
+      "Hexosaminidase",
+      "Glucocerebrosidase",
+      "Sphingomyelinase"
+    ],
+    "images": [
+      "Biochemistry_img_1.jpeg"
+    ],
+    "subject": "Biochemistry",
+    "correct_option": "b",
+    "explanation": "\nTranslocation in the Philadelphia chromosome (a reciprocal translocation between chromosomes 9 and 22) is best studied by SKY.\nSKY stands for spectral karyotyping or multicolor FISH (M Fish). This technique allows one to display all the chromosomes together and thus help identify chromosomal defects in conditions such as chronic myeloid leukemia.\nOther options:\nOption A: G banding is also a karyotyping technique but SKY is a better option between the two.\nOption C: Southern blotting is a technique used to detect a specific DNA sequence in a tissue sample.\nOption D: DNA sequencing cannot detect structural abnormality in a chromosome.\n [Image Reference: Biochemistry_img_15.jpeg, Biochemistry_img_196.png]"
+  }
+]

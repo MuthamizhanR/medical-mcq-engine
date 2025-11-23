@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "ENT",
+    "file": "ENT.json",
+    "question_count": 15
+  },
+  {
+    "subject": "Medicine",
+    "file": "Medicine.json",
+    "question_count": 20
+  },
+  {
+    "subject": "FMT",
+    "file": "FMT.json",
+    "question_count": 18
+  },
+  {
+    "subject": "Pediatrics",
+    "file": "Pediatrics.json",
+    "question_count": 17
+  },
+  {
+    "subject": "Orthopaedics",
+    "file": "Orthopaedics.json",
+    "question_count": 19
+  },
+  {
+    "subject": "OBGYN",
+    "file": "OBGYN.json",
+    "question_count": 26
+  },
+  {
+    "subject": "Psychiatry",
+    "file": "Psychiatry.json",
+    "question_count": 26
+  },
+  {
+    "subject": "Microbiology",
+    "file": "Microbiology.json",
+    "question_count": 23
+  },
+  {
+    "subject": "Radiology",
+    "file": "Radiology.json",
+    "question_count": 19
+  },
+  {
+    "subject": "Surgery",
+    "file": "Surgery.json",
+    "question_count": 23
+  },
+  {
+    "subject": "Ophthalmology",
+    "file": "Ophthalmology.json",
+    "question_count": 23
+  },
+  {
+    "subject": "Pharmacology",
+    "file": "Pharmacology.json",
+    "question_count": 26
+  },
+  {
+    "subject": "PSM",
+    "file": "PSM.json",
+    "question_count": 25
+  },
+  {
+    "subject": "Physiology",
+    "file": "Physiology.json",
+    "question_count": 21
+  },
+  {
+    "subject": "Pathology",
+    "file": "Pathology.json",
+    "question_count": 22
+  },
+  {
+    "subject": "Biochemistry",
+    "file": "Biochemistry.json",
+    "question_count": 23
+  },
+  {
+    "subject": "Anaesthesia",
+    "file": "Anaesthesia.json",
+    "question_count": 10
+  },
+  {
+    "subject": "Anatomy",
+    "file": "Anatomy.json",
+    "question_count": 19
+  },
+  {
+    "subject": "Dermatology",
+    "file": "Dermatology.json",
+    "question_count": 25
+  }
+]

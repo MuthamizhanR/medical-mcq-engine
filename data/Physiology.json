@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Homeostasis is called as dynamic equilibrium because",
+      "All variables are given equal importance",
+      "Can achieve a constancy in extreme environmental challenge",
+      "The set-point for all homeostatic variables is always fixed"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nThe strength of a muscle is determined mainly by its size, with a maximal contractile force between 3 and 4 kg/cm2 of muscle cross-sectional area.\nThe female muscle can achieve almost exactly the same maximal force of contraction as that of the male muscle per square centimeter of cross-sectional area.\nMost of the difference in total muscle performance between males and females lies in the extra percentage of the male body that is muscle, which is caused partly by endocrine differences:\nTestosterone secreted by the male testes has a powerful anabolic effect in causing greatly increased deposition of protein in the muscles.\nEstrogen increases the deposition of fat in the female, especially in the breasts, hips, and subcutaneous tissue."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which is a component of homeostatic control system?",
+      "Stimulus",
+      "Receptor",
+      "Effector"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "b",
+    "explanation": "\nWhen athletes run at speeds typical for the marathon race, the time that they can sustain the race until complete exhaustion (also known as endurance) is maximal with a high-carbohydrate diet.\nA person, who consumes a high-carbohydrate diet, stores far more glycogen in muscles than does a person who consumes either a mixed diet or a high-fat diet. Therefore, endurance is enhanced by a high-carbohydrate diet.\nWhen athletes run at speeds typical for the marathon race, their endurance is approximately the following:"
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "Feedback regulation is seen in",
+      "The increased heart rate that occurs in an athlete just before a sprint begins",
+      "Smell of food triggers secretion of salivary and gastric juices",
+      "An increase in insulin before glucose absorption has raised blood glucose levels"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nThe phosphagen system is utilized by the muscles of the athlete's body during a dash race.\nThe combined amounts of cell ATP and cell phosphocreatine are called the phosphagen energy system. These substances together can provide maximal muscle power for 8 to 10 seconds, almost enough for the 100-meter run. Thus, the energy from the phosphagen system is used for maximal short bursts of muscle power.\nEnergy systems:\nThe phosphocreatine-creatine system: The combined amounts of cell ATP and cell phosphocreatine are called the phosphagen energy system. These substances together can provide maximal muscle power for 8 to 10 seconds.\nThe glycogen\u2013lactic acid system: can provide 1.3 to 1.6 minutes of maximal muscle activity.\nThe aerobic system: The aerobic system is the oxidation of foodstuffs in the mitochondria to provide energy. It can sustain mucle activity for an unlimited time (as long as nutrients last)."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Positive feedback is seen in all except",
+      "LH surge",
+      "Action potential",
+      "Gastric secretion"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "d",
+    "explanation": "\nSlow-twitch fibres, which are adapted for endurance running, are not larger in diameter than fast-twitch fibres. Fast-twitch fibres are about twice as large in diameter compared with\nslow-twitch fibres.\nFast-Twitch and Slow-Twitch Muscle Fibers\nFast-twitch fibres can deliver extreme amounts of power from a few seconds to a minute.\nThe enzymes that promote rapid release of energy from the phosphagen and glycogen\u2013lactic acid energy systems are more active in fast-twitch fibres.\nFast-twitch fibres are about twice as large in diameter compared with slow-twitch fibres.\nGastrocnemius muscle has a higher preponderance of fast-twitch fibres, which gives it the apability of forceful and rapid contraction of the type used in jumping.\nSlow-twitch fibres are mainly organized for endurance, especially for the generation of aerobi energy.\nThey have far more mitochondria than do the fast-twitch fibres.\nThey contain considerably more myoglobin. The extra myoglobin increases the rate of diffusion of oxygen throughout the fibre.\nThe enzymes of the aerobic metabolic system are considerably more active in slow-twitch fibres.\nThe number of capillaries is greater in the vicinity of slow-twitch fibres.\nSoleus muscle has a higher preponderance of slow-twitch muscle fibres and therefore is used to a greater extent for prolonged lower leg muscle activity."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "On infusion of a large volume of blood, the MAP rises from 100 mmHg to 175 mmHg. Due to the baroreceptor feedback mechanism, the MAP falls down to 125 mmHg. Calculate the gain of the feedback system.",
+      "-2",
+      "-\u00e8",
+      "c) +2"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nSignals from joint proprioceptors play a role in stimulating the respiratory drive during exercise. Regulation of respiration in exercise\nDuring strenuous exercise, O2 consumption and CO2 for mation can increase as much as 20- fold. Yet in the healthy athlete, the arterial PO2, PCO2, and pH remain almost exactly\nnormal. This is because the alveolar ventilation increases along with the increased level of oxygen metabolism.\nPart of this stimulation of alveolar ventilation results from direct stimulation of the respiratory enter by nervous signals. An additional part is believed to result from sensory signals transmitted into the respiratory center from the contracting muscles and joint proprioceptors.\nDuring strenuous exercise, the utilization of O2 in the entire body can increase to 75% to 85%. So, essentially all the oxygen is given to the exercising muscles leading to an increased\narterio-venous difference in oxygen concentration.\n [Image Reference: Physiology_img_39.jpeg, Physiology_img_441.jpeg]"
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Plasma membrane in eukaryotes is made up of all except",
+      "Cholesterol",
+      "Lecithin",
+      "Sphingomyelin"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nThe fall in blood bicarbonate levels is compensatory, and it helps increase the exercise effort, not hinder it.\nAdaptation at High Altitudes\nThe work capacity is reduced at high altitudes and this reduction is in direct proportion to the decrease in O2 uptake. (Option B)\nImmediate exposure to low PO2 at higher altitudes stimulates the arterial chemoreceptors, and this stimulation increases alveolar ventilation.\nThis immediate increase in pulmonary ventilation upon rising to a high altitude blows off large quantities of CO2, reducing the PCO2 and increasing the pH of the body fluids (Respiratory alkalosis). This raised pH inhibits the brain stem respiratory center and opposes the increased ventilation. So, respiratory alkalosis will hinder the maximal exercise effort. (Option C).\nTo compensate for this respiratory alkalosis, kidneys reduce hydrogen ion secretion and increase bicarbonate excretion. This reduces plasma and cerebrospinal fluid bicarbonate concentration and brings the pH towards normal. This removes the inhibitory effect of alkalosis on respiration.\nHence the fall in blood bicarbonate facilitates the exercise effort. NOTE\nLactic acid causes extreme fatigue. (Option D)\nOrdinarily, the pyruvic acid from glycolysis enters the mitochondria of muscle cells and reacts with oxygen to form many ATP molecules.\nHowever, when there is insufficient oxygen (at high altitudes), most of the pyruvic acid then is converted into lactic acid, which diffuses out of the muscle cells into the interstitial fluid and blood."
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Membrane fluidity is increased by \t.",
+      "Stearic acid",
+      "Palmitic acid",
+      "Myristic acid"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "d",
+    "explanation": "\nSmoking causes no change to the sensitivity of the chemoreceptors. Effect of Smoking on Pulmonary Ventilation in Exercise\nNicotine causes constriction of the terminal bronchioles of the lungs, which increases the resistance of air flow into and out of the lungs.\nThe irritating effects of the smoke causes increased fluid secretion into the bronchial tree and some degree of swelling of the epithelial linings, which again increases airflow resistance.\nNicotine paralyzes the cilia on the surfaces of the respiratory epithelial cells. As a result, much debris accumulates in the passageways, and this adds further to the difficulty in breathing.\nAll these factors together make even a light smoker experience respiratory strain during maximal exercise, and their level of performance may be reduced.\nIn persons with severe emphysema, as much as four-fifths of the respiratory membrane can be destroyed; then, even the slightest exercise can cause respiratory distress. Chronic smoking is an important cause of emphysema."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Which of the following is an example of peripheral protein?",
+      "Sodium potassium ATPase pump",
+      "Insulin receptor",
+      "G-Protein coupled receptors"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "d",
+    "explanation": "\nExercise causes an increase in body temperature.\nAlmost all the energy released by the body\u2019s metabolism of nutrients is eventually converted into body heat. Since metabolism rises significantly during exercise there is an increase in the body temperature. This increase in body temperature is significant and even lethal conditions such as heatstroke can easily develop in an athlete.\nOther options:\nOption A: Cerebral blood flow is \u201cautoregulated\u201d extremely well between arterial pressure limits of 60 and 140 mm Hg. That is, the mean arterial pressure can be increased to as high as 140 mm Hg without significant change in cerebral blood flow.\nOption B: The arterial Po2, Pco2, and pH remain almost exactly normal even though during strenuous exercise, O2 consumption and CO2 formation can increase as much as 20 fold.\nOption C: The increase in blood flow to exercising muscles is immediate and not after 15 minutes."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Which of the following membranes has the highest protein content per gram tissue?",
+      "Myelin sheath",
+      "Outer mitochondrial membrane",
+      "Sarcoplasmic reticulum"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "c",
+    "explanation": "\nCoronary circulation increases during exercise. During exercise, blood flow\nDecreases in inactive skeletal muscles, kidney, liver, and GIT\nRemains unaltered in brain (due to autoregulation)\nIncreases in exercising muscles, coronary circulation\nInitially decreases due to redistribution, but later increases due to an increase in temperature in the skin"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "The sequence of vesicular transport in a cell is",
+      "ER - Trans - Cis - Mitochondria",
+      "ER - Cis - Trans - Mitochondria",
+      "ER - Trans - Cis - Cell membrane"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nLeft shift of Hb-O2 dissociation curve is not seen during exercise.\nDuring exercise, several factors shift the Hb-O2 dissociation curve considerably to the right, thus delivering extra amounts of O2 to the active, exercising muscle fibers.\nThe right shift of Hb-O2 dissociation curve is due to the following:\nRelease of large quantities of CO2 by the exercising muscles\nIncrease in the hydrogen ion concentration in the muscle capillary blood\nIncrease in the temperature of the muscle by 2\u00b0 to 3\u00b0C"
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "All of the following are enzyme markers of mitochondria except",
+      "ATP synthase",
+      "5\u2019-nucleotidase",
+      "Glutamate dehydrogenase"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "b",
+    "explanation": "\nThe tremendous increase in muscle blood flow that occurs during skeletal muscle activity is caused mainly by chemicals acting directly on the muscle arterioles to cause dilation.\nThese chemicals include:\nPotassium ions,\nAdenosine triphosphate (ATP),\nLactic acid, and\nCarbon dioxide.\nOther factors leading to increased muscle flow include\nsympathetic nervous system activation\nincrease in arterial pressure, and\nincrease in cardiac output.\nHowever, the effect of local metabolites is greater than these factors in increasing the muscle blood flow. Hence, the best answer is local metabolites."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "Which of the following will test negative for all mitochondrial markers?",
+      "Spermatozoa",
+      "Ova",
+      "Mature red blood cells"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "c",
+    "explanation": "\nThere is a sharp rise in the diastolic blood pressure in isometric exercise. This is due to the sustained compression of the blood vessels by the contracting muscles. In isotonic exercise, there\nis much vasodilatation in exercising muscles. So, even though the muscles are contracting, there is no rise in the diastolic blood pressure.\nOption (a) Since the muscle pump is more active during isotonic exercise, the venous return is higher in isotonic exercise.\nOption (b) The increase in the muscle blood flow is less compared to isotonic exercise since inflow of blood is obstructed by sustained compression exerted by the contracting muscle.\nOption (d) Isometric exercise increases the after load of the heart leading to less increase in the stroke volume of the heart."
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "Which is the characteristic enzyme present in peroxisome?",
+      "Arylsulfatases",
+      "Ribonuclease",
+      "Glycosidases"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "c",
+    "explanation": "\nThe mean systemic filling pressure rises tremendously at the onset of heavy exercise. This occurs as a result of\nThe sympathetic stimulation contracts the veins.\nTensing of the abdominal and other skeletal muscles of the body compresses many of the internal vessels, thus providing more compression of the entire vascular system and causing a still greater increase in mean systemic filling pressure.\nCardiovascular Changes in Exercise\nThe maximum increase of cardiac output is 4-fold that can commonly be achieved by the untrained runner and 7-fold that can be achieved in some marathon runners.\nThe increase in heart rate accounts for a greater proportion of the increase in cardiac output than the increase in stroke volume during sustained strenuous exercise.\nExercise also causes an increased venous return due to\nIncreased activity of the respiratory pump\nIncreased activity of the muscular pump\nIncreased venous tone due to sympathetic stimulation\nIncreased blood flow from arteries to veins\nIn severe exercise, there is increased systolic and mean blood pressure due to\nvasoconstriction of the arterioles and small arteries in most tissues of the body\nincreased pumping activity by the heart\na great increase in mean systemic filling pressure caused mainly by venous contraction.\n [Image Reference: Physiology_img_39.jpeg, Physiology_img_442.jpeg]\nAs seen in the figure, point A is the resting cardiac output. On exercise, there is a rise in the mean systemic filling pressure shown on the X-axis.\nThe venous return also rises which causes the cardiac output to reach point B, which is 4 times the normal resting cardiac output.\n [Image Reference: Physiology_img_39.jpeg, Physiology_img_443.jpeg]"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "Gap junctions are found in all except",
+      "Neurons",
+      "Cardiac muscle",
+      "Smooth muscle"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nDuring exercise, there is increased beta-adrenergic stimulation.\nMedullae of the two adrenal glands secrete large amounts of norepinephrine plus epinephrine into the circulating blood during strenuous exercise. The epinephrine often has a slight vasodilator effect because it excites more of the beta-adrenergic receptors of the vessels, which are vasodilator receptors, in contrast to the alpha vasoconstrictor receptors excited especially by norepinephrine."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "Tight junctions are not seen in \t.",
+      "Cardiac muscle",
+      "Renal tubules",
+      "Sertoli cells"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nStrenuous exercise can cause hyperkalemia by releasing potassium from skeletal muscle.\nNOTE: Exercise leads to release of endogenous opiods and is associated with mood enhancement."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Which of the following is not a cell adhesion molecule (CAM)?",
+      "Integrin",
+      "Selectin",
+      "Cadherin"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nThe respiratory quotient is 0.8.\nThe respiratory quotient is the ratio of carbon dioxide production to oxygen utilization.\nIn the given question, the CO2 production is 200mL/min, while the O2 consumption is 250mL/min.\nTherefore,\nRespiratory quotient = 200/250 = 0.8\nThe respiratory quotient (R\u2022) is used for determining the metabolic utilization of various foods.\nWhen carbohydrates are metabolized with one molecule of oxygen, one carbon dioxide molecule is released. Therefore, the R\u2022 of carbohydrates = 1.\nWhen fats are oxidized, for every 100 molecules of oxygen consumed, 70 molecules of CO2 are released. Therefore, the R\u2022 of fats is 0.70.\nSimilarly, the respiratory quotient for proteins is 0.80."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "Identify the incorrectly matched pair of intercellular connections and their structural units",
+      "Desmosome - Desmoglein",
+      "Gap junctions - Cadherins",
+      "Hemidesmosome - Integrins"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nThe inhibins are produced by the granulosa cells of the ovarian follicle, as well as other tissues, including the pituitary, the brain, the adrenal gland, the kidney, the bone marrow, the corpus luteum, and the placenta. Inhibin A is produced by the corpus luteum whereas inhibin B is mainly produced by granulosa cells of the follicle\nFSH specifically stimulates the granulosa cells to produce inhibins.\nJust before ovulation, after the granulosa cells acquire LH receptors, LH also stimulates the production of inhibin by granulosa cells."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Integrin connects with:",
+      "Cadherin",
+      "Vitronectin",
+      "Fibronectin"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "a",
+    "explanation": "\nThe source of progesterone during the normal menstrual cycle is corpus luteum. Progesterone is also secreted by the placenta, and the ovarian follicle (in small amounts)."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "The force-generating proteins are \t.",
+      "Myosin and myoglobin",
+      "Dynein and kinesin",
+      "Calmodulin and kinesin"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "b",
+    "explanation": "\nEstrogen are secreted primarily by the granulosa cells of the ovarian follicles, the corpus luteum, and the placenta ."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "An absent dynein arm in cilia can lead to all of the following except:",
+      "Chronic sinusitis",
+      "Bronchiectasis",
+      "Ciliocytophthoria"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "b",
+    "explanation": "\nThe two-cell\u2014two-gonadotropin hypothesis:\nEstradiol synthesis requires the contribution of two distinct cell types:\nThe theca and granulosa cells within the follicle and\nThe theca-lutein and granulosa lutein cells within the corpus luteum\nThe follicular theca cells, under the control of LH, produce androgens that diffuse to the follicular granulosa cells, where they are converted to estrogens via an FSH-supported aromatization reaction. The granulosa cells cannot convert progesterone to androstenedione because of the lack of the enzyme 17\uf0b0 -hydroxylase."
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "In dividing cells, mitotic spindles are formed by \t.",
+      "Ubiquitin",
+      "Tubulin",
+      "Vimentin"
+    ],
+    "images": [],
+    "subject": "Physiology",
+    "correct_option": "b",
+    "explanation": "\nProgesterone inhibits LH secretion. Actions of progesterone\nHas negative feedback effects on FSH and LH secretion during the luteal phase.\nMaintains secretory activity of the uterus during the luteal phase.\nMaintains pregnancy.\nRaises the uterine threshold to contractile stimuli during pregnancy, i.e decreases sensitivity of the uterus to oxytocin.\nParticipates in the development of the breasts.\nIncreases body temperature\nIt stimulates respiration, and the alveolar PCO2 in women during the luteal phase of the menstrual cycle is lower than that in men.\nLarge doses of progesterone produce natriuresis, probably by blocking the action of aldosterone on the kidney."
+  }
+]

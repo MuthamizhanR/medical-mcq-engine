@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "On a historical day, performing surgeries without the torture of pain was demonstrated successfully for the first time at Massachusetts General Hospital, the home of Harvard Medical School. This is celebrated as the 'World Anesthesia Day' every year on which day?",
+      "December 1st",
+      "April 7th",
+      "October 16th"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "c",
+    "explanation": "\nNitrous oxide is associated with postoperative nausea and vomiting (PONV). Hence it is avoided in patients at high risk of PONV.\nPONV has an incidence of 20-30% in general surgical population and 70-80% in those with predisposing risk factors.\nRisk factors for PONV:\nPatient-specific: Female gender, non-smoking status, history of motion sickness/PONV\nAnesthetic-specific: Nitrous oxide, volatile anesthetics, opioids\nSurgery-specific: Increased duration of surgery, type of surgery Drugs used in the prophylaxis and treatment of PONV:\n5-HT 3 antagonists - ondansetron, palonosetron\nButyrophenones- droperido\nDexamethasone\nTransdermal scopolamine\nNote: Propofol has antiemetic property and thus reduces the risk of PONV."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "You are assisting your senior resident who is performing the procedure shown in the image. He engages you with some historical trivia and asks you who performed this procedure first. What would your answer be?",
+      "John Lundy",
+      "August Bie",
+      "Carl Kolle"
+    ],
+    "images": [
+      "Anaesthesia_img_1.jpeg"
+    ],
+    "subject": "Anaesthesia",
+    "correct_option": "a",
+    "explanation": "\nAntibiotics are the most common anaphylactic agents during anesthesia.\nThe most common agents precipitating anaphylactic reactions are antibiotics&gt; neuromuscular blocking agents. Penicillins and cephalosporins are the most common causes of anaphylaxis among antibiotics."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "The prototype of the device shown in the image below was originally named after which personality?",
+      "John Lundy",
+      "Carl Kolle",
+      "Edmund Boyle"
+    ],
+    "images": [
+      "Anaesthesia_img_2.jpeg"
+    ],
+    "subject": "Anaesthesia",
+    "correct_option": "d",
+    "explanation": "\nThe use of fentanyl is unlikely to cause an anaphylactic reaction. True allergic reactions to opioids like fentanyl are very rare.\nThe most common cause of anaphylactic reactions during anesthesia is antibiotics (especially penicillin and cephalosporin), followed by neuromuscular blockers (rocuronium).\nAmino ester local anesthetics (procaine) exhibit allergic reactions due to the metabolite PABA. Sulfa drugs like sulfonamide antibiotics, furosemide, hydrochlorothiazide, and captopril also exhibit allergy in surgical patients."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "The term \"balanced anaesthesia\" was coined by the same person who lobbied in 1939 to get anaesthesia recognized as a speciality by the American Medical Association. Who is this individual?",
+      "John Lundy",
+      "James Simpson",
+      "Edmund boyle"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "d",
+    "explanation": "\nThe clinical features are suggestive of postoperative hypothermia and shivering in this\npatient. Remifentanil is known to cause postoperative shivering when given in high doses and has no role in the treatment of this patient.\nPostoperative hypothermia is defined as a core temperature &lt; 36\u00b0C. Postoperative shivering is usually, but not always, associated with hypothermia. The primary cause of postoperative shivering is perioperative hypothermia. The most efficient way to reduce post-anaesthetic shivering is to prevent hypothermia by avoiding cold epidural and intravenous fluids.\nTreatment-\nMeperidine is the most effective treatment for post-anesthetic hypothermia and shivering.\nOpioids(Tramadol), ondansetron, clonidine, physostigmine and ketamine have been shown to be effective in abolishing shivering.\nIntraoperative infusion of dexmedetomidine has been shown to be an effective prophylactic."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "Why is October 16, 1846, important in the history of anaesthesia?",
+      "Demonstration of ether anesthesia",
+      "Demonstration of nitrous oxide as anesthetic",
+      "Discovery of local anesthetic action of cocaine"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "d",
+    "explanation": "\nThe most common preventable cause of anesthetic mishaps is human error. Common human errors include:\nUnrecognized breathing circuit disconnection\nMistaken drug administration\nAirway mismanagement\nAnesthesia machine misuse\nFluid mismanagement\nIntravenous line disconnection\nEquipment malfunctions that can cause preventable anesthetic accidents are:\nBreathing circuit malfunction\nMonitoring device malfunction\nVentilator dysfunction\nAnesthesia machine malfunction\nFaulty laryngoscope\nUnpreventable mishaps include sudden death syndrome and fatal idiosyncratic drug reactions."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Who proposed the term anaesthesia?",
+      "William Morton",
+      "Oliver Wendell Holmes",
+      "Joseph Priestley"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "b",
+    "explanation": "\nThe most common adverse effect persisting following day-care anaesthesia is drowsiness. Adverse effects after day-care anesthesia-\nDrowsiness(most common)\nSore throat\nMyalgia\nHeadache\nDizziness\nNausea and vomiting Cardiovascular adverse effects -\nHypotension\nHypertension\nArrhythmias\nCardiac arrest Respiratory complications -\nHypoxemia\nLaryngospasm\nBronchospasm\nAspiration\nPulmonary edema\nPneumothorax (rare)"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "In 1884, a paper on the local anaesthetic action of cocaine in ophthalmic surgery was published and was lauded by ophthalmologists all over the world. Who proposed it?",
+      "Carl Kolle",
+      "Joseph Priestley",
+      "Humphry Davy"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "b",
+    "explanation": "\nWell-controlled asthma is not a risk factor for postoperative pulmonary complications. Risk factors for postoperative pulmonary complications:\nAge &gt;70 years\nCOPD (uncontrolled)\nNeck, upper abdominal, Aortic, neurologic surgical procedures\nProlonged procedure &gt;2 hours\nGeneral anesthesia with intubation\nBMI &gt; 30\nAlbumin concentration &lt; 35 g/L\nInability to walk two blocks on level land or one flight of stairs"
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Who is considered the \"Father of Anesthesia\"?",
+      "William Morton",
+      "Joseph Priestley",
+      "August bie"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "d",
+    "explanation": "\nIschemic optic neuropathy is the most common cause of perioperative vision loss.\nIt is usually seen after spine surgeries in the prone position, radical neck dissections and following cardiopulmonary bypass.\nSymptoms: Reduced visual acuity, rarely complete blindness; usually presents on awakening from anesthesia.\nPreoperative risk factors:\nDiabetes, hypertension\nSmoking\nCoronary artery disease. Intraoperative risk factors:\nAnaemia\nHypotension\nProne position\nProlonged duration of surgery"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Who was the first person to synthesize nitrous oxide?",
+      "Horace Wells",
+      "Joseph Priestley",
+      "Humphry Davy"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "b",
+    "explanation": "\nThe surgeon is concerned about injury to the ulnar nerve which can be prevented by positioning the forearm in supination compared to pronation. The ulnar nerve is the most commonly injured peripheral nerve following anesthesia.\nOther commonly injured nerves include\nPeroneal nerve\nBrachial plexus\nCommon peroneal nerve\nSciatic nerves"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Passive euthanasia was recently made legal in which of the following countries?",
+      "India",
+      "Netherlands",
+      "Belgium"
+    ],
+    "images": [],
+    "subject": "Anaesthesia",
+    "correct_option": "b",
+    "explanation": "\nThe fluid of choice for resuscitation in burns patients is Ringer lactate in the first 24 hours followed by albumin and 5% dextrose.\nThis is in contrast to blunt and penetrating trauma patients in whom colloids (albumin,\nhydroxyethyl starch) hypertonic saline, and blood are preferred."
+  }
+]

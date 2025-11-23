@@ -1,0 +1,336 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "The newborn eye is usually \t.",
+      "Myopic",
+      "Hypermetropic",
+      "Emmetropic"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe instrument shown in the above image is an indirect ophthalmoscope, and the procedure is known as indirect ophthalmoscopy.\nAn indirect ophthalmoscope produces an inverted, or reversed, real image of 2 to 5 times magnification.\nThe area of field in focus is about 8 disc diameters.\nIt is a binocular, self-illuminated device where the condensing lens is usually required, and stereopsis is present."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "At what age would a child attain full visual acuity?",
+      "6 months",
+      "1 year",
+      "3 years"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "c",
+    "explanation": "\nIndirect ophthalmoscope needs a binocular vision."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "A 45-year-old lady presents with the abnormality as shown below. She is diagnosed with uveal melanoma. What is the embryological origin of the cells involved?",
+      "Neural ectoderm",
+      "Mesoderm",
+      "Surface ectoderm"
+    ],
+    "images": [
+      "Ophthalmology_img_1.jpeg"
+    ],
+    "subject": "Ophthalmology",
+    "correct_option": "d",
+    "explanation": "\nThe image shows a slit lamp. Slit-lamp biomicroscopy is the ideal method to visualize the fundus, especially for observing the optic disc changes seen in glaucoma.\nThe lenses used are as follows:\nContact type: Goldmann three-mirror contact lens, modified Koeppe lens\nNon-contact type: Convex lens \u00e0+60D, +78D, +90D (best lens)\nHruby lens: planoconcave lens with dioptric power of -58.6 D. Option B: The image given below shows a refractometer.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_57.jpeg, Ophthalmology_img_614.jpeg]\nOption C: The image given below shows a keratometer\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_57.jpeg, Ophthalmology_img_615.jpeg]\nOption A: The image given below shows an ophthalmoscope\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_57.jpeg, Ophthalmology_img_616.jpeg]"
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is false regarding the development of the eye?",
+      "The macula is fully developed at birth.",
+      "The lens grows throughout life.",
+      "The cornea attains normal diameter by 2 years."
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe pachymeter is used to measure corneal thickness.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_57.jpeg, Ophthalmology_img_617.jpeg, Ophthalmology_img_618.jpeg, Ophthalmology_img_619.jpeg]\nOptions A and D: A keratometer (ophthalmometer) measures the curvature of the anterior surface of the cornea at two points about 1.25 mm on either side of its center.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_57.jpeg, Ophthalmology_img_58.jpeg, Ophthalmology_img_620.jpeg, Ophthalmology_img_621.jpeg, Ophthalmology_img_622.jpeg]\nOption C: Specular microscopy is the study of the corneal endothelium under a very high magnification (100 times greater than slit lamp biomicroscopy). Endothelium can be analyzed for cellular size, shape, density, and distribution. The healthy endothelial cell is a regular hexagon, and the normal cell density in a young adult is about 3000 cells/mm2.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_58.jpeg, Ophthalmology_img_623.jpeg, Ophthalmology_img_624.jpeg, Ophthalmology_img_625.jpeg]\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_58.jpeg, Ophthalmology_img_626.jpeg, Ophthalmology_img_627.jpeg, Ophthalmology_img_628.jpeg]"
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "By how many weeks of embryonic development does the optic groove appear?",
+      "2 weeks",
+      "3 weeks",
+      "4 weeks"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "a",
+    "explanation": "\nThe image shows a Ziegler knife, which is used to open the lens capsule and aspirate the lens material in congenital cataract surgeries."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Embryonic development of ciliary muscles is from \t.",
+      "Surface ectoderm",
+      "Neural ectoderm",
+      "Neural crest"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe given instrument is an indirect gonioscope, which is used to visualize the angle of the anterior chamber, i.e., for gonioscopy, and not the angle of the posterior chamber.\nTypes:\nIndirect gonioprism- provides mirror image of the opposite angle.\nDirect goniolens- provides a direct view of the angle Application:\nTo view the angle of the anterior chamber\nLocalization of the foreign body, abnormal blood vessels, or tumors in the angle\nDemonstration of the extent of peripheral anterior synechiae\nDirect goniolens can be used during goniotomy"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "After conception, the canal of Schlemm appears by \t .",
+      "3rd month",
+      "4th month",
+      "5th month"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "a",
+    "explanation": "\nThe clinical vignette points to a diagnosis of glaucoma not responsive to medical treatment and trabeculectomy and the device used is an ex-Press\u2122 glaucoma implant (mini shunt).\nIt is a form of minimally invasive glaucoma surgery (MIGS) to increase aqueous drainage.\nEx-PRESS glaucoma implant is a small stainless steel device. It is inserted under a scleral flap during a modified trabeculectomy. Complications such as hypotony are lower than with standard trabeculectomy.\nGlaucoma drainage devices are devices that allow aqueous outflow by establishing communication between the anterior chamber and sub-Tennon's space/sub-conjunctival space. While these devices were traditionally reserved for high-risk patients, or after trabeculectomy had failed, they are becoming increasingly popular.\nThe commonly used devices are as follows:\nShunts using episcleral explants\nAhmed glaucoma valve: Silicone\nMolteno implant - Polypropylene plate and silicone plate\nBaerveldt implant - Silicone\nMini-shunts\nEx-Press\u2122 Mini-Shunt: Stainless stee\niStent\u00ae - Titanium"
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "What is the anteroposterior diameter of the adult eyeball?",
+      "2.6 cm",
+      "2.5 cm",
+      "2.4 cm"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "d",
+    "explanation": "\nThe image given above shows a Lister's perimeter. It is used in manual perimetry for visual field charting\nClassification:\nManual: Confrontation, Listers, Campimetry, Goldmann perimeter\nAutomated: Octopus, Field Master, Humphrey Field Analyzer\nStatic: Friedman, Automated\nKinetic: Confrontation, Listers, Scotometry, Goldmann The best type is automated perimetry."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "A 34-year-old lady comes to the clinic complaining of problems in her vision. On perimetry, a visual field defect as shown below is obtained. Which of the following vessels does not supply the anatomical location of the lesion?",
+      "Anterior cerebral arter",
+      "Anterior communicating arter",
+      "Internal carotid arter"
+    ],
+    "images": [
+      "Ophthalmology_img_2.jpeg"
+    ],
+    "subject": "Ophthalmology",
+    "correct_option": "c",
+    "explanation": "\nTonopen is used for measuring intraocular pressure (IOP) in a scarred cornea.\nIt is a hand-held electronic contact tonometer (a modified version of the older Mackay\u2013Marg tonometer). Besides portability, its main advantage is the ability to measure IOP reasonably accurately in eyes with distorted or edematous corneas and through a soft contact lens.\nTypes of tonometry:\nIndentation tonometry- Reading depends on scleral rigidity, e.g., Schiotz tonometer\nApplanation tonometry- Based on the amount of force needed to flatten or applanate a known area of the cornea, Imbert\u2013Fick principle. This is further divided into two types -\nFixed force: IOP is proportional to the area, e.g., Maklakov, Barraquer\nFixed area and variable force: IOP is proportional to force. The most reliable is Goldmann.\nSelf-measurement: Rebound\nNon-contact type: Pulse Air, Air-Puff\nIrregular cornea: Tonopen, MacKay\u2013Marg Recent tonometers:\nPascals tonometer (dynamic contour tonometry [DCT]): Contact; used for post-LASIK IOP measurement.\nReichert Ocular Response Analyzer\u00ae: Non-contact\nNote: Tonography is a non-invasive technique for determining the facility of aqueous outflow. The image given below shows fluorescein-stained semicircular mires.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_58.jpeg, Ophthalmology_img_629.jpeg]"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "A college student comes to the OPD for refractive error testing. Her eyes are dilated using tropicamide. Which of the following statements is false about the structure this drug acts on?",
+      "It is triangular in cross section.",
+      "There are around 30-40 processes in pars plana and pars plicata",
+      "Its epithelium is derived from the anterior edge of the optic cup."
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nCataract surgery with an intraocular lens (IOL) implantation is the treatment of choice in congenital cataracts. The above image depicts a modified C-loop type of posterior chamber intraocular lens (PCIOL) used in such cases.\nThis surgery involves an extracapsular cataract extraction (ECCE) with primary\nposterior capsulorhexis and anterior vitrectomy. After removal of the cataractous lens, a posterior chamber intraocular lens (PCIOL) is implanted.\nPCIOL rest entirely behind the iris. They may be supported and fixed as follows:\nCapsular bag fixation of PCIOL (most ideal method)\nCiliary sulcus fixation\nSclera fixation Parts of the IOL:\nThe central part overlying the optic axis is called the optic.\nThe peripheral arms used for placement and stabilization are the haptics. The image given below shows different types of intraocular lens.\n [Image Reference: Ophthalmology_img_25.jpeg, Ophthalmology_img_300.jpeg]"
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "A 12-year-old girl you examined in an outreach camp is found to have this abnormality. What is the most common site where the condition is seen?",
+      "Superonasal",
+      "Inferonasal",
+      "Superotemporal"
+    ],
+    "images": [
+      "Ophthalmology_img_3.jpeg"
+    ],
+    "subject": "Ophthalmology",
+    "correct_option": "a",
+    "explanation": "\nThe image depicts Kelman multiflex type of anterior chamber intraocular lens (ACIOL). It is the most commonly used ACIOL.\nAnterior chamber IOLs lie entirely in front of the iris and are supported in the angle of the anterior chamber. IOL implantation is the method of choice for correcting aphakia.\nThese are associated with a higher incidence of bullous keratopathy. The image given below shows different types of intraocular lens.\n [Image Reference: Ophthalmology_img_25.jpeg, Ophthalmology_img_300.jpeg]"
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "A child was brought with complaints of decreased vision. Fundus examination shows a developmental anomaly as shown below. What is the cause of this anomaly?",
+      "Incomplete closure of the embryonic fissure",
+      "Faulty migration of neural crest cells",
+      "Exuberant proliferation of glial tissue"
+    ],
+    "images": [
+      "Ophthalmology_img_4.jpeg"
+    ],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe given image depicts a Maddox wing. It is an instrument by which the amount of heterophoria for near vision can be measured.\nMethods to examine heterophoria:\nTesting for refractive error\nCover\u2013uncover test\nPrism bar cover test (PBCT)\nMaddox rod test\nMaddox wing test\nMaddox tangent scale: heterophoria for distance\nMeasurement of the near point of convergence: Using RAF rule (Normally, it is 70 mm)\nMeasurement of fusional reserve- done with a synoptophore or prism bar"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "What is the embryological origin of the structure marked in the image?",
+      "Neural ectoderm",
+      "Mesoderm",
+      "Surface ectoderm"
+    ],
+    "images": [
+      "Ophthalmology_img_5.jpeg"
+    ],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe image shows Jackson\u2019s cross cylinder (flip-cross technique) which is used to refine the power and axis of the cylindrical lens.\nOption A: Nagel\u2019s anomaloscope is used to test color vision.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_58.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_630.jpeg, Ophthalmology_img_631.jpeg, Ophthalmology_img_632.jpeg]\nOption C: Maddox rod consists of parallel red or colorless cylinders stacked together. Maddox rod test is a macular function test used to measure the degree of heterotropia or heterophoria in cases of torsional diplopia.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_633.jpeg]\nOption D: Retinoscope\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_634.jpeg]"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "The optic foramen is situated between the:",
+      "Lesser and greater wings of the sphenoid",
+      "Lesser wing and body of the sphenoid",
+      "Greater wing and body of the sphenoid"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "c",
+    "explanation": "\nThe above instrument is a Maddox rod. Maddox Rod Test\nA Maddox rod is a specially constructed device, consisting of a series of parallel cylinders, that converts a point source of light into a line image. It can be used to test for horizontal and vertical deviations, and when used in conjunction with another Maddox rod, for cyclo deviations.\nA patient is asked to fix on a point light in the center of Maddox tangent scale placed 6 meters away. A Maddox rod is placed in front of one eye with the axis of the rod parallel to the axis of deviation. The patient will see a point light with one eye and a red line with the other. Due to dissimilar images of the two eyes, fusion is broken and heterophoria becomes manifest. The number on the Maddox tangent scale where the red line falls will be the amount of heterophoria in degrees.\n [Image Reference: Ophthalmology_img_42.jpeg, Ophthalmology_img_462.jpeg]\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_42.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_463.jpeg, Ophthalmology_img_635.jpeg]\n [Image Reference: Ophthalmology_img_42.jpeg, Ophthalmology_img_465.jpeg]"
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "During a game, a 26-year-old baseball player is hit in the head by a baseball, which fractures the optic canal. Which of the following pairs of structures is most likely to be damaged?",
+      "Optic nerve and ophthalmic vein",
+      "Ophthalmic vein and ophthalmic nerve",
+      "Ophthalmic artery and optic nerve"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nStenopaeic slit is not used for corneal tattooing.\nStenopaeic slit is an ophthalmological instrument that is used in:\nFincham\u2019s test (Option A) : This test is used to differentiate between the colored halos due to immature cataract and corneal abnormalities such as corneal edema due to glaucoma.\nTo find out the axis in astigmatism (option D) for prescribing the correction glasses.\nTo find out the optimal site for optical iridectomy (option C) for treating cases of central macular or leucomatous corneal opacities.\nCorneal tattooing was done mainly in the past for cosmetic purposes. It is commonly done for firm scars of corneal opacities in a eye without any useful vision.\nThe below given image is of stenopaeic slit.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_636.jpeg, Ophthalmology_img_637.jpeg, Ophthalmology_img_638.jpeg]"
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "The anterior segment of the eye includes all except \t.",
+      "Anterior chamber",
+      "Posterior chamber",
+      "Vitreous"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe given image depicts Optical Coherence Tomography (OCT) of a normal macula.\nIt is a non-invasive, noncontact imaging system providing high-resolution cross-sectional images of the posterior segment. It uses near-infrared light interferometry to do so."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "The posterior chamber in the eyeball is filled with \t.",
+      "Aqueous humor",
+      "Vitreous humor",
+      "Lymph"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe given image depicts a duo-chrome test based on chromatic aberration. It is used to refine the final sphere in subjective refraction.\nThe patient is asked to compare the clarity of the letters on the green and the red side. If a myopic sees the letters of the green side clearer, he is overcorrected. So, +0.25 D sphere is added or\n-0.25D is removed. However, if a myopic sees the letters on the red side clearer, he is undercorrected and -0.25 D sphere is added. With optimal spherical correction, the letters on the red and green halves of the chart appear equally clear."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Which of the following structures is attached to Whitnall\u2019s tubercle?",
+      "Check ligament of the medial rectus",
+      "Superior oblique tendon",
+      "Check ligament of the lateral rectus"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nAn indirect ophthalmoscope produces a real, inverted and laterally reversed image of the fundus.\nAll the other instruments mentioned including direct ophthalmoscope, Hruby lens and Goldman contact lens produce a virtual and erect image of the fundus."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is false regarding the tarsal plates?",
+      "Tarsal plates are cartilaginous structures.",
+      "They give structural support to the eyelid.",
+      "LPS aponeurosis is attached to the superior border of the upper tarsal plate."
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "d",
+    "explanation": "\nThe given image is of a phacoprobe showing the needle and the silicone irrigation sleeve. This is used in phacoemulsification to break the nucleus into fragments and aspirate them."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "A 55-year-old man is being evaluated for herpes zoster ophthalmicus. On eliciting corneal reflex, there is no response. Which of the following nerves forms the afferent limb of this reflex?",
+      "Infratrochlear nerve",
+      "Supratrochlear nerve",
+      "Supraorbital nerve"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "c",
+    "explanation": "\nThe image shows Hertel's exophthalmometer.\nExophthalmometry: measures protrusion of the apex of the cornea from the outer orbital margin\n(with the eyes looking straight ahead).\nAn absolute protrusion of &gt;20 mm or a difference of &gt;2 mm between the two eyes is labeled as proptosis.\nInstruments used to measure proptosis:\nLuedde exophthalmometer\nHertel\u2019s exophthalmometer- most common instrument used. Its advantage is that it measures both eyes simultaneously.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_639.jpeg]"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "Which intrinsic ocular muscle has a parasympathetic innervation?",
+      "Superior rectus",
+      "Superior oblique",
+      "Sphincter pupillae"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "a",
+    "explanation": "\nThe given instrument is a gonioscope.\nIt is used to visualize the angle of the anterior chamber (gonioscopy).\nTypes:\nIndirect gonioprism- provides a mirror image of the opposite angle\nDirect goniolens- provides a direct view of the angle Application:\nTo view the angle of the anterior chamber\nLocalization of foreign body, abnormal blood vessels, or tumors in the angle\nDemonstration of the extent of peripheral anterior synechiae\nDirect goniolens used during goniotomy"
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "What is the thinnest part of the retina?",
+      "Foveola",
+      "Fovea centralis",
+      "Optic disc"
+    ],
+    "images": [],
+    "subject": "Ophthalmology",
+    "correct_option": "a",
+    "explanation": "\nRetinoscopy is an objective method used to determine the error of refraction by applying the method of neutralization. It is also called skiascopy or shadow test.\nPrinciple: When light is reflected from a mirror into the eye, the direction in which light will travel across the pupil will depend upon the eye's refractive state.\nDistance: Usually, the doctor sits at a distance of 1 meter or an arm's length. Types of retinoscopes:\nPriestley\u2013Smith retinoscope\nStreak retinoscope\nThe image given below shows a retinoscopy being performed on a patient.\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_640.jpeg]\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_60.jpeg, Ophthalmology_img_641.jpeg]\n [Image Reference: Ophthalmology_img_1.jpeg, Ophthalmology_img_59.jpeg, Ophthalmology_img_634.jpeg]"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "In the anatomy dissection hall, you are shown the dissected orbit with the markers as shown below. You are asked to choose the muscles causing depression of the eyeball. Which will you choose?",
+      "A and E",
+      "B, C, and D",
+      "B, D, and E"
+    ],
+    "images": [
+      "Ophthalmology_img_6.jpeg"
+    ],
+    "subject": "Ophthalmology",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows a Hruby lens, and it provides a small field of vision.\nIt is a planoconcave lens. Diopteric power is -58.6D. It provides a small field of vision, with low magnification. Fundus beyond the equator cannot be visualized."
+  }
+]

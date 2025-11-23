@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "The origin of social and preventive medicine dates back to the:",
+      "17th century",
+      "18th century",
+      "16th century"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "d",
+    "explanation": "\nXYY genotype is often associated with aggressive tendencies, antisocial, and often, criminal behavior. It is called Jacob\u2019s syndrome.\nOption A: XXY genotype is associated with Klinefelter's syndrome. Option B: XO genotype is associated with Turner's syndrome.\nOption C: Triple X syndrome is associated with genotype XXX. It is also called super female."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which medicine claims to be the world\u2019s first organized body of medical knowledge?",
+      "Indian",
+      "Chinese",
+      "Egyptian"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nThe risk of developing Down\u2019s syndrome in a baby born to a 45-year-old woman is 1 in 50.\nThe risk of developing of Down's syndrome in a baby born to a 20-year-old woman is around 1 in 3000 and it increases with rising maternal age. It is an autosomal disorder caused by trisomy of chromosome 21."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "All of the following are true about the ministry of AYUSH except:",
+      "It was formed in 2014 in India for education and research on AYUSH",
+      "It aims to mainstream AYUSH as part of the National Rural Health Mission",
+      "It was previously known as department of Indian system of medicine and homeopathy"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "d",
+    "explanation": "\nAtaxia-telangiectasia or Louis-Bar syndrome is an autosomal recessive condition. Autosomal dominant conditions include:\nNeurofibromatosis\nMarfan\u2019s syndrome\nRetinoblastoma\nHuntington's chorea\nPolycystic kidney disease"
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "Samuel Hahnemann is referred to as the founding father of:",
+      "Ayurveda",
+      "Homeopathy",
+      "Unani"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "d",
+    "explanation": "\nAutosomal recessive disorders usually manifest in childhood or earlier.\nHeterozygotes are unaffected by the disease. When both parents are heterozygous, each offspring (both male and female) has a 1:4 chance of being affected. Examples of autosomal recessive disorders include several inborn errors of metabolism like phenylketonuria, cystic fibrosis, and galactosemia."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "The Tridosha theory of disease explains disease as a disturbance in the equilibrium of the three humors. To which system of medicine does this theory belong to?",
+      "Ayurveda",
+      "Homeopathy",
+      "Siddha"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "a",
+    "explanation": "\nThe given clinical scenario is suggestive of hemophilia A. It is an X-linked recessive disorder. Hemophilia is of two types:\nHemophilia A - due to mutations in the F8 gene leading to factor VIII deficiency\nHemophilia B - due to mutations in the F9 gene leading to factor IX deficiency\nAffected children often present with prolonged bleeding after procedures like circumcision or major bleeds like intracranial hemorrhages. When the child begins to walk, bleeding into the joint (hemarthrosis) may occur, causing painful swellings and reddening.\nLaboratory investigations show elevated aPTT, with normal PT and platelet count. It is treated by the administration of factor VIII or factor IX concentrates."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Which system of medicine originated in Tamil\u2013speaking areas in south India?",
+      "Ayurveda",
+      "Naturopathy",
+      "Unani \u2013 Tibb"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nThe given peripheral smear shows sickling of RBCs, suggestive of sickle cell anemia. It is an autosomal recessive disorder.\nThe prevalence is high among Africans. This disorder usually has its onset during the first year of life. Couples at risk can opt for prenatal testing and diagnosis as well."
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "Where did the Unani\u2013Tibb system of medicine originate?",
+      "Egypt",
+      "China",
+      "Greece"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "c",
+    "explanation": "\nThe primary goal of the Human Genome Project was to determine the sequence of nucleotide base pairs that make up human DNA and to map all genes from the human genome (20,500 genes).\nThe project was launched in 1990 and deemed complete in 2003."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Inoculating a person with a small amount of infective material to obtain protection against it was first pioneered by:",
+      "Robert Koch",
+      "Edward Jenner",
+      "Louis Pasteur"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "a",
+    "explanation": "\nThe Hardy-Weinberg law is related to population genetics. Population genetics is the study of the precise genetic composition of a population and various factors determining the incidence of inherited traits in them.\nFounder effect is a violation to this law. It is due to difference in expression of the genes in founding population. This is responsible for the difference in the distribution of disease in population."
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "Who is referred to as the father of Indian medicine?",
+      "Susruta",
+      "Charaka",
+      "Chanakya"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "c",
+    "explanation": "\nThe Hardy-Weinberg law is applicable for infinitely large, static populations with random mating."
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "Who was responsible for the first codification of medical practice?",
+      "Aristotle",
+      "Hippocrates",
+      "Socrates"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nPositive eugenics encourages the breeding of those with desirable phenotypes. Negative eugenics discourages the breeding of those with undesirable phenotypes. Euthenics is the environmental manipulation to enable genes to express themselves.\nEuphenics is the science of making phenotypic improvements in humans after birth, generally to affect a problematic genetic condition."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Who is known as the first true epidemiologist in the history of medicine?",
+      "Hippocrates",
+      "Susruta",
+      "Louis Pasteur"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "d",
+    "explanation": "\nThis young woman must be advised to undergo prospective counseling.\nIt refers to the process explaining to heterozygous individuals the risk of having affected children if they marry another heterozygous individual. It is performed prior to conception.\nRetrospective counseling is performed after the genetic disorder has already occurred in the first child."
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "Who compiled the 21 volume encyclopedia known as 'the Canon of Medicine'?",
+      "Andreas Vesalius",
+      "Avicenna",
+      "Hippocrates"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nAmniocentesis can be done as early as 14 weeks of gestation.\nIt refers to the examination of a sample of amniotic fluid to diagnose chromosomal disorders and some metabolic errors. It is indicated in the following cases:\nPregnant women aged 35 years or above\nFamily history of:\nChromosomal abnormalities\nMetabolic errors\nChromosomal translocation\nSex-linked genetic disease"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "Who was the mastermind behind the great medical work, Fabrica?",
+      "Andreas Vesalius",
+      "Ambroise Par\u00e9",
+      "Joseph Lister"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nA Punnett square is a diagram used to predict the probability of a particular genotype in an offspring.\nIt is a standard tool for genetic counselors. The image given below shows a Punnett square.\n [Image Reference: PSM_img_28.jpeg, PSM_img_329.png]"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "The father of public health is:",
+      "Tuberculosis",
+      "John Snow",
+      "Cholera"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nThe risk of genetic diseases in consanguineous marriage between first cousins is 4-8%. The risk of genetic diseases in non-consanguineous marriage is 2-4%."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "Match the following scientists with their discoveries:",
+      "1-a, 2-b, 3-d, 4-c",
+      "1-b, 2-a, 3-c, 4-d",
+      "1-d, 2-c, 3-b, 4-a"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "a",
+    "explanation": "\nThe National Suicide Prevention Strategy (NSPS) is a multisectoral approach that will involve national and international government ministries, families and communities, and educational institutes. It aims to reduce suicide mortality by 10% in India by 2030.\nIt recommends REDS path for suicide prevention.\nReinforce leadership, partnership, and institutional capacity in the country\nEnhance the health services capacity to provide suicide prevention services\nDevelop community resilience, societal support for suicide prevention and reduce stigma against suicidal behaviours\nStrengthen surveillance and evidence generation. Objectives\nTo establish effective surveillance mechanism for suicide prevention in next 3 years\nTo establish psychiatric OPDs that provide suicide prevention services through District Menta Health Programme, within next 5 years\nTo integrate mental well-being curriculum in all educational institutes within next 8 years.\nGenetics and Health\nQuestion 1:\nA 42-year-old male prisoner is being evaluated for aggressive tendencies and antisocial behavior. Which of the following genotypes is associated with these symptoms?\nXXY\nXO\nXXX\nXYY\nQuestion 2:\nWhat is the risk of developing Down's syndrome in a baby born to a 45-year-old woman?\n1 in 1000\n1 in 50\n1 in 3000\n1 in 100\nQuestion 3:\nWhich of the following conditions is not autosomal dominant?\nNeurofibromatosis\nRetinoblastoma\nMarfan\u2019s syndrome\nAtaxia telengiectasia\nQuestion 4:\nWhich of the following is incorrect regarding autosomal recessive disorders?\nBoth male and female offspring are affected\nHeterozygotes are not affected\nMost inborn errors of metabolism have this form of inheritance\nIt affects more people at a later age than in childhood\nQuestion 5:\nA 6-year-old boy with recurrent hemarthrosis was found to have deficiency of factor VIII. He was adopted and his family history is unknown. What is the inheritance pattern of this condition?\nX-linked recessive\nAutosomal dominant\nX-linked dominant\nAutosomal recessive\nQuestion 6:\nA pathologist is examining the peripheral smear of a patient with anemia. Which of the following is incorrect about the epidemiology of this disease?\n [Image Reference: PSM_img_28.jpeg, PSM_img_328.jpeg]\nIt is prevalent in areas with high frequency of malaria\nIt is an autosomal dominant disorder\nCouples at risk can undergo prenatal testing and diagnosis\nIt manifests during the first year of life\nQuestion 7:\nWhat was the primary goal of the Human Genome Project?\nTo introduce a gene sequence into a ce\nTo develop new diagnostic techniques for genetic disorders\nTo determine the sequence of nucleotide base pairs in human DNA\nTo study the precise genetic composition of specific populations\nQuestion 8:\nWhat is Hardy-Weinberg law related to?\nPopulation genetics\nBehavioural genetics\nEcological genetics\nDevelopmental genetics\nQuestion 9:\nThe Hardy-Weinberg law is applicable in populations with which of the following?\nMigration\nSmall population\nRandom mating\nGene outflow\nQuestion 10:\nMatch the following.\n1-d, 2-c, 3-b, 4-a\n1-c, 2-d, 3-a, 4-b\n1-b, 2-a, 3-d, 4-c\n1-a, 2-b, 3-c, 4-d\nQuestion 11:\nA young woman with a family history of beta-thalassemia is planning to marry her first cousin. Which of the following will you recommend for this woman?\nRetrospective genetic counseling\nAmniocentesis\nPositive eugenics\nProspective genetic counseling\nQuestion 12:\nA 40-year-old pregnant woman is planned for amniocentesis. What is the gestational age at which it can be done at the earliest?\n10th week of gestation\n14th week of gestation\n20th week of gestation\n18th week of gestation\nQuestion 13:\nWhat is a Punnett square used for?\nRandom sampling\nFinding genotype of offspring\nPopulation genetics\nQuantifying mutations\nQuestion 14:\nThe risk of genetic diseases in consanguineous marriage between first cousins is?\n1-2%\n4-8%\n8-10%\n12-14%\nAnswer Key"
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Who was the architect of the Public Health Act of 1848?",
+      "Joseph Lister",
+      "James Lind",
+      "William Farr"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "c",
+    "explanation": "\nThe image shown is that of a box-and-whisker plot.\nMcNemar's test is a statistical test used on paired nominal data. It is used as a transmission disequilibrium test for detecting linkage disequilibrium."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "Identify the scientist who showed that anthrax was caused by a bacteria.",
+      "Robert Koch",
+      "Edward Jenner",
+      "James Lind"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "a",
+    "explanation": "\nThe Dixon\u2019s Q test is used for identification and rejection of outliers. It is usually used in normal distributions."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "In 1902, it was discovered that malaria was transmitted by the Anopheles mosquito. Who was behind this discovery?",
+      "Ronald Ross",
+      "Charles Alphonse Laveran",
+      "Walter Reed"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "a",
+    "explanation": "\nThe given box-whisker plot represents a positively (or right) skewed distribution. In a positively skewed distribution, the mean &gt; median &gt; mode.\nTo further understand and correlate the fact, have a look at the following images:\n [Image Reference: PSM_img_27.jpeg, PSM_img_321.jpeg, PSM_img_322.jpeg, PSM_img_323.png]\n [Image Reference: PSM_img_27.jpeg, PSM_img_28.jpeg, PSM_img_324.jpeg, PSM_img_325.jpeg, PSM_img_326.png]\nMental Health\nQuestion 1:\nWhich of the following is false about mental health?\nMental disorders are universal, not specific to any group\nMental health is the mere absence of mental illness\nHeredity can contribute to mental illnesses\nSubstance abuse is a type of mental illness\nQuestion 2:\nWhich of the following are sociopathological factors associated with mental health?\n1 &amp; 2 only\n3, 4 &amp; 5\n1, 2 &amp; 4\n2, 3 &amp; 5\nQuestion 3:\nThe incidence of mental illness is higher in individuals who are exposed to causal factors during which period of life?\nPrenatal period\nAdolescence\nFirst 5 years of life\nPerinatal period\nQuestion 4:\nAll of the following can be used for the secondary prevention of mental illness in patients except:\nImproving social environment\nEarly diagnosis\nFamily counseling\nCase work\nQuestion 5:\nPatients with which of the following conditions are considered to have a major mental illness?\nObsessive compulsive disorder\nNeurosis\nDementia\nManic depressive psychosis\nQuestion 6:\nWhich of the following is not a service offered to patients with mental health disorders?\nRehabilitation\nAfter-care services\nUse of modern psychoactive drugs\nEmployment services\nQuestion 7:\nA 32-year-old man is brought to the casualty with a suspected drug overdose. His sister tells you that he has recently started taking a 'superman drug' after hearing about it from his friends. What drug is she referring to?\nCannabis\nSteroids\nAmphetamines\nCocaine\nQuestion 8:\nWhat is currently the most widely used illicit substance in the world?\nCocaine\nAmphetamines\nHeroin\nCannabis\nQuestion 9:\nWhat is the most widely used legal addictive substance in India?\nAlcoho\nTobacco\nCannabis\nBenzodiazepines\nQuestion 10:\nWhich of the following is not an objective of the National Mental Health Programme of 1982?\nEnsure equal human rights to mentally i\nPromote community participation in mental health services\nPromote application of mental health knowledge\nProvide accessibility of mental health care\nQuestion 11:\nWhich of the following is not a component of the District Mental Health Programme?\nTraining\nEarly detection\nProviding data for future planning\nScreening\nQuestion 12:\nWhich of the following is not included in the Mental Healthcare Act of 2017?\nAdvance directive rights of the mentally i\nDecriminalizing suicide\nEstablishing mobile mental health camps\nProcedure for admission, treatment and discharge of the mentally i\nQuestion 13:\nAccording to the WHO Mental Health Gap Action Programme, which of the following is not included in the Mental Health Care Act, 2017?\nScreening of family members\nMobilization of resources\nSocial support\nInterpersonal therapy\nQuestion 14:\nThe National Suicide Prevention Strategy aims to reduce suicide mortality by \t in the country by 2030.\n5%\n10%\n15%\n20%\nQuestion 15:\nWhich of the following is not a component of the REDS path in the National suicide prevention strategy?\nReduce suicidal deaths by 2% in the next 5 years\nEnhance health services to provide suicide prevention strategies\nDevelop community resilience, and societal support for suicide prevention\nStrengthen surveillance and evidence generation\nAnswer Key"
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "The first bacterium discovered as a cause of the disease was:",
+      "TB bacillus",
+      "Anthrax bacillus",
+      "Leprosy bacillus"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nSpearman coefficient is used to determine correlation. It is used to find linear or non-linear relationships for data with discrete ordered intervals.\nPearson correlation coefficient is used to find linear relationships for data with continuous intervals."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "Max Joseph von Pettenkofer described the concept of:",
+      "Multi-factorial causation of disease",
+      "Supernatural theory of disease",
+      "Spontaneous generation theory"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nThe Bland-Altmann analysis is used for comparing a newly developed test with another test, which usually is the gold standard. This method involves the graphical construction of a Bland-Altmann plot which is used to compare the measurements from both methods.\nFacets of Clinical Research and Biostatistics\nQuestion 1:\nWhich of the following is true about simple random sampling?\nIt is the sampling method of choice for heterogenous population\nMembers are selected without specifying any criteria for selection\nEvery 5th or 10th member is picked at regular interva\nPopulation is first divided into strata then sampled randomly\nQuestion 2:\nA study on the prevalence of diabetes was conducted and the sampling method shown below was used. Identify the sampling method used.\n [Image Reference: PSM_img_26.jpeg, PSM_img_308.jpeg, PSM_img_309.jpeg, PSM_img_310.jpeg]\nSimple random\nCluster\nSystematic\nStratified random\nQuestion 3:\nWhich of the following is incorrect about cluster sampling?\nClusters are created based on similarities\nIt is a two stage sampling\nIt is cheaper than most other methods\nIt is a method used for rapid assessment\nQuestion 4:\nWhich sampling method is used for assessing the immunization status of children under the immunization program?\nSystematic sampling\nCluster sampling\nGroup sampling\nStratified random sampling\nQuestion 5:\nA research is being conducted to assess the nutritional status of the children in a particular district. For this purpose, 2 children are randomly selected from every school in the district. What is this type of sampling known as?\nSimple random\nSystematic random\nStratified random\nCluster\nQuestion 6:\nIn which of the following sampling techniques is design effect used?\nSimple random\nStratified random\nCluster\nSystematic random\nQuestion 7:\nSimple random sampling is ideal for which of the following study groups?\nA study being conducted on all vaccinated people of an area\nA study on occupational exposure in all workers of the same factory\nA study being conducted on prevalence of acute gastroenteritis in all school children of an area\nA study on prevalence of hypertension in men aged 50-75 years in an area\nQuestion 8:\nIn a study, first schools were sampled, then sections and finally students. What is this type of sampling known as?\nStratified sampling\nSnowball sampling\nSystematic sampling\nMultistage sampling\nQuestion 9:\nFor an epidemiological study, sampling was done as shown below. What is this type of sampling known as?\n [Image Reference: PSM_img_26.jpeg, PSM_img_311.jpeg, PSM_img_312.jpeg, PSM_img_313.jpeg]\nCluster sampling\nSimple random sampling\nStratified random sampling\nSystematic sampling\nQuestion 10:\nIn a study, subjects were assigned according to the potential factor that will influence the outcome of the study. What is this type of sampling known as?\nStratified\nSystematic\nSimple\nCluster\nQuestion 11:\nIdentify the given statistical plot.\n [Image Reference: PSM_img_26.jpeg, PSM_img_314.png]\nForest plot\nFunnel plot\nStem-and-leaf plot\nBox and Whisker plot\nQuestion 12:\nIdentify the type of statistical plot shown below.\n [Image Reference: PSM_img_26.jpeg, PSM_img_306.png]\nFunnel plot\nForest plot\nMcNemar plot\nSpot map\nQuestion 13:\nThe plot from the data obtained from a study is shown below. Which of the following results in this type of plot?\n [Image Reference: PSM_img_27.jpeg, PSM_img_315.jpeg]\nSampling error\nBerkesonian bias\nLarge sample size of people\nPublication bias\nQuestion 14:\nResults of various studies carried out to study the role of smoking in breast cancer are plotted below. Identify the plot.\n [Image Reference: PSM_img_27.jpeg, PSM_img_316.jpeg]\nMcNemar plot\nBox-and-whisker plot\nForest plot\nFisher\u2019s exact plot\nQuestion 15:\nA study was done to assess the risk factors for breast cancer in 100 females from urban cities. A statistical group and analysis are shown below. The values indicate the odds ratio and the 95% confidence interval. How many risk factors may be ascertained from the statistica analysis of the research?\n [Image Reference: PSM_img_27.jpeg, PSM_img_317.jpeg]\n3\n4\n5\n6\nQuestion 16:\nIdentify the following statistical plot.\n [Image Reference: PSM_img_27.jpeg, PSM_img_318.jpeg]\nFisher\u2019s box plot\nStem and leaf plot\nBox-and-whisker plot\nMcNemar\u2019s plot\nQuestion 17:\nWhat is Dixon\u2019s Q test used for?\nOutliers\nInterquartile range\nDifference of proportions\nMedians\nQuestion 18:\nRegarding the given box-whisker plot, the true statement is:\n [Image Reference: PSM_img_27.jpeg, PSM_img_319.png]\nMean &gt; Median &gt; Mode\nMode &gt; Median &gt; Mean\nMode = Mean = Median\nPeaked symmetrical distribution\nAnswer Key"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "In which country was the last case of naturally occurring smallpox in the world recorded?",
+      "India",
+      "Chile",
+      "Somalia"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nIn this scenario,contingency table has 3 rows and 4 columns. Hence, the degree of freedom, df = (3 \u2013 1) (4 \u2013 1) = 6.\nIn a Chi-square test for a contingency table, the degrees of freedom (df) = (r-1) (c-1), where r is the number of rows and c is the number of columns.\nCorrelational and Predictive Techniques\nQuestion 1:\nA study is conducted to find the relationship between the height and weight of school students. Which of the following would be useful in this study?\nCoefficient of variation\nCoefficient of correlation\nCoefficient of regression\nCoefficient of mean deviation\nQuestion 2:\nWhich among the following is false about correlation?\nIt indicates the strength of relationship between 2 variables\nCorrelation coefficient of 1 indicates a linear relationship\nCorrelation cannot measure risk\nCorrelation implies a causal relationship\nQuestion 3:\nDuring a study conducted to assess the effect of smoking on life expectancy, the correlation coefficient was found to be 0.60. Calculate the coefficient of determination for this study.\n0.6\n0.36\n0.4\n1.2\nQuestion 4:\nWhat is the best way to study relationship between two variables?\nForest plot\nScattergram\nFunnel plot\nFrequency polygon\nQuestion 5:\nA psychiatry resident is conducting a study to assess the relationship between prefrontal blood flow under cognitive load and the severity of psychotic symptoms in schizophrenic patients. He calculates the correlation coefficient as -1.24. You can therefore conclude that:\nPrefrontal blood flow is a good predictor of the severity of psychotic symptoms\nPrefrontal blood flow accounts for most of the variance in symptoms\nSchizophrenia causes low prefrontal blood flow\nThe correlation coefficient has been calculated incorrectly\nQuestion 6:\nIn a random sample of 5000 corporate workers, the correlation coefficient of work satisfaction and life expectancy was found to be +0.7 with a p-value of 0.01. What is your interpretation?\nWork satisfaction does not improve life expectancy\nStrong statistically significant positive association between the variables\n70% people who enjoy work will live longer\n30% people who do not enjoy work will have a shorter life expectancy\nQuestion 7:\nA group of cardiologists found a correlation coefficient of 0.90 (p-value = 0.01) between the systolic BP and serum cholesterol levels of patients attending their clinics. Which of the following statements is an incorrect interpretation of this study?\nThe magnitude of systolic BP and serum cholesterol levels are closely related\nA patient with a high systolic BP is likely to have high serum cholesterol\nA patient with a low systolic BP is likely to have low serum cholesterol\n80% of the variation in BP can be explained by serum cholesterol and vice versa\nQuestion 8:\nAmong the given options, what can be the likely value of the coefficient of correlation between infant mortality rate and economic status?\na) +1\nb) -1\nc) +0.22\nd) -0.8\nQuestion 9:\nHigh salt intake in individuals is associated with high blood pressure. What type of correlation is this?\nNegative correlation\nPositive correlation\nNon-linear correlation\nZero correlation\nQuestion 10:\nA scattergram was plotted as shown below to study the relationship between two variables. What is the correct interpretation?\n [Image Reference: PSM_img_25.jpeg, PSM_img_301.jpeg]\nThere is correlation between both variables and the Pearson\u2019s coefficient is 1\nThere is correlation between both variables and the Pearson\u2019s coefficient is \u2013 1\nThere is non-linear correlation between both variables\nThere is no association between both variables\nQuestion 11:\nWhat conclusion can be drawn from the following scattergram?\n [Image Reference: PSM_img_25.jpeg, PSM_img_302.jpeg]\nThere is a perfect negative correlation between the two variables\nThere is a high positive correlation between the two variables\nThere is a high negative correlation between the two variables\nThere is a perfect positive correlation between the two variables\nQuestion 12:\nThe value of one parameter can be estimated from another related parameter by:\nStandard deviation\nCorrelation\nScattergram\nRegression\nQuestion 13:\nIf correlation is given by the equation y = a + bx, what would be the nature of the graph?\nStraight line\nParabola\nHyperbola\nSigmoid curve\nQuestion 14:\nLook at the image below and select the linear regression equation corresponding to the graph.\n [Image Reference: PSM_img_25.jpeg, PSM_img_303.jpeg]\ny=10-x\nx=10+y\ny=11+2x\nx=11+2y\nQuestion 15:\nIn a study, the total cholesterol was calculated as a + b\u25a0x\u25a0 + b\u25a0x\u25a0 + b\u25a0 x\u25a0, where x\u25a0 indicates calorie intake, x\u25a0 indicates physical activity, and x\u25a0 indicates body mass index. What is this an example of?\nSimple linear regression\nSimple curvilinear regression\nMultiple linear regression\nLogistic regression\nQuestion 16:\nAn epidemiologist has determined five independent factors influencing the outcome of a particular disease. Which of the following statistical methods can he use to compare these factors?\nANOVA\nMultiple linear regression\nT-test\nLogistic regression\nQuestion 17:\nWhat test is used to compare Kaplan-Meier survival curves?\nANOVA\nBland-Altman analysis\nChi-square test\nCox proportional hazards test\nQuestion 18:\nWhich of the following is not used to compare survival curves?\nMantel-Haenszel test\nLog-rank test\nCox regression\nFisher\u2019s exact test\nQuestion 19:\nWhat is the Spearman coefficient used to determine?\nRegression\nCorrelation\nComparison of variation\nStandard deviation comparison\nQuestion 20:\nA researcher wants to compare a newly developed test for COVID with the gold standard test. Which of the following methods can he use?\nRegression analysis\nBland-Altmann Test\nCox regression\nANOVA\nAnswer Key"
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "Who first coined the term social medicine?",
+      "John Ryle",
+      "Jules Gu\u00e9rin",
+      "Alfred Grotjahn"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "d",
+    "explanation": "\nAccording to the empirical rule of normal distribution, 95% of the distribution falls within two standard deviations of the mean, i.e., mean \u00b1 2 SD.\nIn this scenario, the marks between 85 and 125 fall within 2 standard deviation of the mean which is 105. Thus 95% of the students will have the marks in this range."
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "How would you define socialized medicine?",
+      "Subsidized medical care at government's expense",
+      "Free medical care provided and regulated by government alone",
+      "Free medical care at government expense, regulated by professional groups"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nIn a normal distribution, 50% of the values lie below the mean.\nIn this scenario, 50%, i.e., 50 of the 100 people will have a systolic BP of less than 120 mmHg."
+  },
+  {
+    "id": 24,
+    "question_text": "",
+    "options": [
+      "All of the following are true about socialized medicine except:",
+      "Ensures social equity and universal coverage",
+      "Reduces competition among physicians",
+      "Use state funds for free medicine"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "b",
+    "explanation": "\nAccording to the empirical rule of normal distributions, 95% of the distribution falls within 2 standard deviations of the mean, i.e., mean \u00b1 2 SD covers 95% of the distribution."
+  },
+  {
+    "id": 25,
+    "question_text": "",
+    "options": [
+      "Who said that the secret of national health lies in the homes of people?",
+      "Florence Nightingale",
+      "Indira Gandhi",
+      "Abraham Lincoln"
+    ],
+    "images": [],
+    "subject": "PSM",
+    "correct_option": "a",
+    "explanation": "\n68% of the population will lie between 180- 220.\nIn a normal distribution curve, 68% of the values lie within the mean +/- 1 standard deviation and the mean=median=mode. Since the mean = 200 and the standard deviation = 20:\n68% of population will lie between Mean +/- 1SD, that is, 200 +/- 20 = 180-220 95% of population lies between Mean+/-2SD, 200+/- 2*20 = 160- 240\n99% of population lies between Mean+/-3SD, 200+/- 3*20 = 140- 260\nDescriptive Statistics IV - Measures of Position\nQuestion 1:\nWhich of the following is not a measure of position?\nZ scores\nRange\nCentiles\nQuantiles\nQuestion 2:\nWhich of the following statements about quantiles are true?\n1, 4 and 5\n1, 3 and 5\n2, 3 and 4\n1, 2, 4 and 5\nQuestion 3:\nCentiles divide data into \t equal parts?\n100\n4\n99\n10\nQuestion 4:\nDuring a school health camp, a group of 250 students are arranged in the ascending order of their height. Which student would have the 40th percentile value for height?\n80th\n40th\n100th\n140th\nQuestion 5:\nBy calculating which of the following can we obtain the central value of a sample with 180 elements?\n90th percentile\n2nd decile\n9th decile\n2nd quartile\nQuestion 6:\nWhich measure of position divides the distribution in a ratio of 3:1?\n33rd centile\nFirst quartile\n7th decile\nThird quartile\nQuestion 7:\n\u2030ou are recording the blood pressure values of 200 adults in a population. The first quartile diastolic BP is 68 mmHg and the third quartile is 105 mmHg. How many patients are there in the 3rd and 4th quarters?\n50\n100\n75\n150\nQuestion 8:\nThe forced expiratory volume (FEV) of 300 patients visiting the respiratory medicine outpatient department is recorded. The data has a median value of 2.5 litres with the first and\nthird quartiles being 1.5 litres and 4.5 litres respectively. How many persons in the sample are expected to have an FEV between 1.5 and 4.5 litres?\n75\n150\n225\n200\nQuestion 9:\nWhich of the following distributions is preferred for the calculation of z scores?\n\u2018ormal distribution\nRight skewed distribution\nLeft skewed distribution\nBimodal distribution\nQuestion 10:\nIn a study on haemoglobin levels in healthy women, the data recorded has a mean of 13.5 gm/dL and a standard deviation of 1.5 gm/dL. What is the z score for an element with a haemoglobin value of 15.0 gm/dL?\n1.5\n10.0\n2.0\n1.0\nQuestion 11:\nThe diastolic BP of 125 women aged between 18 and 60 years was recorded. The mean of the data is 70 mmHg with a standard deviation of 10 mmHg. What will be the 5th percentile value?\n40\n53.6\n67.5\n89.4\nAnswer Key"
+  }
+]

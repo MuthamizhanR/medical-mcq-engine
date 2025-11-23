@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "What is the normal urine output in adults?",
+      "400 mL/day",
+      "700 mL/day",
+      "1500 mL/day"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows keratin pearls which are characteristic of squamous cell\ncarcinoma. Squamous cell carcinoma is characterized by the proliferation of atypical squamous cells with horn pearls/keratin pearls."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which parameter is the best guide to monitor the adequacy of fluid resuscitation in a patient?",
+      "Central venous pressure",
+      "Urine output",
+      "Blood pressure"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nOn examination of an ulcer, everted margins will be suggestive of squamous cell carcinoma (SCC).\nSCC is the second most common skin cancer, while BCC is the most common skin cancer. Variants of SCC in-situ include:\nBowen's disease\nErythroplasia of Queyrat\nSCC initially presents as smooth nodular, verrucous, papillomatous lesions. These lesions then ulcerate and form a characteristic, everted edge, surrounded by inflamed, indurated skin.\nSurgical excision is the treatment of choice. Other modalities of treatment include:\nCautery ablatio\nCryotherapy\nDrug therapy including imiquimod\nMoh\u2019s microsurgery\nRadiation therapy\nThe below image shows SCC with everted margins:\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_995.jpeg, Surgery_img_996.jpeg, Surgery_img_997.jpeg]\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_998.jpeg]"
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "A surgery resident during the rounds advised the intern to monitor the burns patient for adequate fluid resuscitation and also instructed him to give a bolus of 10 mL/kg body weight if the patient showed signs of hypoperfusion. All of the following are indications to give bolus fluid, except:",
+      "Tachycardia",
+      "Low haematocrit",
+      "Restlessness"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "d",
+    "explanation": "\nHPV 6 &amp; 11 are not risk factors for squamous cell carcinoma, HPV 16 &amp; 18 are risk factors for squamous cell carcinoma.\nNote: Skin cancer is the most frequent malignant neoplasm in organ transplant recipients, with SCC and BCC representing 95% of cancer."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "What is the source of endogenous fluids in the body?",
+      "Consumed liquids",
+      "Reduction of solid foodstuff",
+      "Oxidation of solid foodstuff"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nBroder's staging for SCC is based on histological grading. Depth or size of the tumor and lymph node involvement are not included in Broder's staging.\nA skin biopsy is mandatory in all patients with suspected squamous cell carcinoma. Mohs micrographic surgery is indicated in patients with aggressive and high-risk SCC.\nHigh-risk features of SCC include:\nPerineural invasion\nDepth of lesion greater than 2 mm\nLesions on the ear\nPoorly differentiated lesions\nNote: Mohs micrographic surgery is the treatment of choice in BCC."
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "A patient with a stab wound to the abdomen underwent an emergency laparotomy. After the damaged intestine was resected, less than 100 cm of jejunum remained and a jejunostomy was made. Which of the following is not true?",
+      "The patient is a net secretor",
+      "Water intake should be less than a litre a day",
+      "Ensure adequate resuscitation with hypotonic fluids"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nSCC is a malignant tumor of keratinizing cells of the epidermis arising from the stratum germinatum (basalis) and expresses cytokeratins 1 and 10.\nCK-20 is specific for Merkel cell carcinoma. BCL2 is used to distinguish between basal cell carcinomas and trichoepitheliomas. HMB-45 is used to detect melanocytes."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "A patient with Crohn's disease has multiple skip lesions in the intestine. Surgical resection of damaged areas is being planned. Removal of which part will cause steatorrhoea?",
+      "Duodenum",
+      "Jejunum",
+      "Ileum"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nThe given scenario and image showing an exophytic nodule with central keratinous debris is suggestive of keratoacanthoma.\nKeratoacanthoma is a low-grade squamous cell carcinoma. It presents clinically as a proliferating dome-shaped keratin-filled crater. Patients usually give a prior history of minor trauma.\nTreatment of choice is an excisional procedure with 4 mm margins.\nOption A: Actinic keratoses consist of hyperkeratotic erythematous papules and patches on the sun-exposed skin. They arise in middle-aged to older adults and have some potential for malignant transformation.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_999.jpeg]\nOption B: Bowen's disease appears histologically as SCC in situ. It initially presents with a red- dened\u25a1 area that progresses to thickened plaques and may vary from small lesions (&lt;1 cm) to large areas. When it is confined to the glans penis or vulva, Bowen disease is sometimes referred to as Erythroplasia of Queyrat.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_1000.jpeg]\nOption D: Mycosis fungoides is a cutaneous T cell lymphoma, and plaque-stage lesions are seen.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_1001.jpeg]"
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "A 66-year-old diabetic patient with a frail built comes to the OPD. His wife is concerned about his recent weight loss and lack of appetite. Which parameters will you consider while assessing his malnutrition using MUST?",
+      "1,3,4,5",
+      "1,2,3,4",
+      "2,3,4,5"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "b",
+    "explanation": "\nThe given scenario and image showing an irregular ulcer with cauliflower shaped granulation tissue points to a diagnosis of Marjolin\u2019s ulcer. It is avascular."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "What is the best position for a conscious patient to be in during the insertion of a Ryle's tube?",
+      "Supine with neck flexion",
+      "Supine with neck extension",
+      "Sitting with neck flexion"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nThe given history with the image showing an ulcer over the face with pearly, rolled-out borders points to a diagnosis of basal cell carcinoma.\nBasal cell carcinoma (BCC) is an epithelial tumor arising from basal cells. It is the most common type of skin cancer most commonly seen over the face, above the line joining corner of the mouth, and lobule of the ear. Risk factors for BCC include ultraviolet radiation (strongest risk factor), age 40-80 years with excessive sun exposure, light-skinned people, and exposure to arsenic compounds, coal tar, aromatic hydrocarbons, and infrared light. It is more common in males than females. It is also associated with syndromes such as xeroderma pigmentosum and Gorlin's syndrome.\nFeatures of BCC include:\nPearly nodule with rolled border\nTortuous telangiectatic vessels\nSurface which can get ulcerated with raised and beaded edge, often with a central depression or umbilicatio\nBleeding on minor trauma\nBCC has various subtypes such as nodular (most common type), pigmented, nodulocystic, morphoeic, infiltrative, and fibroepithelioma of Pinkus.\nIt is locally aggressive and can erode the bone or facial sinuses. It rarely metastasizes via lymph nodes.\nThe occasional presence of melanin in the nodular variant of BCC (pigmented BCC) may lead to confusion with melanoma.\nDepending upon the type of the lesion, a shave, punch or excisional biopsy may be employed for diagnosis. X-ray or CT may be needed if there is a local invasion. Histology shows peripheral palisading of cells.\nTreatment:\nSurgical: Wide excision (4-6 mm clearance) with a skin graft or flap or primary suturing\nMohs' surgery for BCC close to the eyes, nose, or ear to preserve more tissue.\nNon-surgical: Radiotherapy, vismodegib and sonedegib. Other options:\nOption A: Dermatofibrosarcoma, also known as dermatofibrosarcoma protuberans (DFSP) is a rare, slow-growing, well-differentiated primary fibrosarcoma of the skin, associated with increased production of platelet-derived growth factor-beta. It presents as a protuberant nodule within a firm, indurated plaque that can ulcerate. They are locally aggressive tumors with high recurrence rates. Treatment is wide excision and Mohs microscopic surgery. Imatinib is used for unresectable, metastatic, and recurrent tumors. The given image below shows a DFSP near the umbilicus.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_1002.jpeg]\nOption B: Marjolin's ulcer is a painless, slow-growing, locally malignant, well-differentiated squamous cell carcinoma that occurs in a chronic scar (burns scar, scar of venous ulcer). It presents as an indurated, non-tender ulcer with raised and everted edges with scarring in the surrounding area with marked fibrosis. The ulcer can spread to the lymph nodes when it reaches the normal skin. A wedge biopsy and MRI of the region involved confirm the diagnosis.\nManagement is by wide excision, for larger ulcers, amputation is done. The given image below shows a marjolin's ulcer of the leg.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_1003.jpeg]\nOption D: Naevus is a common benign neoplasm caused due to mutations in the components of the RAS signaling pathway. It has various types, such as congenital naevus, blue naevus, Spitz naevus, halo naevus, and dysplastic naevus. The given image below shows a patient with multiple dysplastic nevi.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_95.jpeg, Surgery_img_1004.jpeg]"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "A patient in your ward is to be started on enteral nutrition. All of the following can be used as means of delivery, except:",
+      "Sip feeding",
+      "PEG",
+      "Nasojejunal tube"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "a",
+    "explanation": "\nThe most common form of BCC (60%) is the nodular variant. Other types of BCC are:\nSuperficial BCC- typically appears on the trunk as a pink or erythematous plaque with a thi pearly border\nInfiltrative BCC\nPigmented variant of nodular BCC\nMorpheaform variant - is an uncommon variant and is the most aggressive form\nFibroepithelioma of Pinkus\nOption B: Patients with BCC show excellent prognosis with 100% survival rates for cases that have not spread to other sites.\nOption C: Most of the basal cell carcinoma occurs on the face above the line joining the corner of the mouth and lobule of the ear.\nOption D: Depending upon the type of lesion, a shave, punch, or exicision biopsy can be used to confirm the diagnosis.\nThe below image shows a nodular BCC\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_96.jpeg, Surgery_img_1005.jpeg]"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "A young female patient with dysphagia is started on enteral nutrition. Which of the following complications is least likely to occur in this patient?",
+      "Constipation",
+      "Diarrhoea",
+      "Aspiration pneumonia"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "d",
+    "explanation": "\nBasal cell carcinoma does not show lymphatic or hematogenous metastasis. It is locally invasive."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "Which dietary component is lacking in patients started on TPN?",
+      "Lipids",
+      "Carbohydrates",
+      "Fibers"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nThe characteristic finding of basal cell carcinoma is of ovoid cells in nests with a single 'palisading'\nlayer.\nThe cells of a BCC resemble those of the basal layer of the epidermis. They are basophilic, have a large nucleus, and appear to form a basal layer by forming an orderly line around the periphery of tumor nests in the dermis, a feature referred to as palisading.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_96.jpeg, Surgery_img_1006.jpeg]"
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "A peripherally inserted central catheter line(PICC) was placed in a patient to provide parenteral nutrition. Following the insertion, a chest X-ray was taken, which appeared as shown in the image below. Which of the following is the ideal position of the tip of this catheter?",
+      "Subclavian vein",
+      "Internal jugular vein",
+      "Superior vena cava"
+    ],
+    "images": [
+      "Surgery_img_1.jpeg"
+    ],
+    "subject": "Surgery",
+    "correct_option": "b",
+    "explanation": "\nMoh\u2019s microscopic surgery is indicated in patients with the following features of BCC:\nPrimary lesions of the ear or lip\nRecurrent lesions\nWith perineural invasio\nPoorly differentiated lesions\nTumors more than 2 cm in size\nMoh\u2019s microscopic surgery involves initial surgical excision of the tumor, followed by repeated tissue sampling along lateral and deep margins. These tissue samples are examined immediately under a frozen section for evidence of tumor. This process is repeated until the clearance is finally obtained.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_96.jpeg, Surgery_img_1007.jpeg]"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "You are asked to place a central line for providing parenteral nutrition to a critically ill patient. Which vein is the most suitable?",
+      "Subclavian vein",
+      "External jugular vein",
+      "Brachial vein"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nOsteoma is not a part of Gorlin syndrome.\nGorlin syndrome/basal cell naevus syndrome is an autosomal dominant condition caused by a mutation in the PTCH gene.\nComponents of Gorlin syndrome include:\nBasal cell carcinomas\nMedulloblastoma\nBifid ribs\nOdontogenic keratocysts"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "A patient has been on total parenteral nutrition via a central venous catheter for 5 weeks. All of the following should be done, except:",
+      "Monitor for any signs of sudden glucose intolerance",
+      "Electrolytes must be checked every 2-3 days",
+      "LFT, BUN must be done once weekly"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "a",
+    "explanation": "\nABCDE algorithm is used to diagnose melanoma. It comprises of:\nAsymmetry\nBorder irregularity\nColor variegatio\nDiameter of more than 6 mm\nEvolution or change\nMelanoma is a malignant tumor arising from melanocytes at the epidermal-dermal junction. Though it represents only 4% of skin cancers, it accounts for 80% of deaths (high mortality rate).\nIt presents as a pigmented lesion that has enlarged, ulcerated, or bled.\nHistopathological confirmation is the gold standard in the diagnosis of melanoma. It is divided into four main types: nodular melanoma (NM), superficial spreading melanoma (SSM), lentigo maligna melanoma (LMM), and acral lentiginous melanoma (ALM).\nThe treatment consists of wide local excision of the tumor and follow-up to detect any local recurrence around the scar and excluding nodal spread."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "A patient on total parenteral nutrition may develop a deficiency of",
+      "Vitamin B12",
+      "Folic acid",
+      "Amino acids"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "d",
+    "explanation": "\nD stands for diameter &gt;6 mm and not depth &gt; 6mm."
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "Which of the following fluids contain lactate?",
+      "Hetastarch",
+      "Haemacel",
+      "Hartmann\u2019s solution"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "a",
+    "explanation": "\nLentigo maligna melanoma has the best prognosis. Nodular melanoma has the worst prognosis. Option B: Malignant melanoma arises from melanocytes at the dermo-epidermal junction\n(junctional melanocytes). They may also arise from mucosal surfaces of the eyes, pharynx, esophagus, anorectal and genital areas.\nOption C: Malignant melanoma most commonly metastasizes to the lungs. Option D: Acral melanoma is the most common type in dark-skinned individuals."
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "What is the earliest sign of post-operative volume overload in a patient?",
+      "Distended neck veins",
+      "Peripheral oedema",
+      "Weight gain"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "b",
+    "explanation": "\nSuperficial spreading melanoma is the most common type of malignant melanoma. It usually arises in a pre-existent naevus.\nOther types of malignant melanoma include:\nNodular melanoma - presents as a nodule, and has the worst prognosis.\nAcral lentiginous melanoma - commonly seen over palms and soles. Most common melanoma i dark-skinned individuals.\nLentigo maligna melanoma - also known as Hutchinson's melanotic freckle. More commonly seen on sun-exposed areas like the face, neck, or hands of the elderly. It is the least common and has the best prognosis."
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Ileus is common in patients that have conditions associated with",
+      "Volume deficit",
+      "Volume excess",
+      "Both A and B"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nThe image shows Hutchinsons's nail sign in subungual melanoma. It arises from the nail matrix, most commonly in the great toe or thumb.\nHutchinson's nail sign is an important clinical clue to subungual melanoma. It is characterized by the extension of brown or black pigment from the nail bed, matrix, and nail plate to the adjacent cuticle and proximal or lateral nail folds. It is also associated with nail dystrophy.\nNote: Pseudo-Hutchison\u2019s sign is a reflection of the pigmentation of the nail bed and nail matrix through the transparent nail folds.\nOption A: Subungal hematoma is a close differential of subungual melanoma. It is seen secondary to trauma which causes bleeding and resultant hematoma formation and pigmentation. It is important to note that the features of Hutchinson's nail sign are not seen with subungual hematoma.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_96.jpeg, Surgery_img_1008.jpeg, Surgery_img_1009.jpeg, Surgery_img_1010.jpeg]\nOption B: Nodular melanoma is a condition where malignant melanoma cells proliferate downwards through the skin \u2013 this is known as vertical growth. The lesion presents as\na nodule that has been rapidly enlarging.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_96.jpeg, Surgery_img_1011.jpeg]\nOption D: Lentigo maligna is an early form of melanoma, in which the malignant cells are confined to the tissue of origin, the epidermis, hence it is often reported as in-situ melanoma.\n [Image Reference: Surgery_img_5.jpeg, Surgery_img_96.jpeg, Surgery_img_1012.jpeg]\nNote: Subungual melanoma can be either superficial spreading melanoma or acral lentiginous melanoma. A difference of opinion has been noted in Bailey and Love, 27th ed. where it has been mentioned that melanoma under the fingernail is usually superficial spreading\nmelanoma. However, most dermatology textbooks including the Rooks 9th ed. and Fitzpatrick's 9th ed and several research articles mentioned subungual melanoma as a variant of acral lentiginous melanoma."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "Which electrolyte abnormality is expected in patients experiencing a post-operative rise in ADH?",
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypernatremia"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "a",
+    "explanation": "\nLentigo maligna melanoma also known as Hutchison\u2019s melanotic freckle is more commonly seen on sun-exposed areas like face, neck or hands of the elderly. It is the least common and least malignant type."
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "Which of the following is not an important cause of hypokalemia?",
+      "Hyperaldosteronism",
+      "Diarrhoea",
+      "High nasogastric output"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "c",
+    "explanation": "\nBoth Breslow and Clark\u2019s system is used for melanoma staging.\nBreslow thickness is the depth of invasion measured from the granular layer of the epidermis to the base of the lesion. As the thickness of the melanoma increases, the prognosis worsens. Clark's is based on the layer of skin to which melanoma has invaded.\nBreslow thickness has largely supplanted Clark's as it is a more accurate method of predicting prognosis.\nVan-nyus prognostic index is used for DCIS. Atlanta's is used for acute pancreatitis.\nOnodera's prognostic index is used for hepatocellular carcinoma after initial hepatectomy"
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "A patient with pancreatitis is most likely to have which of the following electrolyte abnormalities ?",
+      "Hypercalcemia",
+      "Hypocalcemia",
+      "Hypernatremia"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "a",
+    "explanation": "\nThe given history and biopsy finding is suggestive of melanoma. S-100 is a marker for melanoma. Other markers for melanoma are:\nMELAN-A\nHMB (Human Melanoma Black)-45\nLDH"
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "A cachexic patient with a BMI of 14 was brought to a nursing care facility. Calorie-rich food through a nasogastric tube was started. On day 3 of therapy, the patient suddenly developed a",
+      "seizure. An ECG showed dysrhythmia. Which of the following findings is most likely?",
+      "Hypophosphatemia, hypocalcemia, hypomagnesemia",
+      "Hypophosphatemia, hypokalemia, hypercalcemia"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "d",
+    "explanation": "\nThe best prognostic factor in primary stage 1 melanoma (T1N0) is the tumor thickness or depth of the melanoma.\nThe presence of lymph node metastases is the single most important prognostic index for melanoma in general. But in Stage 1 melanoma, as there is no lymph node involvement, the depth of the melanoma is the best prognostic factor.\nOther major prognostic factors, in order of impact on survival, include:\nPresence of lymph node metastases\nUlceratio\nAge\nAnatomic location of the primary tumor\nGender"
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "Which of the following is not true regarding the Enhanced recovery after surgery (ERAS)",
+      "protocol?",
+      "Early planned physiotherapy and mobilization",
+      "It can be used after colorectal surgery"
+    ],
+    "images": [],
+    "subject": "Surgery",
+    "correct_option": "a",
+    "explanation": "\nThe order of prognosis for types of melanoma from better to worse is:\nLentigo maligna melanoma (LMM) and acral lentiginous melanoma (ALM) &gt; superficial spreading melanoma (SSM) &gt; nodular melanoma (NM)\nThe LMM and ALM both have long horizontal phases. As a result of this, there will be more time to detect them before they enter the vertical phase of growth. Thus LMM and ALM have a better prognosis than other subtypes.\nThe SSM has an intermediate prognosis, as the horizontal phase is rapidly followed by the vertical phase.\nThe NM has the worst prognosis, as there is no horizontal phase and it starts with a vertical growth phase. This leads to a greater average tumor thickness."
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "question_text": "",
+    "options": [
+      "Which of the following is not a part of the vulva?",
+      "Labia majora",
+      "Vestibule",
+      "Greater vestibular glands"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe image shows a cardiotocograph (electronic fetal monitor) that is used to perform cardiotocography in labor.\nIt can be used in both antenatal and intranatal mothers. It measures fetal heart rate and uterine contractions. It is used to perform the non-stress test (NST) in the antenatal period and cardiotocography during labor."
+  },
+  {
+    "id": 2,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is false regarding labia majora?",
+      "They join posteriorly to form the posterior commissure",
+      "It is homologous to scrotum in male",
+      "The round ligament terminates at its posterior end"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThis is an image of cervidil vaginal insert. It is used for cervical ripening and improves the Bishop's score.\nIt contains 10 mg of dinoprostone designed to release at a rate of approximately 0.3 mg/hr over 10-hours."
+  },
+  {
+    "id": 3,
+    "question_text": "",
+    "options": [
+      "A patient presented to the gynecology OPD with the following finding. Which structure in men is homologous to the affected structure?",
+      "Prostate gland",
+      "Cowper\u2019s gland",
+      "Glands of Littre"
+    ],
+    "images": [
+      "OBGYN_img_1.jpeg",
+      "OBGYN_img_2.jpeg",
+      "OBGYN_img_3.jpeg"
+    ],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe given instrument is Kocher's artery forceps and is identified by the presence of a single tooth at the tip.\nKocher's artery forceps are used to achieve hemostasis by holding bleeding vessels. They are also used in low rupture of membranes to augment labour or for the surgical induction of labour.\nThe difference between artery forceps and needle holders is in the edge and smoothness of corrugations. Artery forceps have smooth edges and single lined corrugations whereas, needle holders have rough edges and crossed lines forming square to diamond shaped corrugations."
+  },
+  {
+    "id": 4,
+    "question_text": "",
+    "options": [
+      "What is the pH of the vagina before puberty?",
+      "7",
+      "4.5",
+      "6"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe given scenario of prolonged second stage of labor can be managed by performing an episiotomy. In the given figure, the instrument marked as \"D\" corresponds to episiotomy scissors.\nAn episiotomy is done to prevent posterior extention leading to obstetric anal sphincteric injuries.\n [Image Reference: OBGYN_img_38.jpeg, OBGYN_img_427.jpeg]"
+  },
+  {
+    "id": 5,
+    "question_text": "",
+    "options": [
+      "Which of the following is incorrect about relations of the vagina?",
+      "Bladder - anterior",
+      "Bartholin\u2019s gland - posterior",
+      "Levator ani - latera"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows Wrigley's forceps.\nThese are used as outlet forceps for the extraction of the fetal head. It is used to provide traction force. It can also be used in C-section for delivery of the baby.\nThe instrument is light and short due to a reduction in the length of the shanks and handles. It has a marked cephalic curve with a slight pelvic curve.\nConditions that require to be fulfilled for the use of outlet forceps are:\nThe fetal scalp is visible without separating the labia (crowning)\nThe fetal skull has reached the pelvic floor, or is on the perineum\nThe sagittal suture is in the anteroposterior diameter or right or left occiput anterior or posterior position (rotation does not exceed 45\u00b0)\nNote: Delivery of aftercoming head in breech is done with Pipers forceps."
+  },
+  {
+    "id": 6,
+    "question_text": "",
+    "options": [
+      "Identify the type of hymen.",
+      "Cribriform hymen",
+      "Parous hymen",
+      "Fimbriated hymen"
+    ],
+    "images": [
+      "OBGYN_img_4.jpeg"
+    ],
+    "subject": "OBGYN",
+    "correct_option": "a",
+    "explanation": "\nThe given instrument is Green-Armytage forceps.\nIts tips are broad and hence can compress a wide area. During lower segment caesarean section\n(LSCS), these forceps are applied at the bleeding cut uterine edges for hemostasis."
+  },
+  {
+    "id": 7,
+    "question_text": "",
+    "options": [
+      "A patient with uterine prolapse and urethrocele has weakness in the superficial and deep perineal muscles. What level of support is lost here?",
+      "Level 1",
+      "Level 2",
+      "Level 3"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "d",
+    "explanation": "\nThe instrument is Karman\u2019s cannula and syringe, which is also used for menstrual regulation.\nMenstrual regulation is the aspiration of the endometrial cavity within 14 days of a missed period in a woman with a previous normal cycle.\nUnder aseptic precautions, the cervix may be gently dilated using 4-5 mm size dilators. Then\n5-6mm Karman\u2019s cannula is inserted and attached to a 50ml syringe for suction. The cannula is rotated, and pushed in and out with gentle strokes.\nThis procedure is contraindicated in advanced pregnancy and in the presence of local pelvic inflammation. The drawbacks of the procedure include a missed implanted zygote or an unrecognized ectopic pregnancy.\nThis procedure is not commonly done anymore."
+  },
+  {
+    "id": 8,
+    "question_text": "",
+    "options": [
+      "Anteflexion of the uterus is at the level of \t.",
+      "External os",
+      "Internal os",
+      "Upper part of vagina"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe image shows a manual vacuum aspiration (MVA) syringe.\nManual vacuum aspiration can be safely done upto 12 weeks of gestation. However, WHO recommends it as the procedure of choice for MTP only upto 10 weeks of gestation .\nThe indications of this procedure are given as follows:\nMedical termination of pregnancy\nIncomplete abortion or missed abortion\nMolar pregnancy\nEndometrial aspiration\n [Image Reference: OBGYN_img_38.jpeg, OBGYN_img_428.jpeg, OBGYN_img_429.png, OBGYN_img_430.jpeg]"
+  },
+  {
+    "id": 9,
+    "question_text": "",
+    "options": [
+      "A G3P2L2 woman presents in her third trimester with vaginal leaking. On PV examination, the anterior lip of the cervix can be palpated. What is the position of her uterus and the igament that maintains this position?",
+      "Anteverted uterus - Round ligament",
+      "Anteflexed uterus - Round ligament",
+      "Anteverted uterus - Uterosacral ligament"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe given image shows Hegar's double-ended dilator which is used to dilate the cervix in dilation and curettage procedure.\nPratt dilator is also a double-ended dilator but has a more linear shape as compared to the curved Hegar's dilators. The image given below shows a Pratt dilator.\n [Image Reference: OBGYN_img_38.jpeg, OBGYN_img_431.jpeg]\nOption A: Hawkin dilator is a single-ended dilator. The image given below shows a Hawkin dilator.\n [Image Reference: OBGYN_img_38.jpeg, OBGYN_img_432.jpeg]\nOption C: Bakes rosebud dilator is a single-ended dilator used to dilate the urethra. It is called so since its tip is similar to a rosebud. The image given below shows a Bakes dilator.\n [Image Reference: OBGYN_img_38.jpeg, OBGYN_img_433.jpeg]\nOption D: Fenton dilator is also double-ended but it has a notch in the middle. The image given below shows a Fenton dilator.\n [Image Reference: OBGYN_img_38.jpeg, OBGYN_img_434.jpeg]"
+  },
+  {
+    "id": 10,
+    "question_text": "",
+    "options": [
+      "A multiparous woman presented with a urethrocele, due to weakness of the urogenita diaphragm. What is this structure also known as?",
+      "Rectangular ligament",
+      "Triangular ligament",
+      "Pyramidal ligament"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "d",
+    "explanation": "\nThe image shows a Fenton dilator. These can be identified by the neck/notch at the centre.\nFenton's or modified Fenton's procedure is performed to widen the introitus in women with superficial dyspareunia secondary to scarring. The narrowing of introitus could be due to scarring secondary to perineal tears during childbirth or from conditions such as lichen sclerosus or vestibulitis.\nFenton dilators come in sizes numbered from 3-10 and the sizes of the dilators range from 3mm to 26mm.\nOption B: Hawkins dilator is single-ended.\nOptions A and C: Hegar and Pratt dilators are also double-ended dilators but they do not have a notch at the centre. Pratt dilator is more linear in appearance compared to Hegar dilator."
+  },
+  {
+    "id": 11,
+    "question_text": "",
+    "options": [
+      "What is the cavity of the uterus lined by?",
+      "Single layer of ciliated columnar epithelium",
+      "Double layer of ciliated columnar epithelium",
+      "Single layer of ciliated cuboidal epithelium"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe instrument shown in the image is Sim's curette. It is a single-ended uterine curette used for dilatation and curettage.\nIt is designed to remove tough tissue from the lining of the uterus for biopsy or excision. The curette features a sharp loop tip to aid in the removal of the uterine tissue.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_435.jpeg]"
+  },
+  {
+    "id": 12,
+    "question_text": "",
+    "options": [
+      "A woman with regular menstrual cycles is undergoing an ultrasound on the 14th day of her cycle. What will the endometrial thickness be?",
+      "0.5 mm",
+      "4 mm",
+      "11 mm"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe image shows a double-ended uterine curette with a sharp and a blunt end. It is not used in uterine length measurement.\nUterine length measurement is done with a uterine sound which is given below.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_436.jpeg]"
+  },
+  {
+    "id": 13,
+    "question_text": "",
+    "options": [
+      "Which of the following statements is false regarding uterine anatomy?",
+      "Round ligaments receive their blood supply from Sampson's artery",
+      "Transverse cervical ligaments are also called cardinal ligaments",
+      "Uterine innervation is by the pudendal nerve plexus"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe given instrument is Simpson\u2019s uterine sound. It is not used to retract the vagina for cervical examination. This is done using Sim's speculum.\nThe instrument is held like a pencil with the thumb and the first 2 fingers and introduced into the uterine cavity by keeping it in the midline and ensuring it is not forced.\nThe uses are given as follows:\nTo measure uterine cavity and cervical lengt\nTo diagnose cervical stenosis\nTo sound a polyp, IUCD or uterine septum\nTo break adhesions\nTo differentiate between chronic inversion and fibroid polyp"
+  },
+  {
+    "id": 14,
+    "question_text": "",
+    "options": [
+      "A gynecologist is performing a hysterectomy. She accidentally nicks the ureter in the ureteric canal as it pierces the Mackenrodt's ligaments. Which vessels are likely to be damaged here?",
+      "Uterine artery above and the uterine plexus of veins below",
+      "Uterine plexus of veins above and the uterine artery below",
+      "Ovarian artery above and the uterine artery below"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe image shows vulsellum forceps. It is used to grasp the cervical lip and steady the cervix during vaginal surgery. It is a long instrument with a gentle curve so that the line of vision is not obstructed.\nOption A: Allis forceps can be identified by continuous teeth, equal on both ends. It is used to hold structures with a firm grip.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_437.jpeg]\nOption C: Kocher's artery forceps are non-traumatic with a single tooth at the tip. They help in achieving hemostasis by firm pressure.\nOption D: Lahey's tissue grasping forceps has teeth similar to dinner forks. They are used to hold fibrous tissue and they give a firm grip without slippage."
+  },
+  {
+    "id": 15,
+    "question_text": "",
+    "options": [
+      "You take a culture swab from the portio vaginalis of a woman having foul smelling vaginal discharge. What is this region also known as?",
+      "Supra vaginal part of cervix",
+      "Vaginal part of cervix",
+      "Fornix of the vagina"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe given instrument is a towel-holding clip. It is used to secure drapings and towels during surgery.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_438.jpeg]\nSponge-holding forceps are non-traumatic forceps. They are used for painting and preparation of parts preoperatively.\nFilshie clips are used for laparoscopic tubal sterilisation. They are made of titanium on the outer side and sialistic material on the inner side.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_439.jpeg]"
+  },
+  {
+    "id": 16,
+    "question_text": "",
+    "options": [
+      "What is the cervix: corpus ratio before puberty?",
+      "1:2",
+      "2:1",
+      "1:3"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe image shown is that of a Simon vaginal retractor, used to retract vaginal walls during examination and vaginal procedures.\nThe below image is of Doyen's retractor. It is used during abdominal procedures like C-section.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_440.jpeg]"
+  },
+  {
+    "id": 17,
+    "question_text": "",
+    "options": [
+      "The remnants of Wolffian ducts in females are located in\t.",
+      "Pouch of Douglas",
+      "Leaves of broad ligament",
+      "Uterovesical pouch"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "d",
+    "explanation": "\nThe instrument shown in the image is Auvard speculum. It retracts the posterior vaginal wall during vaginal hysterectomy and is self retractory due to the circular structure on its handle which is heavy.\nThe image given below shows Sim's speculum.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_441.jpeg]\nThe image given below shows Cusco's self retaining bivalved speculum.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_442.jpeg]"
+  },
+  {
+    "id": 18,
+    "question_text": "",
+    "options": [
+      "Which of the following is false about the contents of the broad ligament?",
+      "Ovarian vessels in its infundibulopelvic part",
+      "It contains the uterine arteries",
+      "Ureter is present the lower portion"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe image shows an endocervical brush. It is used to collect samples from the endocervix cervix, especially from deep lesions.\nOption A: Cervex brush is ideal for collecting samples for liquid-based cytological studies.\nOption C: Ayres spatula is used to collect samples from the ectocervix and the endocervix for cytological studies.\nOption D: Aylesbury spatula has a sharper and longer tip than Ayers spatula."
+  },
+  {
+    "id": 19,
+    "question_text": "",
+    "options": [
+      "Where are Peg cells seen?",
+      "Vagina",
+      "Vulva",
+      "Ovary"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe given instrument used in the patient's pap smear preparation is Ayre's spatula.\nSharpness on the end can differentiate between Ayre's and Aylesbury spatula. Aylesbury spatula has a more sharp and longer tip than Ayer's spatula. So, Aylesbury spatula is superior to Ayre's in collecting endocervical samples.\nThe image given below shows a slide holding bottle i.e. Kopliks jar with Ayre's spatula.\n [Image Reference: OBGYN_img_39.jpeg, OBGYN_img_443.jpeg]"
+  },
+  {
+    "id": 20,
+    "question_text": "",
+    "options": [
+      "What is the longest part of the fallopian tube?",
+      "Interstitium",
+      "Isthmus",
+      "Ampulla"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "d",
+    "explanation": "\nThe device shown in the image is a colposcope. It is used to perform colposcopy where the cervix is visualized at a distance of around 20 cm with the patient in the lithotomy position.\nThis instrument provides binocular vision with a magnification of 6x-15x. A green filter is used to study vascular pattern as the vessels appear black. Abnormal areas can be identified by their peculiar vascular pattern such as mosaic, reticular, and punctate."
+  },
+  {
+    "id": 21,
+    "question_text": "",
+    "options": [
+      "Where is the tunica albuginea of the adult ovary derived from?",
+      "The surface epithelium",
+      "The sub epithelial connective tissue layer",
+      "The parenchymatous zone"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe given image shows a Doyen myoma screw.\nIt is used to perform an open myomectomy. The handle present in this can be used to distinguish it from a laparoscopic myoma screw which also has a similar tip."
+  },
+  {
+    "id": 22,
+    "question_text": "",
+    "options": [
+      "During the histopathological examination of an ovarian mass, Call-Exner bodies are seen. In which of the following layers are these structures seen?",
+      "Granulosa cell layer",
+      "Theca interna",
+      "Discus proligerus"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "a",
+    "explanation": "\nThe given instrument is a fallope ring applicator. It is used in tubal ligation.\nFalope ring sterilization is accomplished by applying silicone rubber bands to the fallopian tubes. The major advantage is the elimination of thermocoagulation. The occlusion is only in a short segment and can allow for tubal reconstruction."
+  },
+  {
+    "id": 23,
+    "question_text": "",
+    "options": [
+      "Where is the sympathetic nerve supply of ovary derived from?",
+      "T10-T11",
+      "T9-T10",
+      "S2-S4"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "b",
+    "explanation": "\nThe stage of cervical carcinoma is II B as it involves the upper part of the vagina and parametrium."
+  },
+  {
+    "id": 24,
+    "question_text": "",
+    "options": [
+      "Bleeding during normal menstruation occurs due to rupture of",
+      "Basilar artery",
+      "Spiral artery",
+      "Arcuate artery"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nType III hysterectomy is the treatment of choice in carcinoma cervix - stage IB. It involves radical hysterectomy with pelvic lymphadenectomy and para-aortic lymph node evaluation.\nStage IB is defined as a macroscopic lesion still confined to the cervix, with the depth of invasion\n\uf0b35mm. It is the first stage in which lesions become clinically visible. Hysterectomy types include:\nType I - Simple / extrafascial\nType II - Modified radical / Wertheim\nType III - Radical / Meigs-Wertheim\nType IV - Extended radical Hysterectomy\nType V - Exenteration."
+  },
+  {
+    "id": 25,
+    "question_text": "",
+    "options": [
+      "A uterine artery embolization is being planned for a patient with uterine fibroids. Blood flow in which of the following arteries will not be affected by this procedure?",
+      "Spiral artery",
+      "Sampson's artery",
+      "Vaginal artery"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "c",
+    "explanation": "\nThe woman has stage I A2 cervical cancer and the most appropriate management is radical trachelectomy with pelvic lymphadenectomy.\nRadical trachelectomy is a fertility-preserving surgical procedure. This involves the removal of the entire cervix and parametrium.\nCervical conization with laparoscopic or extraperitoneal pelvic lymphadenectomy is an alternative that also preserves fertility."
+  },
+  {
+    "id": 26,
+    "question_text": "",
+    "options": [
+      "A patient with stress incontinence required surgical management. While performing a Burch colposuspension, the surgeon approached the space of Retzius. What is this space also known as?",
+      "Prevesical or presacral space",
+      "Presacral or prerectal space",
+      "Presacral or retropubic space"
+    ],
+    "images": [],
+    "subject": "OBGYN",
+    "correct_option": "d",
+    "explanation": "\nPost-menopausal status is not a contraindication for radiotherapy in carcinoma cervix. Contraindications for radiotherapy in carcinoma cervix include:\nPelvic inflammatory disease\nYoung patient (to preserve ovarian function)\nAssociated myoma, prolapse, ovarian tumor, genital fistula\nVaginal stenosis\nAdenocarcinoma or adenosquamous carcinoma \u2013 surgery preferred."
+  }
+]
