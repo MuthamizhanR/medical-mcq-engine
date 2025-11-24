@@ -345,6 +345,17 @@ const App = {
         
         // Avoid division by zero
         const accuracy = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+
+        // --- MEDTRIX LINK: Save Global Stats for Dashboard ---
+        try {
+            const globalStats = JSON.parse(localStorage.getItem('MEDTRIX_GLOBAL_STATS') || '{"totalAnswered":0, "totalCorrect":0, "quizzesTaken":0}');
+            globalStats.totalAnswered += (s.total || 0);
+            globalStats.totalCorrect += (s.correct || 0);
+            globalStats.quizzesTaken += 1;
+            localStorage.setItem('MEDTRIX_GLOBAL_STATS', JSON.stringify(globalStats));
+            console.log("✅ Medtrix Stats Saved:", globalStats);
+        } catch (e) { console.error("Medtrix Sync Error:", e); }
+        // -----------------------------------------------------
         
         let msg = "Keep Practicing!";
         if(accuracy > 50) msg = "Good Effort!";
