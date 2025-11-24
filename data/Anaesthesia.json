@@ -15,7 +15,7 @@
   },
   {
     "id": "Anaesthesia_Ch1_2",
-    "question_text": "You are assisting your senior resident who is performing the procedure shown in the image. He engages you with some historical trivia and asks you who performed this procedure first. What would your answer be?",
+    "question_text": "You are assisting your senior resident who is performing the procedure shown in the image. He engages you with some historical trivia and asks you who performed this procedure first. What would your answer be?\n",
     "options": [
       "John Lundy",
       "August Bie",
@@ -24,12 +24,14 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe procedure shown in the above picture is spinal anesthesia.\nThe first case of spinal anesthesia in humans was performed by August Bier in 1898. He performed spinal anesthesia using the local anesthetic cocaine.\nSpinal anesthesia involves the administration of a local anesthetic into the spinal subarachnoid space to provide motor and sensory blockade. Another contribution by August Bier is 'Bier's block' or IVRA (intravenous regional anesthesia).\nJohn Lundy: coined the term balanced anesthesia.\nCarl Koller: proposed local anesthetic property of cocaine. Oliver Wendell: coined the term anesthesia.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_1.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch1_3",
-    "question_text": "The prototype of the device shown in the image below was originally named after which personality?",
+    "question_text": "The prototype of the device shown in the image below was originally named after which personality?\n",
     "options": [
       "John Lundy",
       "Carl Kolle",
@@ -38,7 +40,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe image shown above is the anesthesia workstation.\nThe prototype of this device is Boyle's machine which was first invented by Edmund Gaskin Boyle in 1917. Boyle\u2019s machine, which is used to provide anaesthesia, has evolved over the years into\nanesthetic workstations, which are currently in use. John Lundy: coined the term balanced anesthesia.\nCarl Koller: proposed local anesthetic property of cocaine. Oliver Wendell: coined the term anesthesia.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_2.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -533,7 +537,7 @@
   },
   {
     "id": "Anaesthesia_Ch3_6",
-    "question_text": "You observe the catheter shown in the image being used by your attending in the ICU. Which of the following procedures is it used for?",
+    "question_text": "You observe the catheter shown in the image being used by your attending in the ICU. Which of the following procedures is it used for?\n",
     "options": [
       "Gastro-Esophageal varices",
       "Embolectomy",
@@ -542,7 +546,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe image shown above is the Swan-ganz catheter which is used for pulmonary artery catheterization. It is also called the pulmonary artery catheter. The standard pulmonary artery catheter is 110 cm long with a 7.0 \u2013 9.0 Fr circumference.\nUses of Swan-ganz catheter:\nMeasurement of pressures in right atrium, right ventricle and pulmonary artery\nIndirect measurement of left atrial pressure through pulmonary capillary wedge pressure\nCardiac output\nOxygen saturation- pulmonary samples to rule out left-right shunt\nMonitoring left ventricle filling pressure\nDifferentiate cardiogenic from non cardiogenic pulmonary edema",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_8.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -827,7 +833,7 @@
   },
   {
     "id": "Anaesthesia_Ch4_2",
-    "question_text": "Which of the following is measured by the device shown in the given image?",
+    "question_text": "Which of the following is measured by the device shown in the given image?\n",
     "options": [
       "Oxygen saturation",
       "Oxygen content of the blood",
@@ -836,7 +842,9 @@
     ],
     "correct_option": "a",
     "explanation": "\nThe given image depicts a pulse oximeter. Pulse oximetry is used for monitoring pulse rate and oxygen saturation of a patient.\nA small sensor is placed on the finger, toe, earlobe, or another convenient place. The relative absorption of light by oxyhemoglobin (HbO2) and deoxyhemoglobin is assessed by measuring the amount of red and infrared light emerging from tissues traversed by light rays and processed by the device, producing an oxygen saturation level.\nPulse oximetry does not measure the absolute content or the partial pressures of oxygen or carbon dioxide.\nA pulse oximeter is not always reliable as it reads:\nFalsely high - carboxyhemoglobinemia\nFalsely low - severe anemia, low cardiac output states, hypovolemia, increased systemic vascular resistance\n80% to 85%, irrespective of the arterial oxygen saturation - methemoglobinemia",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_14.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -939,7 +947,7 @@
   },
   {
     "id": "Anaesthesia_Ch4_10",
-    "question_text": "A patient who is under general anaesthesia shows the following finding on the ET CO2 monitor. Which condition can lead to this characteristic waveform on capnography?",
+    "question_text": "A patient who is under general anaesthesia shows the following finding on the ET CO2 monitor. Which condition can lead to this characteristic waveform on capnography?\n",
     "options": [
       "Malignant hyperthermia",
       "Bronchospasm",
@@ -948,12 +956,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe above capnographic waveform depicts bronchospasm.\nShark fin appearance - Prolonged phase II, increased \uf0b0 angle, and steeper phase III suggest bronchospasm or airway obstruction.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_15.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch4_11",
-    "question_text": "In which of the following conditions does this capnographic waveform appear?",
+    "question_text": "In which of the following conditions does this capnographic waveform appear?\n",
     "options": [
       "Malignant hyperthermia",
       "Bronchospasm",
@@ -962,12 +972,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe above capnographic waveform shows an elevated inspiratory baseline, which depicts rebreathing.\nRebreathing of CO2 may occur due to exhausted soda lime or incompetent expiratory valve in closed-circuit breathing systems.\nOption A: Malignant hyperthermia shows progressive rise in ETCO2 Option B: Bronchospasm shows a shark fin appearance\nOption D: Accidental extubation shows flat ETCO2 trace",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_16.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch4_12",
-    "question_text": "In which of the following conditions does this capnographic waveform appear?",
+    "question_text": "In which of the following conditions does this capnographic waveform appear?\n",
     "options": [
       "Malignant hyperthermia",
       "Esophageal intubation",
@@ -976,12 +988,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image given in the question shows a capnograph with some carbon dioxide detected initially followed by absence of carbon dioxide- this is typical of esophageal intubation.\nSwallowed air in the stomach would cause the initial detection of CO2 which is soon washed out and the ETCO2 comes to zero.\nOption A: Malignant hyperthermia \u2013 progressive rise in CO2. Option C: Rebreathing of CO2 - elevated inspiratory baseline. Option D: Tracheal intubation - normal capnograph.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_17.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch4_13",
-    "question_text": "A patient with masseter spasm after succinylcholine administration shows the following pattern on capnography. What is the most likely condition causing this waveform?",
+    "question_text": "A patient with masseter spasm after succinylcholine administration shows the following pattern on capnography. What is the most likely condition causing this waveform?\n",
     "options": [
       "Malignant hyperthermia",
       "Rebreathing",
@@ -990,12 +1004,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe clinical features seen in the patient, associated with a capnograph with a sudden and progressive increase in ETCO2 are suggestive of malignant hyperthermia.\nThis is considered to be one of the earliest and most sensitive indicators of malignant hyperthermia.\nOption B: Rebreathing of CO2 would result in failure of the inspired CO2 to return to zero in the capnograph.\nOption C: Tracheal intubation would show a normal capnograph.\nOption D: Esophageal intubation would initially detect some CO2 because of swallowed air in the stomach which later returns to zero.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_18.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch4_14",
-    "question_text": "The following capnographic waveform is most likely seen in which of the following conditions?",
+    "question_text": "The following capnographic waveform is most likely seen in which of the following conditions?\n",
     "options": [
       "Tracheal intubation",
       "Malignant hyperthermia",
@@ -1004,12 +1020,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image shown is that of normal capnography seen during controlled mechanical ventilation seen in tracheal intubation.\nOption B: Malignant hyperthermia shows a progressive rise in CO2. Option C: Rebreathing of CO2 shows an elevated inspiratory baseline.\nOption D: Esophageal intubation can initially detect some CO2 which later returns to zero.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_19.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch4_15",
-    "question_text": "A capnograph obtained from an intubated patient undergoing controlled ventilation is given below. Which of the following is a likely cause of the finding seen?\nEsophageal intubation",
+    "question_text": "A capnograph obtained from an intubated patient undergoing controlled ventilation is given below. Which of the following is a likely cause of the finding seen?\n\nEsophageal intubation",
     "options": [
       "Inspiration with cardiac oscillations",
       "Bronchospasm",
@@ -1018,7 +1036,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe curare notch in the plateau phase of the capnograph indicates that the patient is trying to breathe spontaneously. The patient's inspiratory effort causes some fresh gas to be sucked in the capnometer, resulting in a lower carbon dioxide concentration and a notch.\nImage below shows a capnograph with clefts during phase III which indicates spontaneous breathing efforts by the patient during controlled mechanical ventilation. It is also known as a curare notch or cleft.\nAirway Devices",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_20.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1051,7 +1071,7 @@
   },
   {
     "id": "Anaesthesia_Ch5_3",
-    "question_text": "You are a resident posted in the medicine ward. A patient who has been previously diagnosed with epilepsy has an episode of seizures and becomes unconscious. You immediately call a code. The patient is unresponsive and chest rise is not appreciable but you can feel a pulse.\nYou suspect that this is due to falling back of the tongue and decide to secure the airway using the device shown. What landmarks would you use before selecting the appropriate size?",
+    "question_text": "You are a resident posted in the medicine ward. A patient who has been previously diagnosed with epilepsy has an episode of seizures and becomes unconscious. You immediately call a code. The patient is unresponsive and chest rise is not appreciable but you can feel a pulse.\nYou suspect that this is due to falling back of the tongue and decide to secure the airway using the device shown. What landmarks would you use before selecting the appropriate size?\n",
     "options": [
       "Incisor teeth and tragus of the ear",
       "Corner of mouth and angle of mandible",
@@ -1060,12 +1080,14 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe image shows oropharyngeal airway or Guedel airway of various sizes. The landmarks used for measuring the appropriate size of this device are the corner of the mouth and the angle of\nthe mandible or tragus.\nAn oropharyngeal airway is an airway adjunct which keeps the tongue from falling back onto the posterior pharynx.\nIt is essential to choose the correct size since inappropriately sized ones may aggravate airway obstruction.\nThese airways should not be used in conscious patients as they may come into contact with the epiglottis and base of tongue. This can cause coughing, retching or laryngospasm if the pharyngeal and laryngeal reflexes are not blunted with local anaesthetic.\nNote: Nasopharyngeal airway size is chosen by measuring the distance between the tip of the nose and tragus of the ear. These airways, when well lubricated and inserted with proper technique, can be used in conscious patients to secure an airway.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_23.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch5_4",
-    "question_text": "Which of the following statements is true regarding the airway adjunct shown in the image given below?",
+    "question_text": "Which of the following statements is true regarding the airway adjunct shown in the image given below?\n",
     "options": [
       "It is used only in unconscious patients",
       "Prevents falling back of tongue post-extubation",
@@ -1074,12 +1096,16 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe image shows nasopharyngeal airway and its insertion. The true statement is that it is used to prevent falling back of tongue post-extubation especially in obese patients.\nNasopharyngeal airways are less stimulating than oropharyngeal airways as it bypasses the gag reflex. Thus, it can be used in conscious patients as well.\nIt does not prevent tongue bite unlike the oropharyngeal airway which has a bite block. It can prevent falling back of the tongue in patients with seizures.\nIt is contraindicated in\nBasilar skull fractures, central facial fractures, CSF rhinorrhea - risk of meningitis\nPatients on anticoagulants, coagulopathies, epistaxis - risk of bleeding\nRelatively contraindicated in pregnancy (increased vascularity leading to bleeding), deformity of the nose.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_24.jpeg",
+      "Anaesthesia_img_25.jpeg",
+      "Anaesthesia_img_26.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch5_5",
-    "question_text": "The image shown below is the technique of insertion of?",
+    "question_text": "The image shown below is the technique of insertion of?\n",
     "options": [
       "Oropharyngeal airway",
       "Nasopharyngeal airway",
@@ -1088,7 +1114,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe image shown above is the technique of insertion of laryngeal mask airway.\nLaryngeal mask airway (LMA) is a supraglottic airway device that is positioned in the hypopharynx.\nClassic Laryngeal Mask Airway\nSupraglottic airway devices are used with both spontaneously and ventilated patients during anesthesia.\nLMA has advantages of being used in many settings, including the operating room (alternate route of ventilation), the emergency department (difficult intubation), and out-of-hospital care (paramedics).\nThis is because it is easy to use, quick to place even for the inexperienced provider and has a very high success rate.\nThe technique of insertion:\nThe deflated cuff of LMA is lubricated and inserted blindly into the hypopharynx so that, once nflated, the cuff forms a low-pressure seal around the entrance to the larynx.\nCorrect placement of the tube is confirmed by giving gentle positive pressure ventilation while checking for chest rise and ETCO2 using capnography.\nNote:\nOropharyngeal airway: inserted in the patient\u2019s mouth with concavity towards hard palate. As the airway is inserted it is rotated 180 degrees (concavity towards the tongue) until the flange comes to rest on the patient\u2019s lips.\nNasopharyngeal airway: inserted through the nostril (after lubrication) along the natural curvature of the floor of the nasal cavity with the bevel pointing towards the septum. Once the device is inserted the flange should rest on the nostril opening.\nEndotracheal tube: inserted infraglottically after visualising the vocal cords with direct laryngoscopy.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_27.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1149,7 +1177,7 @@
   },
   {
     "id": "Anaesthesia_Ch5_10",
-    "question_text": "What is the advantage of the following device?",
+    "question_text": "What is the advantage of the following device?\n",
     "options": [
       "Has a port for orogastric tube",
       "Can facilitate endotracheal intubation",
@@ -1158,7 +1186,9 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe image shown above is the Fastrach laryngeal mask airway (LMA) or intubating LMA with an endotracheal tube within its lumen.\nIt has a distinct advantage over other LMA designs as it can facilitate endotracheal intubation through the LMA device.\nIt has a rigid handle and an epiglottis elevator.\nLMA Proseal and LMA Supreme are second-generation LMA devices that have integrated bite blocks, an orogastric tube to remove gastric secretions, and an improved cuff design.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_28.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1303,7 +1333,7 @@
   },
   {
     "id": "Anaesthesia_Ch6_9",
-    "question_text": "What procedure is the following device most suitable for?",
+    "question_text": "What procedure is the following device most suitable for?\n",
     "options": [
       "Head and neck surgery",
       "Nasal surgery",
@@ -1312,7 +1342,9 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe device shown in the image is the south oral Ring-Adair-Elwyn (RAE) endotracheal tube.\nIt is preferred for nasal and ophthalmic surgeries because it has a preformed right-angle bend at the level of the teeth so that it does not disrupt the surgical field.\nThe image below shows south faced oral RAE tube used for surgery.\nThe image below shows a north nasal RAE tube.\nIt is preferred in oral surgeries as the tube connector faces towards the patient's head after placement, and the surgical field is not disrupted.\nOther specialized endotracheal tubes and their uses:\nFlexometalllic (Armored or reinforced tubes): head and neck surgery\nMicrolaryngeal tubes: laryngeal surgery\nDouble-lumen endotracheal tubes: thoracic surgery",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_41.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1471,7 +1503,7 @@
   },
   {
     "id": "Anaesthesia_Ch6_21",
-    "question_text": "The given set of instruments are used in:",
+    "question_text": "The given set of instruments are used in:\n",
     "options": [
       "Central line insertion",
       "Arterial line insertion",
@@ -1480,12 +1512,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image shows a tray in an airway cart with the instruments necessary for airway management. An airway cart may include:\nLaryngoscope blades of various sizes, including a rigid fibreoptic.\nTracheal tubes of various sizes, and tracheal tube guides such as semirigid stylets, ventilating tube changer, light wands, and forceps that are required to manipulate the distal portion of the tracheal tube.\nMasks of various sizes.\nLaryngeal mask airways of various sizes.\nFlexible fiberoptic intubation equipment.\nRetrograde intubation equipment.\nAt least one device to perform emergency noninvasive airway ventilation such as esophageal tracheal tube, a hollow jet ventilation stylet.\nEquipment required for emergency invasive airway access.\nAn exhaled CO2 detector.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_42.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch6_22",
-    "question_text": "The following endotracheal tube is preferred for",
+    "question_text": "The following endotracheal tube is preferred for\n",
     "options": [
       "Head and neck surgery",
       "Nasal surgery",
@@ -1494,7 +1528,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image shown is of an armored tube (a.k.a. reinforced, flexo-metallic endotracheal tube). It is useful in head and neck surgeries and when the patient is in a prone position.\nAn armored tube is a flexible, spiral wound tube which is reinforced with the metal coil so as to minimize kinking. The metal coil is better made out in the second image.\nOther specialized endotracheal tubes include:\nSouth oral Ring Adair Elwin: Nasal surgery\nMicro laryngeal tubes: Laryngeal surgery\nDouble-lumen endotracheal tubes (Carlen, Robertshaw): Thoracic surgery\nNote: The tip of the armored endotracheal tube is 2 cm distal to the distal-most metal ring, and this portion may not be visualized in radiography.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_43.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1513,7 +1549,7 @@
   },
   {
     "id": "Anaesthesia_Ch7_1",
-    "question_text": "On your first day in the operation theater, you notice the following machine. What type of machine is this?",
+    "question_text": "On your first day in the operation theater, you notice the following machine. What type of machine is this?\n",
     "options": [
       "Continuous flow machine",
       "Intermittent flow machine",
@@ -1522,7 +1558,9 @@
     ],
     "correct_option": "a",
     "explanation": "\nThe machine shown in the image is Boyle's machine. It is a type of continuous flow machine. Types of anesthesia machine:\nContinuous flow: Gas flows during both inspiration and expiration\nBoyle's apparatu\nForegger\nHeidbrink\nIntermittent flow: Gas flows only during inspiration\nEntonox apparatu\nMcKesson's apparatu\nBoyle's machine was invented by Henry Edmund Gaskin Boyle in 1917. Although a lot of changes have been made for the original Boyle's apparatus, the basic structure of anesthesia workstation still remains the same.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_60.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1555,7 +1593,7 @@
   },
   {
     "id": "Anaesthesia_Ch7_4",
-    "question_text": "You observe the following breathing circuit being used to ventilate a brain-dead patient who is being shifted to the OT for organ procurement. Which type of Mapleson circuit does this belong to?",
+    "question_text": "You observe the following breathing circuit being used to ventilate a brain-dead patient who is being shifted to the OT for organ procurement. Which type of Mapleson circuit does this belong to?\n",
     "options": [
       "Mapleson A",
       "Mapleson B",
@@ -1564,7 +1602,9 @@
     ],
     "correct_option": "d",
     "explanation": "\nThe given circuit is the Bain's circuit which is a coaxial modification of the Mapleson D circuit. Co-axial circuits have two tubings, one inner and one outer tubing (arranged co-axially).\nBain's circuit has\nInner inspiratory tubing: carries fresh gas flow to the patient\nOuter expiratory tubing: carries exhaled gases out through APL (adjustable pressure limiting) valve\nBain's circuit is often called a universal circuit as it can be used for adult and pediatric patients, for spontaneous and controlled ventilation.\nMapleson's D vs Bain's circuit",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_61.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1583,7 +1623,7 @@
   },
   {
     "id": "Anaesthesia_Ch7_6",
-    "question_text": "Identify the device shown below:",
+    "question_text": "Identify the device shown below:\n",
     "options": [
       "Magill's circuit",
       "Lack's circuit",
@@ -1592,7 +1632,9 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe image shown above is of Lack's circuit, which is a co-axial modification of Mapleson's A circuit.\nCo-axial circuits have two tubings, one inner and one outer tubing (arranged co-axially). Lack's circuit has:\nInner expiratory tubing: carries exhaust gases out through APL valve\nOuter inspiratory tubing: carries fresh gas flow to the patient\nMagill's circuit (Mapleson A) designed by Sir Ivan Magill, best suited for spontaneous ventilation.\nJackson and Rees circuit (Mapleson F) is a modification of Ayre's T piece. Best suited for children under 20 kg.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_62.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1611,7 +1653,7 @@
   },
   {
     "id": "Anaesthesia_Ch7_8",
-    "question_text": "What is the type of circuit shown in the image?",
+    "question_text": "What is the type of circuit shown in the image?\n",
     "options": [
       "Mapleson E",
       "Mapleson C",
@@ -1620,7 +1662,9 @@
     ],
     "correct_option": "a",
     "explanation": "\nThe above image is Ayre's T piece, which is a type of Mapleson's E circuit.\nAyre's T piece\nSuitable for use in neonates and children due to low dead space and low resistance.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_63.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1667,7 +1711,7 @@
   },
   {
     "id": "Anaesthesia_Ch7_12",
-    "question_text": "During an elective operation, you observe the following breathing circuit is used to provide anaesthesia. Which of the following is not true regarding this system?",
+    "question_text": "During an elective operation, you observe the following breathing circuit is used to provide anaesthesia. Which of the following is not true regarding this system?\n",
     "options": [
       "Unidirectional gas flow",
       "Rebreathing of anaesthetic gase",
@@ -1676,7 +1720,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe circle system is not associated with increased air pollution.\nThe incidence of air pollution: Open&gt;Mapleson&gt;Circle system.\nThe ability to scavenge exhaled gases is also maximum with a closed system. Scavenging is the process of removal of waste anesthetic gases from both the anesthesia machine and the anesthetizing location (operation theatre). Thus minimizing operating room pollution.\nComponents of the circle system:\nCO2 absorber\nfresh gas inlet\nuni-directional valves (inspiratory and expiratory)\nBreathing tubes (inspiratory and expiratory)\nY-connector\nAPL valve\nReservoir bag.\nThe circle system allows for a uni-directional flow of anesthetic gases.\nCarbon dioxide absorber (eg soda-lime) allows rebreathing of anesthetic gases after the removal of exhaled carbon dioxide. This conserves anesthetic gases and thus reduces air pollution.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_64.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1849,7 +1895,7 @@
   },
   {
     "id": "Anaesthesia_Ch8_12",
-    "question_text": "What gas is the following cylinder used to carry?",
+    "question_text": "What gas is the following cylinder used to carry?\n",
     "options": [
       "Entonox",
       "Air",
@@ -1858,7 +1904,9 @@
     ],
     "correct_option": "d",
     "explanation": "\nBlue cylinders are used to store nitrous oxide.\nMaximum pressure in the nitrous oxide cylinder is around 745 psig.\nCritical temperature of nitrous oxide is 36.5oC, hence it is present in liquid form at room temperature.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_74.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1891,7 +1939,7 @@
   },
   {
     "id": "Anaesthesia_Ch8_15",
-    "question_text": "Identify the gas cylinder based on the pin index shown.",
+    "question_text": "Identify the gas cylinder based on the pin index shown.\n",
     "options": [
       "Oxygen",
       "Air",
@@ -1900,12 +1948,14 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe given image shows the Pin index system (3,5) of Nitrous oxide.\nPin index system (PISS) is a safety measure to prevent incorrect cylinder attachment.\nEach gas cylinder has two holes (except entonox) in its cylinder valve that fits the corresponding pins in the yoke of the anesthesia machine. The relative positioning of the pins and holes is unique for each gas which constitutes the pin index system.\nThe PISS should only be considered as partial protection because pin index failures have been reported due to bent or broken pins.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_75.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch8_16",
-    "question_text": "An overworked OT technician brings an oxygen gas cylinder instead of an air cylinder to the theater. However, he realizes his mistake when he is unable to attach it to the hanger-yoke assembly because of the Pin index safety system. What would be the Pin index of the cylinder he is holding?",
+    "question_text": "An overworked OT technician brings an oxygen gas cylinder instead of an air cylinder to the theater. However, he realizes his mistake when he is unable to attach it to the hanger-yoke assembly because of the Pin index safety system. What would be the Pin index of the cylinder he is holding?\n",
     "options": [
       "2, 5",
       "1, 5",
@@ -1914,7 +1964,9 @@
     ],
     "correct_option": "",
     "explanation": "\nPin index system for oxygen gas is 2,5.\nPin index system (PISS) is a safety measure to prevent incorrect cylinder attachment.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_76.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -1989,7 +2041,7 @@
   },
   {
     "id": "Anaesthesia_Ch8_22",
-    "question_text": "Read the flow rate of the oxygen depicted in the flow meter.",
+    "question_text": "Read the flow rate of the oxygen depicted in the flow meter.\n",
     "options": [
       "2 L",
       "3 L",
@@ -1998,7 +2050,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe flow rate of oxygen in the given image is 3 L.\nThe indicator present in the Rotameter (Flow meter) is known as Bobbin or Float. The flows are read from the top end of the bobbin.\nSome rotameters have ball indicator. Here, the reading is taken from the center of the ball.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_77.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2031,7 +2085,7 @@
   },
   {
     "id": "Anaesthesia_Ch8_25",
-    "question_text": "You notice this specialized vaporizer being used in the OT. Which of the following gases would you expect it to contain?",
+    "question_text": "You notice this specialized vaporizer being used in the OT. Which of the following gases would you expect it to contain?\n",
     "options": [
       "Desflurane",
       "Sevoflurane",
@@ -2040,7 +2094,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image shows a specialized vapouriser Tec 6. Because of high vapor pressure (669 mmHg at 20\u00b0C) and low boiling point (22.8\u00b0C ~ room temperature), Desflurane requires this\nspecialized vaporizer for its delivery.\nAnesthetic gas with the highest vapor pressure is Desflurane. Other salient features of Desflurane:\nHigh saturated vapor pressure which is 3-4 times the other agents\nLow boiling point\nLow blood-gas solubility (0.42) resulting in rapid uptake and recovery\nHigh MAC value of 6, indicating low potency\nRequires specialized vapouriser such as Tec 6\nColor coding of Desflurane - Blue\nUndergoes minimal metabolism\nDegraded into CO by the desiccated CO2 absorbent",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_78.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2059,7 +2115,7 @@
   },
   {
     "id": "Anaesthesia_Ch8_27",
-    "question_text": "In a patient with a tracheostomy, you notice the following device is used in addition to the breathing circuit. Which of the following statements is false concerning this device?",
+    "question_text": "In a patient with a tracheostomy, you notice the following device is used in addition to the breathing circuit. Which of the following statements is false concerning this device?\n",
     "options": [
       "Conserves heat",
       "Active humidifier",
@@ -2068,7 +2124,9 @@
     ],
     "correct_option": "",
     "explanation": "\nHeat and moisture exchanger (HME) is a passive humidifier, not active.\nThe natural humidification and conservation of heat by the upper respiratory tract is lost or bypassed after tracheal intubation or tracheostomy. HME acts as an artificial nose, which traps the exhaled water vapor and heat passively by its hygroscopic material, and thus conserves heat and adds moisture to the inhaled gases.\nActive humidifiers act by allowing air passage inside a heated water reservoir. These devices are placed in the inspiratory limb of the ventilator circuit, proximal to the ventilator. After the air is loaded with water vapor in the reservoir, it travels along the inspiratory limb to the patient\u2019s airway.\nSome humidifiers also serve as filters to trap bacteria/viruses and thus prevent the transmission of microbes from the patient to the machine and hence to other patients.\nThe disadvantage with the humidifier is that excess saturation can lead to blockage of the circuit.\nShown above is an HME filter impregnated with a hygroscopic material.\nShown above is the placement of HME filter in the breathing circuit.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_79.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2297,7 +2355,7 @@
   },
   {
     "id": "Anaesthesia_Ch9_13",
-    "question_text": "Identify the device shown in the image below.",
+    "question_text": "Identify the device shown in the image below.\n",
     "options": [
       "Automated External Desynchonizer",
       "Automated External Defibrillator",
@@ -2306,7 +2364,9 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe device is an Automated External Defibrillator (AED).\nThis is a special medical device that is commonly used for recognizing the absence/presence of rapid ventricular tachycardia or ventricular fibrillation. With no need for intervention by an operator, it determines whether an electrical shock right to the heart must be performed (defibrillation).\nAn automated external defibrillator can be used on those victims, who are unconscious and aren\u2019t breathing in a normal way. As a rule, it is used together with CPR in cases of sudden cardiac arrest. It is forbidden to use it on patients who are less than eight years old or those weighing less than 25 kgs.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_90.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2409,7 +2469,7 @@
   },
   {
     "id": "Anaesthesia_Ch10_1",
-    "question_text": "A 45-year-old woman presented to the ER with dizziness. Her blood pressure is 80/60 mmHg, pulse rate is 45/minute. Her ECG is shown below. What is the next best step of management?",
+    "question_text": "A 45-year-old woman presented to the ER with dizziness. Her blood pressure is 80/60 mmHg, pulse rate is 45/minute. Her ECG is shown below. What is the next best step of management?\n",
     "options": [
       "IV Epinephrine",
       "IV Atropine",
@@ -2418,7 +2478,11 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe ECG shown above is the second-degree atrioventricular block type 1 - Wenckebach phenomenon.\nTreatment is indicated when bradycardia is accompanied by any one of the following:\nHypotension\nAcutely altered mental status\nSigns of shock\nIschemic chest discomfort\nAcute heart failure\nTreatment is initiated with 1 mg atropine iv which may be repeated at 3-5 minute intervals to a maximum dose of 3 mg.\nAlong with atropine, transcutaneous pacing is to be done.\nIf the bradycardia is refractory to both atropine and transcutaneous pacing, then IV infusions of dopamine (5 to 20 \uf06dg/kg/min) or epinephrine (2 to 10 \uf06dg/min) should be considered.\nIf the patient still isn\u2019t responding, then transvenous pacing should be tried. If the patient is under spinal anesthesia, low-dose (0.2 mg) IV epinephrine can be given.\nEpinephrine is the drug of choice for treating bradyarrhythmias in infants and children.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_94.jpeg",
+      "Anaesthesia_img_95.jpeg",
+      "Anaesthesia_img_93.png"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2451,7 +2515,7 @@
   },
   {
     "id": "Anaesthesia_Ch10_4",
-    "question_text": "A 22-year-old man was brought to the casualty with palpitations and dizziness. His heart rate was 160/min and blood pressure was 110/80 mm Hg. His ECG is given below. What is the first line of management?",
+    "question_text": "A 22-year-old man was brought to the casualty with palpitations and dizziness. His heart rate was 160/min and blood pressure was 110/80 mm Hg. His ECG is given below. What is the first line of management?\n",
     "options": [
       "Adenosine 6 mg",
       "Adenosine 12 mg",
@@ -2460,12 +2524,14 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe patient has paroxysmal supraventricular tachycardia. As the patient's blood pressure is normal and there is no evidence of hemodynamic deterioration, initial treatment consists of vagal maneuvers (Valsalva maneuver) in awake patients. This is because vagal maneuvers alone can terminate approximately 20% to 25% of reentry supraventricular tachycardias (SVTs).\nIf this is unsuccessful, then IV adenosine 6 mg is given. If necessary another dose of adenosine 12 mg may be administered after 1-2 minutes.\nIf the drug is administered via a central venous catheter, then these doses are reduced to 3 mg and 6 mg, respectively.\nIf there is hemodynamic deterioration, then cardioversion is the treatment of choice.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_96.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_5",
-    "question_text": "A 22-year-old man was brought to the casualty with palpitations and dizziness. His heart rate was 160/min and blood pressure was 110/80 mmHg. His ECG is given below. Vagal maneuver was found to be ineffective. What would your next line of management be?",
+    "question_text": "A 22-year-old man was brought to the casualty with palpitations and dizziness. His heart rate was 160/min and blood pressure was 110/80 mmHg. His ECG is given below. Vagal maneuver was found to be ineffective. What would your next line of management be?\n",
     "options": [
       "Adenosine 0.6 mg",
       "Adenosine 1.2 mg",
@@ -2474,12 +2540,14 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe patient has paroxysmal supraventricular tachycardia.\nAs vagal maneuver has been found ineffective, then the next best step is to administer adenosine 6 mg IV.\nFor treating supraventricular tachycardia, the hemodynamic status of the patient has to be assessed. In this patient, as his blood pressure is normal and there is no evidence of hemodynamic deterioration, initial treatment consists of vagal maneuvers (Valsalva maneuver) in awake patients.\nIn this scenario, as this was unsuccessful, IV adenosine 6 mg had to be given. If necessary another dose of adenosine 12 mg may be administered after 1-2 minutes.\nIf the drug is administered via a central venous catheter, then these doses are reduced to 3 mg and 6 mg, respectively.\nIf there is hemodynamic deterioration, then cardioversion is the treatment of choice.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_96.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_6",
-    "question_text": "A 22-year-old male was brought to the casualty with palpitations and dizziness. His heart rate is 170/min and his blood pressure was 70/40 mm Hg. His ECG is given below. What is the first line of management?",
+    "question_text": "A 22-year-old male was brought to the casualty with palpitations and dizziness. His heart rate is 170/min and his blood pressure was 70/40 mm Hg. His ECG is given below. What is the first line of management?\n",
     "options": [
       "Vagal manoeuvre",
       "Adenosine 6 mg IV",
@@ -2488,12 +2556,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThis patient has supraventricular tachycardia with evidence of hemodynamic deterioration. Immediate treatment would be cardioversion (50-100J).\nIf the patient were hemodyamically stable, initial treatment would be vagal maneuvers (Valsalva maneuver) in awake patients. This is because vagal maneuvers alone can terminate approximately 20% to 25% of reentry supraventricular tachycardias (SVTs).\nIf this is unsuccessful, then iv adenosine 6 mg is given. If necessary another dose of adenosine 12 mg may be administered after 1-2 minutes.\nIf the drug is administered via a central venous catheter, then these doses are reduced to 3 mg and 6 mg respectively.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_96.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_7",
-    "question_text": "A 50-year-old patient with a history of hypertension and diabetes mellitus developed the following rhythm. His blood pressure was 90/40 mm Hg and he had a feeble pulse. What is the next step of management?",
+    "question_text": "A 50-year-old patient with a history of hypertension and diabetes mellitus developed the following rhythm. His blood pressure was 90/40 mm Hg and he had a feeble pulse. What is the next step of management?\n",
     "options": [
       "IV adenosine",
       "IV diltiazem",
@@ -2502,12 +2572,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe clinical scenario suggests supraventricular tachycardia with hemodynamic instability and the next step of management is DC cardioversion (50-100J).\nIf the patient was hemodyamically stable, initial treatment would be vagal maneuvers (Valsalva maneuver) in awake patients. This is because vagal maneuvers alone can terminate approximately 20% to 25% of reentry supraventricular tachycardias (SVTs).\nIf this is unsuccessful, then iv adenosine 6 mg is given. If necessary another dose of adenosine 12 mg may be administered after 1-2 minutes.\nIf the drug is administered via a central venous catheter, then these doses are reduced to 3 mg and 6 mg respectively.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_97.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_8",
-    "question_text": "A 58-year-old man presented to the casualty with complaints of increasing shortness of breath, lightheadedness, and palpitations. He had an irregularly irregular pulse and blood pressure was 120/70mm Hg. His ECG is given below. What is the treatment of choice?",
+    "question_text": "A 58-year-old man presented to the casualty with complaints of increasing shortness of breath, lightheadedness, and palpitations. He had an irregularly irregular pulse and blood pressure was 120/70mm Hg. His ECG is given below. What is the treatment of choice?\n",
     "options": [
       "Immediate defibrillation",
       "Synchronized cardioversion",
@@ -2516,12 +2588,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe patient is in atrial fibrillation but his hemodynamic status is normal. So the treatment of choice is IV Ibutilide.\nIbutilide is a class III antiarrhythmic drug that has a rapid onset of action. It restores sinus rhythm by prolonging the action potential duration and effective refractory period.\nIt is administered at a dose of 1 mg over 10 minutes. If necessary, a second dose can be administered 10 minutes after the first.\nIf there is evidence of hemodynamic deterioration, immediate cardioversion is the treatment of choice.\nCardioversion is a synchronized administration of shock as the timing is typically synchronized with the R waves or QRS complex of a cardiac cycle. On the other hand, random administration of shock anywhere in between a cardiac cycle is termed as Defibrillation which is non-synchronized.\nHowever, the mechanism for both processes is quite similar. The electric current is made to travel from the negative to the positive electrode in such a way that it traverses the entire myocardium at once to conduct a simultaneous contraction of each cell of the heart muscle. It is made to interrupt any ongoing abnormal electrical activity by terminating it so that the sinus node can take back the charge and resume its normal pacemaker activity.\nCardioversion is typically performed under induction or sedation using a short-acting agent such as midazolam, unless the patient is hemodynamically unstable or if cardiovascular collapse is imminent. Defibrillation is more of an emergent maneuver and, when necessary, should be preferably performed in conjunction with or prior to the administration of induction or sedative agents.\nEnergy may be delivered through mainly two waveforms in defibrillators that are monophasic or biphasic.\nMonophasic defibrillation delivers a charge in only one direction as opposed to biphasic defibrillation delivering a charge in one direction for half of the shock and in the electrically opposite direction for the second half.\nBiphasic waveforms are adopted in newer defibrillators as they deliver a more consistent magnitude of the current which successfully terminates arrhythmias at lower energies than monophasic waveform defibrillators.\nEnergy selection for defibrillation or cardioversion. Following are the guidelines for initial energy requirements issued by the American Heart Association in 2010.\nAtrial fibrillation energy requirements are as follows:\n200 Joules for monophasic devices\n120-200 Joules for biphasic devices\nAtrial flutter energy requirements are as follows:\n100 Joules for monophasic devices\n50-100 Joules for biphasic devices\nVentricular tachycardia with pulse energy requirements are as follows:\n200 Joules for monophasic devices\n100 Joules for biphasic devices\nVentricular fibrillation or pulseless ventricular tachycardia energy requirements are as follows:\n360 Joules for monomorphic devices\n120-200 Joules for biphasic devices",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_98.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_9",
-    "question_text": "A young man was brought to the casualty with complaints of palpitations and dizziness. His pulse rate was 150/min and blood pressure 120/70 mm Hg. His ECG is shown below. What is the line of management?",
+    "question_text": "A young man was brought to the casualty with complaints of palpitations and dizziness. His pulse rate was 150/min and blood pressure 120/70 mm Hg. His ECG is shown below. What is the line of management?\n",
     "options": [
       "IV procainamide",
       "IV adenosine",
@@ -2530,12 +2604,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe patient is in ventricular tachycardia with hemodynamic stability. The next line of management is to administer procainamide, class IA antiarrhythmic drug.\nAntiarrhythmic therapy for stable wide QRS tachycardia include procainamide, amiodarone, or sotalol. Synchronized cardioversion is considered when the patient is unstable.\nWhen a patient is in tachyarrhythmia typically with a heart rate of \uf0b3150 per minute, the initial intervention consists of identifying and treating the underlying cause. This includes:\nMaintaining a patent airway and assisting breathing as necessary\nAdministering oxygen if hypoxemic\nAttaching cardiac monitor to identify rhythm; monitor blood pressure and oximetry\nWhen there is persistent tachyarrhythmia, the management is as depicted by the flowchart (based on the AHA guidelines) below:\nOption B: Adenosine is used in regular narrow complex tachycardia.\nOption C: Lidocaine has limiting side effects and, increase the overall mortality risk.\nOption D: It is the treatment for immediately life-threatening arrhythmias with which the patient does not have a pulse, ie ventricular fibrillation (VF) or pulseless ventricular tachycardia (VT).",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_99.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_10",
-    "question_text": "A 70-year-old woman with chronic kidney disease on chronic therapy with a loop diuretic was brought to the ER. Her daughter says that she complained of palpitation, dizziness, and then suddenly collapsed. Her ECG is given below. Which electrolyte abnormality has to be considered in this patient?",
+    "question_text": "A 70-year-old woman with chronic kidney disease on chronic therapy with a loop diuretic was brought to the ER. Her daughter says that she complained of palpitation, dizziness, and then suddenly collapsed. Her ECG is given below. Which electrolyte abnormality has to be considered in this patient?\n",
     "options": [
       "Hypermagnesemia",
       "Hypomagnesemia",
@@ -2544,7 +2620,9 @@
     ],
     "correct_option": "",
     "explanation": "\nChronic use of loop diuretics such as furosemide can predispose to hypomagnesemia. The given ECG classically depicts polymorphic ventricular tachycardia\u2014torsades de pointes. Torsade rhythm is most commonly is seen in association with hypomagnesemia and hypokalemia.\nTorsades de pointes is a polymorphic ventricular tachycardia meaning \u201ctwisting of the points,\u201d characterized by twisting of the QRS axis around the baseline and a polymorphic appearance.\nThere is QT interval prolongation in the ECG due to a non-uniform delay in repolarization. The other cause of torsades de pointes include:\nDrugs like quinidine, procainamide, disopyramide, and phenothiazine (amiodarone is rarely associated with torsades de pointes because the delay in repolarization induced by it is uniform).\nBradycardia\nAcute ischemia or infarction Management:\nDiscontinue the offending drug\nCorrect electrolyte abnormalities, pH and hypoxia\nMagnesium sulphate infusion\nIncrease the heart rate - electrical pacing, isoproterenol infusion, or intravenous atropine",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_100.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2619,7 +2697,7 @@
   },
   {
     "id": "Anaesthesia_Ch10_16",
-    "question_text": "A 47-year-old woman was brought to the casualty in an unconscious state after having suddenly collapsed. As there was no pulse, cardiopulmonary resuscitation was started and the monitor showed the following rhythm. What is the next step?",
+    "question_text": "A 47-year-old woman was brought to the casualty in an unconscious state after having suddenly collapsed. As there was no pulse, cardiopulmonary resuscitation was started and the monitor showed the following rhythm. What is the next step?\n",
     "options": [
       "Defibrillation",
       "Synchronized cardioversion",
@@ -2628,12 +2706,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe patient has an organized, apparently normal ECG without a pulse - i.e the patient has pulseless electrical activity (PEA). A pulseless electrical activity involves a heterogeneous group of cardiac rhythms, all without a pulse.\nThe immediate treatment for this is giving chest compressions and 1 mg epinephrine at the earliest until definitive therapy to the cause can be instituted.\nIt is essential to rule out the reversible causes of cardiac arrest because the treatment for each of them is different and PEA is likely to persist until the cause is treated.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_101.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch10_17",
-    "question_text": "You are performing cardiopulmonary resuscitation on a patient who had gone into cardiac arrest, and the monitor shows the following rhythm. What is the next step in management?",
+    "question_text": "You are performing cardiopulmonary resuscitation on a patient who had gone into cardiac arrest, and the monitor shows the following rhythm. What is the next step in management?\n",
     "options": [
       "Defibrillation",
       "Synchronized cardioversion",
@@ -2642,7 +2722,11 @@
     ],
     "correct_option": "",
     "explanation": "\nThe ECG rhythm shown is ventricular fibrillation which is treated by immediate defibrillation.\nThe management of ventricular fibrillation and pulseless ventricular tachycardia (shockable rhythms) is the same. Immediate chest compression is to be started.\nIt is of utmost necessity to defibrillate at the earliest because the chances of survival decrease by 7-10% every minute without defibrillation.\nDefibrillation involves delivering an electrical current between two pads placed on the chest so as to interrupt the disorganized cardiac activity and restore an organized cardiac rhythm or asystole for at least 5 seconds.\nThe energy that must be applied is\nMonophasic defibrillator\u2013 360 J\nBiphasic defibrillator- 120 J",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_103.jpeg",
+      "Anaesthesia_img_104.jpeg",
+      "Anaesthesia_img_102.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -2997,7 +3081,7 @@
   },
   {
     "id": "Anaesthesia_Ch12_8",
-    "question_text": "Which of the following skeletal muscle relaxants exhibit the following response to the 'train of four protocol' used in the clinical assessment of neuromuscular blockade?",
+    "question_text": "Which of the following skeletal muscle relaxants exhibit the following response to the 'train of four protocol' used in the clinical assessment of neuromuscular blockade?\n",
     "options": [
       "d-Tubocurarine",
       "Mivacurium",
@@ -3006,7 +3090,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nSuccinylcholine exhibits the above-given response to the 'train of four protocol' used in the clinical assessment of neuromuscular blockade.\nTrain of four protocol is one of the methods used in the clinical assessment of neuromuscular blockade. It is done by stimulating the ulnar nerve with a stimulus and watching the contractile responses in the adductor pollicis muscle. Four successive stimuli of 2Hz strength are given at fixed time intervals and the response achieved is plotted as a graph.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_110.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -3781,7 +3867,7 @@
   },
   {
     "id": "Anaesthesia_Ch14_11",
-    "question_text": "A polytrauma patient with the given x-ray finding is being taken up for damage control surgery. Which of the following inhalational agents should be avoided in her?",
+    "question_text": "A polytrauma patient with the given x-ray finding is being taken up for damage control surgery. Which of the following inhalational agents should be avoided in her?\n",
     "options": [
       "Halothane",
       "Sevoflurane",
@@ -3790,7 +3876,9 @@
     ],
     "correct_option": "d",
     "explanation": "\nThe image shows a pneumothorax. The inhalational agent to be avoided is nitrous oxide.\nNitrous oxide has the potential to expand air-containing cavities, as it can diffuse into and accumulate in them. Hence it should be avoided in patients with pneumothorax.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_112.png"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -3823,7 +3911,7 @@
   },
   {
     "id": "Anaesthesia_Ch14_14",
-    "question_text": "During the pre-anesthetic evaluation of a young woman planned for surgery, the following findings are described in the peripheral smear. Which inhalational anesthetic agent should be avoided to prevent neurological symptoms of this disease from developing?",
+    "question_text": "During the pre-anesthetic evaluation of a young woman planned for surgery, the following findings are described in the peripheral smear. Which inhalational anesthetic agent should be avoided to prevent neurological symptoms of this disease from developing?\n",
     "options": [
       "Nitrous oxide",
       "Halothane",
@@ -3832,7 +3920,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe peripheral smear shows macro-ovalocytes and Cabot cells, suggesting megaloblastic anemia. Nitrous oxide should not be used in a patient with megaloblastic anemia.\nN\u25a0O can cause a subclinical B12 deficiency to become overt, leading to subacute combined degeneration of the cord (SACD).\nN\u25a0O inhibits vitamin B12 dependent enzymes like methionine synthetase which is essential for the formation of myelin. It also inhibits vitamin B12 dependent enzymes like thymidylate synthetase, which are necessary for DNA synthesis. This leads to the megaloblastic bone marrow changes.\nSide effects of N\u25a0O:\nBone marrow depression\nMegaloblastic anemia \u2013 may be seen following nitrous oxide exposure for 2- 6 hours\nTeratogenicity\nPeripheral neuropathy",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_113.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -4145,7 +4235,7 @@
   },
   {
     "id": "Anaesthesia_Ch15_12",
-    "question_text": "An intern notices the following canister attached to the anesthesia circuit. Which gas produces carbon monoxide when passed through it?",
+    "question_text": "An intern notices the following canister attached to the anesthesia circuit. Which gas produces carbon monoxide when passed through it?\n",
     "options": [
       "Halothane",
       "Methoxyflurane",
@@ -4154,7 +4244,9 @@
     ],
     "correct_option": "d",
     "explanation": "\nThe canister contains desiccated soda lime. Desflurane undergoes degradation to produce carbon monoxide, in the presence of strong bases in dry CO2 absorbents (like desiccated soda lime).\nCO production is predominantly seen with absorbents that contain sodium or potassium hydroxide. It is seen less with barium hydroxide. The propensity for CO production correlates with the anesthetic concentration in the breathing circuit (desflurane &gt; enflurane &gt; isoflurane).\nAmsorb is a CO2 absorbent that is more inert than soda-lime and baralyme and so associated with lesser degradation of anesthetics and so less carbon monoxide production.\nSevoflurane, methoxyflurane, and halothane also undergo degradation in the presence of strong bases, but they do not produce CO.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_116.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -4383,7 +4475,7 @@
   },
   {
     "id": "Anaesthesia_Ch16_6",
-    "question_text": "Which of the statement regarding the drug given below is incorrect?",
+    "question_text": "Which of the statement regarding the drug given below is incorrect?\n",
     "options": [
       "Rapid onset and ultrashort duration of action",
       "Produces adequate analgesia",
@@ -4392,7 +4484,9 @@
     ],
     "correct_option": "b",
     "explanation": "\nThiopentone does not produce analgesia and may even produce anti-analgesia by reducing the pain threshold.\nOption A: Thiopentone has a rapid onset of action (within 30 s) due to high lipid solubility and a high unionized fraction (60%). It has an ultra-short duration of action (within 20 mins) due to rapid redistribution.\nOption C: Thiopentone does not completely suppress airway responses to laryngoscopy and intubation and may lead to bronchospasm in asthmatics.\nOption D: Thiopentone is cerebroprotective as it reduces CSF volume by facilitating its absorption. It decreases cerebral blood flow and cerebral blood volume, thus lowering intracranial pressure. It also has an anticonvulsant property which is advantageous in neurosurgical patients who are at increased risk of seizures.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_117.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -4425,7 +4519,7 @@
   },
   {
     "id": "Anaesthesia_Ch16_9",
-    "question_text": "A school student is brought to the casualty unresponsive following trauma to the head. The NCCT image is shown below. Which drug would you prefer for induction of anesthesia in him?",
+    "question_text": "A school student is brought to the casualty unresponsive following trauma to the head. The NCCT image is shown below. Which drug would you prefer for induction of anesthesia in him?\n",
     "options": [
       "Ketamine",
       "Halothane",
@@ -4434,7 +4528,9 @@
     ],
     "correct_option": "d",
     "explanation": "\nThe imaging suggests an extradural hemorrhage (EDH). Thiopentone is preferred for induction of anesthesia in head injury.\nThiopentone is cerebroprotective, as it decreases cerebral blood flow (CBF), thus lowering intracranial pressure (ICP). It reduces cerebral oxygen consumption (decreased CMRO2). It also has an anticonvulsant property which is advantageous in neurosurgical patients who are at increased risk of seizures.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_118.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -4551,7 +4647,7 @@
   },
   {
     "id": "Anaesthesia_Ch16_18",
-    "question_text": "Which of the following statements is incorrect concerning the drug in the image below?",
+    "question_text": "Which of the following statements is incorrect concerning the drug in the image below?\n",
     "options": [
       "Predisposes to systemic infections",
       "Associated with pancreatitis",
@@ -4560,7 +4656,9 @@
     ],
     "correct_option": "d",
     "explanation": "\nPropofol is not contraindicated in egg allergy patients.\nPropofol is formulated as an oil-in-water emulsion, which contains soybean oil, glycerol, and egg lecithin. Usually, egg allergies are a reaction to egg white (egg albumin). But, propofol contains egg lecithin, which is extracted from egg yolk, and so, propofol is not necessarily contraindicated in patients with a history of egg allergy.\nPropofol has been associated with life-threatening systemic infections because it decreases polymorphonuclear leukocyte chemotaxis, but not adherence phagocytosis and killing. It inhibits phagocytosis and killing of Staphylococcus aureus and Escherichia coli.\nPropofol is associated with hypertriglyceridemia which can predispose to pancreatitis.\nIt has antiemetic properties which help in reducing the incidence of post operative nausea and vomiting.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_119.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -5419,7 +5517,7 @@
   },
   {
     "id": "Anaesthesia_Ch19_5",
-    "question_text": "A patient presents with the following finding, and excision is planned under Bier\u2019s block. Which of the following drugs will you not use for this procedure?",
+    "question_text": "A patient presents with the following finding, and excision is planned under Bier\u2019s block. Which of the following drugs will you not use for this procedure?\n",
     "options": [
       "Prilocaine",
       "Lidocaine",
@@ -5428,7 +5526,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image shows a ganglion cyst planned for excision under Bier's block. Bupivacaine is no longer used for Biers block.\nBupivacaine is the most cardiotoxic local anaesthetic (LA). Accidental early deflation of the tourniquet can lead to massive systemic doses of bupivacaine resulting in cardiac arrhythmias and\ncardiovascular collapse.\nIVRA or Bier\u2019s block involves the intravenous administration of LA into a tourniquet-occluded limb for short surgical procedures (&lt;45-60 minutes) on the limbs. Drugs used are\nlidocaine (most common), prilocaine, mepivacaine, chloroprocaine, procaine, and etidocaine.\nThe image below shows Bier's block of the upper limb. A double pneumatic tourniquet is inflated to 50-100mmHg above systolic BP after exsanguination of the limb with Esmarch bandage.\n30-40ml of 0.5% Lidocaine is injected which provides anesthesia for 30-45 minutes. Even for a very short duration procedure, the tourniquet must be left inflated for at least 15\u201320 min to avoid a rapid systemic absorption of LA resulting in toxicity. Slow deflation is recommended to avoid LA toxicity.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_120.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -5881,7 +5981,7 @@
   },
   {
     "id": "Anaesthesia_Ch20_14",
-    "question_text": "In which procedure is the instrument shown in the image most commonly used?",
+    "question_text": "In which procedure is the instrument shown in the image most commonly used?\n",
     "options": [
       "Retrobulbar block",
       "Epidural anesthesia",
@@ -5890,7 +5990,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe instrument shown is the Quincke Needle used in spinal anesthesia. The Quincke needle is a cutting needle with end injection.\nSpinal needles are long thin needles that are classified based on their tip into:\nCutting needles: Quincke-Babcock, Pitkin\nPencil tip needles: Whitacre and Sprotte\nThis is the image of a Tuohy needle that is used to provide epidural anesthesia. It can be recognised by its curved (Huber) tip and the markings made at 1 cm interval along it's length.\nThe above image shows a Combined Spinal Epidural needle. It consists of a spinal needle passed through the epidural needle.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_129.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -5909,7 +6011,7 @@
   },
   {
     "id": "Anaesthesia_Ch20_16",
-    "question_text": "As an intern posted in the OT, you see the Anesthesia Senior Resident holding the needle shown in the image. What is the likely procedure that he is about to perform?",
+    "question_text": "As an intern posted in the OT, you see the Anesthesia Senior Resident holding the needle shown in the image. What is the likely procedure that he is about to perform?\n",
     "options": [
       "Spinal anesthesia",
       "Epidural anesthesia",
@@ -5918,12 +6020,14 @@
     ],
     "correct_option": "",
     "explanation": "\nThe image shown is the 18 G Tuohy needle, which is used in epidural anesthesia. Identification points:\nIt has a blunt, curved tip (Huber tip) that helps to prevent accidental dural puncture\nThe needle shaft is marked in 1-cm intervals so that the depth of insertion can be identified\nEpidural anesthesia set with Touhy's needle and epidural catheter.\nOther epidural needles: Crawford needle (straight needles without a curved tip): has a greater incidence of dural puncture.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_130.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch20_17",
-    "question_text": "While administering epidural anesthesia to a patient, in which of the following spaces would you inject the local anesthetic?",
+    "question_text": "While administering epidural anesthesia to a patient, in which of the following spaces would you inject the local anesthetic?\n",
     "options": [
       "C",
       "D",
@@ -5932,7 +6036,9 @@
     ],
     "correct_option": "",
     "explanation": "\nDuring epidural anesthesia, the local anesthetic is injected into the epidural/extradural space. This is marked in the image as B.\nThe epidural space exists between the dura and the ligamentum flavum posteriorly. The other markings are as follows:\nA: Subarachnoid space\nC. Interspinous ligament\nD. Subcutaneous tissue",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_131.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -5993,7 +6099,7 @@
   },
   {
     "id": "Anaesthesia_Ch20_22",
-    "question_text": "An 18-month-old boy with CTEV is undergoing corrective treatment. He is scheduled for a posteromedial soft tissue release procedure. You see the anaesthesia resident mark out the points shown in the image on his back. In what anaesthetic procedure are these landmarks used?\nSpinal anesthesia",
+    "question_text": "An 18-month-old boy with CTEV is undergoing corrective treatment. He is scheduled for a posteromedial soft tissue release procedure. You see the anaesthesia resident mark out the points shown in the image on his back. In what anaesthetic procedure are these landmarks used?\n\nSpinal anesthesia",
     "options": [
       "Caudal anesthesia",
       "Epidural anesthesia",
@@ -6002,7 +6108,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe landmarks depicted in the image are in reference to caudal anaesthesia. It is a common regional technique in paediatrics for procedures below the diaphragm, including urogenital, rectal, inguinal, and lower extremity surgery.\nCaudal anaesthesia involves deposition of local anaesthetic in the caudal epidural space, accessed through the sacral hiatus. Sacral hiatus is formed by the unfused S4 and S5 laminae and is covered by the sacrococcygeal ligament.\nThe lines joining the posterior superior iliac spines and sacral hiatus make an equilateral triangle. The sacral hiatus is felt as a groove or notch above the coccyx and between two bony prominences, the sacral cornua.\nIt is better appreciated in children than in adults and hence it is a common regional technique among pediatric patients.\nRegional Anesthesia: Complications and Contraindications",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_132.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -6329,7 +6437,7 @@
   },
   {
     "id": "Anaesthesia_Ch22_1",
-    "question_text": "The anaesthesia resident has made the markings as seen in the image on a patient's neck. Which brachial plexus block is he likely planning to perform?",
+    "question_text": "The anaesthesia resident has made the markings as seen in the image on a patient's neck. Which brachial plexus block is he likely planning to perform?\n",
     "options": [
       "Supraclavicular block",
       "Stellate ganglion block",
@@ -6338,7 +6446,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe above image shows the surface marking used to perform interscalene block. The local anaesthetic is injected into the interscalene groove present behind the sternocleidomastoid at the level of cricoid cartilage (C6 vertebral level).\nThis is a brachial plexus block performed at the trunk level.\nIt provides an adequate block of the superior and middle trunks of the brachial plexus. So, interscalene block provides surgical anesthesia for procedures of the shoulder and upper arm.\nUlnar nerve (C8, T1) from inferior trunk may be missed. Hence, this block is not used for procedures of the forearm and hand.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_141.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -6371,7 +6481,7 @@
   },
   {
     "id": "Anaesthesia_Ch22_4",
-    "question_text": "The anaesthesia resident is told to perform the 'spinal of the arm' before an elbow surgery. You observe him as he injects a local anaesthetic at the point shown in the image. What procedure is he performing?",
+    "question_text": "The anaesthesia resident is told to perform the 'spinal of the arm' before an elbow surgery. You observe him as he injects a local anaesthetic at the point shown in the image. What procedure is he performing?\n",
     "options": [
       "Stellate ganglion block",
       "Supraclavicular block",
@@ -6380,7 +6490,9 @@
     ],
     "correct_option": "b",
     "explanation": "\nThe procedure being performed is the supraclavicular block. It can be identified by the point of injection 2 cm posterior to the mid-point of clavicle.\nThe block is given at the level distal to trunks and proximal to divisions of the brachial plexus. It is also known as the 'spinal of the arm'.\nIt is a type of brachial plexus block used for procedures on the elbow, forearm, and hand. The supraclavicular block does not adequately block the axillary and suprascapular nerves, and thus is not reliable for shoulder surgery.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_142.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -6427,7 +6539,7 @@
   },
   {
     "id": "Anaesthesia_Ch22_8",
-    "question_text": "Which of the following blocks is performed by injecting a local anaesthetic at the point marked in the image?",
+    "question_text": "Which of the following blocks is performed by injecting a local anaesthetic at the point marked in the image?\n",
     "options": [
       "Stellate ganglion block",
       "Supraclavicular block",
@@ -6436,12 +6548,14 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe image shows the surface marking for performing infraclavicular block. This block is performed at a point 2 cm medial and 2 cm caudal to the coracoid process which is used as a landmark.\nThe brachial plexus is blocked at the level of cords.\nThe Infraclavicular block is used for procedures of the forearm and hand.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_143.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
     "id": "Anaesthesia_Ch22_9",
-    "question_text": "A brachial plexus block is given by injecting a local anesthetic at the point shown in the image. Which of the following procedures cannot be performed under this block?",
+    "question_text": "A brachial plexus block is given by injecting a local anesthetic at the point shown in the image. Which of the following procedures cannot be performed under this block?\n",
     "options": [
       "Plating of distal radius",
       "Internal fixation of scaphoid fracture",
@@ -6450,7 +6564,9 @@
     ],
     "correct_option": "c",
     "explanation": "\nThe image shows a local anesthetic being injected into the tip of the axilla around the axillary artery. This is the method used to perform the axillary block. It reliably produces anesthesia of the entire arm distal to the elbow, and so can be used for all of the given procedures, except fixation of the shaft of the humerus.\nThe terminal branches of the brachial plexus can be blocked via the axillary approach.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_144.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -6861,7 +6977,7 @@
   },
   {
     "id": "Anaesthesia_Ch23_27",
-    "question_text": "A 60-year-old female patient needs to undergo cataract surgery. Before initiating the surgery, the following procedure is performed. What is the most common complication seen in the procedure?",
+    "question_text": "A 60-year-old female patient needs to undergo cataract surgery. Before initiating the surgery, the following procedure is performed. What is the most common complication seen in the procedure?\n",
     "options": [
       "Proptosis",
       "Subconjunctival hemorrhage",
@@ -6870,7 +6986,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe most common complication seen in the procedure of retrobulbar block is retrobulbar haemorrhage.\nThe image shown above depicts the technique of retrobulbar block which is a regional anaesthesia technique used in ophthalmic surgery. It involves the injection of a local anaesthetic into the extraocular muscle cone. The needle penetrates the lower lid at the junction of the middle and lateral one-third of the orbit.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_149.jpeg"
+    ],
     "subject": "Anaesthesia"
   },
   {
@@ -7211,7 +7329,7 @@
   },
   {
     "id": "Anaesthesia_Ch24_20",
-    "question_text": "A 5-year-old child was brought to the local clinic in a remote village with a high fever for the past 2 days. It was associated with a barking cough. His neck radiograph is given below. In case a laryngoscopy has to be done, what will be the preferred induction agent?",
+    "question_text": "A 5-year-old child was brought to the local clinic in a remote village with a high fever for the past 2 days. It was associated with a barking cough. His neck radiograph is given below. In case a laryngoscopy has to be done, what will be the preferred induction agent?\n",
     "options": [
       "Nitrous oxide",
       "Halothane",
@@ -7220,7 +7338,9 @@
     ],
     "correct_option": "",
     "explanation": "\nThe clinical features and neck radiograph (steeple sign) are suggestive of laryngotracheobronchitis\n(croup) in the child and halothane is the preferred agent used for induction in this condition.\nNormally sevoflurane and halothane are agents used for induction in children. But in a child with airway obstruction like croup (laryngotracheobronchitis), rapid induction is contraindicated.\nTo perform laryngoscopy and tracheal intubation in such children, slow induction of anaesthesia is required before the child becomes sufficiently anaesthetized. Moreover, halothane has a slower excretion than sevoflurane, which provides sufficient time for airway management.\nThe therapeutic index of sevoflurane is higher than halothane (myocardial depression, sensitization of the myocardium to arrhythmias, halothane hepatitis) and hence is preferred for routine cases. However in certain underdeveloped countries, due to its cost-effectiveness, halothane is preferred.",
-    "images": [],
+    "images": [
+      "Anaesthesia_img_150.png"
+    ],
     "subject": "Anaesthesia"
   },
   {
