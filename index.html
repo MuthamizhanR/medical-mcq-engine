@@ -3,99 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Medical MCQ Engine</title>
+    <title>MedEngine V2</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
 
-<div id="app">
-    
-    <!-- TOAST NOTIFICATION -->
-    <div id="toast" class="toast">Link Copied!</div>
+    <div id="app-shell">
+        <nav class="navbar">
+            <div class="nav-content">
+                <div class="logo" onclick="app.router.navigate('')">
+                    <i class="fa-solid fa-dna"></i> MedEngine
+                </div>
+                <div class="search-box">
+                    <i class="fa-solid fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search topics or Q-ID...">
+                </div>
+            </div>
+        </nav>
 
-    <!-- VIEW 1: HOME -->
-    <div id="view-home" class="view active">
-        <div class="hero-header">
-            <div class="brand">
-                <i class="fa-solid fa-heart-pulse"></i>
-                <span>MedEngine</span>
-            </div>
-            <div class="search-wrapper">
-                <i class="fa-solid fa-magnifying-glass"></i>
-                <input type="text" id="globalSearch" placeholder="Search Subject or Paste Q-ID..." autocomplete="off">
-            </div>
-        </div>
+        <main id="main-container" class="content-area">
+            </main>
 
-        <div class="container">
-            <h2 class="section-title">Library</h2>
-            <div id="subjectGrid" class="grid-container">
-                <!-- Subjects injected here -->
-            </div>
-            <div id="loadingState" class="loading-spinner hidden"><i class="fa-solid fa-circle-notch fa-spin"></i></div>
-        </div>
-    </div>
-
-    <!-- VIEW 2: CHAPTERS -->
-    <div id="view-chapters" class="view">
-        <header class="sticky-header">
-            <button class="icon-btn" onclick="goHome()"><i class="fa-solid fa-arrow-left"></i></button>
-            <h1 id="chapterPageTitle">Subject</h1>
-        </header>
-        <div class="container">
-            <div id="chapterList" class="chapter-list">
-                <!-- Chapters injected here -->
-            </div>
-        </div>
-    </div>
-
-    <!-- VIEW 3: QUIZ -->
-    <div id="view-quiz" class="view">
-        <header class="sticky-header">
-            <button class="icon-btn" onclick="goBackToChapters()"><i class="fa-solid fa-arrow-left"></i></button>
-            <div class="header-center">
-                <span class="id-badge" id="qIDBadge">#ID</span>
-            </div>
-            <button class="icon-btn" onclick="shareQuestion()"><i class="fa-solid fa-share-nodes"></i></button>
-        </header>
+        <div id="toast" class="toast hidden">Notification</div>
         
-        <div class="quiz-container">
-            <div class="progress-bar"><div class="progress-fill" id="progressBar"></div></div>
-            
-            <div class="question-card">
-                <div class="q-meta">
-                    <span id="qIndex">1</span> / <span id="qTotal">10</span> • <span id="qTopic">General</span>
-                </div>
-                
-                <div class="q-text" id="questionText">Loading...</div>
-                
-                <div class="q-images" id="imageContainer"></div>
-                
-                <div class="options-grid" id="optionsContainer"></div>
-
-                <div id="feedbackArea" class="feedback-area hidden">
-                    <div class="feedback-header">
-                        <span id="feedbackIcon"></span>
-                        <h3 id="feedbackTitle"></h3>
-                    </div>
-                    <div class="explanation">
-                        <strong>Explanation:</strong>
-                        <div id="explanationText"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- BOTTOM NAV (Mobile) / FOOTER CONTROLS (Desktop) -->
-        <div class="quiz-controls">
-            <button id="prevBtn" class="nav-btn secondary"><i class="fa-solid fa-chevron-left"></i> Prev</button>
-            <button id="nextBtn" class="nav-btn primary">Next <i class="fa-solid fa-chevron-right"></i></button>
+        <div id="lightbox" class="lightbox hidden" onclick="this.classList.add('hidden')">
+            <img id="lightbox-img" src="" alt="Zoomed Image">
         </div>
     </div>
-</div>
 
-<script src="script.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
