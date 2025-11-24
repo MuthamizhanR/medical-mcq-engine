@@ -1,14 +1,13 @@
 /**
- * MedEngine V2 Core Logic
- * Architecture: SPA with Hash Routing & In-Memory Caching
+ * MedEngine V2.2 - Text Encoding Fix & Master Index Removed
  */
 
 const App = {
     // --- STATE ---
     data: {
-        subjects: [], // List of subject objects
-        syllabus: {}, // Chapter mapping
-        cache: {},    // Cache for heavy subject JSON files
+        subjects: [],
+        syllabus: {},
+        cache: {},
         activeSubject: null,
         activeQuestions: [],
         currentQIndex: 0
@@ -25,7 +24,6 @@ const App = {
     // --- INITIALIZATION ---
     async init() {
         try {
-            // 1. Load Meta Data
             const [subRes, sylRes] = await Promise.all([
                 fetch('./data/subjects.json'),
                 fetch('./data/syllabus.json')
@@ -34,13 +32,8 @@ const App = {
             this.data.subjects = await subRes.json();
             this.data.syllabus = await sylRes.json();
 
-            // 2. Setup Router
             window.addEventListener('hashchange', () => this.router());
-            
-            // 3. Setup Search
             this.elements.search.addEventListener('input', (e) => this.handleSearch(e.target.value));
-
-            // 4. Start Router
             this.router();
 
         } catch (error) {
@@ -53,16 +46,14 @@ const App = {
 
     // --- ROUTER ---
     async router() {
-        const hash = window.location.hash.slice(1) || '/'; // Remove #
+        const hash = window.location.hash.slice(1) || '/';
         const segments = hash.split('/');
 
-        // Route: Home
         if (hash === '/' || hash === '') {
             this.renderHome();
             return;
         }
 
-        // Route: Subject Overview (#subject/Surgery)
         if (segments[0] === 'subject') {
             const subName = decodeURIComponent(segments[1]);
             await this.loadSubjectData(subName);
@@ -70,19 +61,15 @@ const App = {
             return;
         }
 
-        // Route: Quiz Mode (#quiz/Surgery/1) -> Chapter 1
         if (segments[0] === 'quiz') {
             const subName = decodeURIComponent(segments[1]);
-            const chapterIndex = parseInt(segments[2]);
+            const chapterIndex = segments[2]; // Keep as string to handle 'ALL'
             
-            // Ensure data is loaded
             if (!this.data.cache[subName]) await this.loadSubjectData(subName);
-            
             this.startQuiz(subName, chapterIndex);
             return;
         }
         
-        // Route: Deep Link (#q/QuestionID)
         if (segments[0] === 'q') {
             this.handleDeepLink(segments[1]);
         }
@@ -90,35 +77,50 @@ const App = {
 
     // --- DATA MANAGER ---
     async loadSubjectData(name) {
-        // Check Cache first
         if (this.data.cache[name]) return;
 
-        // Show Loading
         this.elements.main.innerHTML = `<div class="loading"><i class="fa-solid fa-circle-notch fa-spin"></i><br>Loading ${name}...</div>`;
 
-        // Find filename
         const subjectObj = this.data.subjects.find(s => s.name === name);
-        if (!subjectObj) return alert("Subject not found!");
+        // Fallback for misnamed files
+        const fileName = subjectObj ? subjectObj.file : `${name}.json`;
 
         try {
-            const res = await fetch(`./data/${subjectObj.file}`);
+            const res = await fetch(`./data/${fileName}`);
             const json = await res.json();
-            this.data.cache[name] = json; // Save to memory
+            this.data.cache[name] = json;
         } catch (e) {
-            alert("Error loading subject file: " + subjectObj.file);
+            alert("Error loading subject file: " + fileName);
+            this.renderHome();
         }
+    },
+
+    // --- TEXT CLEANER ENGINE (Fixes Broken Symbols) ---
+    cleanText(text) {
+        if (!text) return "";
+        return text
+            // Replace the triple bar '≡' with a hyphen
+            .replace(/≡/g, "-") 
+            .replace(//g, "•") // Fix weird bullet points
+            .replace(/â€“/g, "-") // Fix encoding dashes
+            .replace(/â€™/g, "'") // Fix apostrophes
+            .replace(/ï»¿/g, "") // BOM fix
+            // Fix Greek letters
+            .replace(//g, "α").replace(//g, "β").replace(//g, "γ").replace(//g, "δ")
+            .replace(//g, "µ");
     },
 
     // --- RENDERERS ---
     
-    // 1. Home Grid
     renderHome() {
-        this.elements.search.value = ''; // Clear search
+        this.elements.search.value = '';
         const html = `
             <div class="grid">
                 ${this.data.subjects.map(sub => `
                     <div class="card" onclick="location.hash = '#subject/${sub.name}'">
-                        <i class="fa-solid ${this.getIcon(sub.name)}"></i>
+                        <div class="card-icon-box">
+                            <i class="fa-solid ${this.getIcon(sub.name)}"></i>
+                        </div>
                         <h3>${sub.name}</h3>
                     </div>
                 `).join('')}
@@ -127,24 +129,34 @@ const App = {
         this.elements.main.innerHTML = html;
     },
 
-    // 2. Chapter List
     renderChapterList(subName) {
         const chapters = this.data.syllabus[subName] || [];
         const allQuestions = this.data.cache[subName] || [];
 
-        // Calculate counts per chapter
-        const listHtml = chapters.map((title, idx) => {
+        // Header for the list
+        let listHtml = `
+            <li class="chapter-item special" onclick="location.hash = '#quiz/${subName}/ALL'">
+                <div>
+                    <div style="font-size:0.8rem; color:var(--primary); font-weight:700">FULL BANK</div>
+                    <div style="font-weight:600">Practice All Questions</div>
+                </div>
+                <span class="badge">${allQuestions.length} Qs</span>
+            </li>
+        `;
+
+        listHtml += chapters.map((title, idx) => {
             const chNum = idx + 1;
-            const qCount = allQuestions.filter(q => q.id.includes(`_Ch${chNum}_`)).length;
-            if(qCount === 0) return ''; // Hide empty chapters
+            // Filter based on ID pattern "_ChX_"
+            const count = allQuestions.filter(q => q.id.includes(`_Ch${chNum}_`)).length;
+            if(count === 0) return '';
 
             return `
                 <li class="chapter-item" onclick="location.hash = '#quiz/${subName}/${chNum}'">
                     <div>
                         <div style="font-size:0.8rem; color:var(--text-sub); font-weight:700">CHAPTER ${chNum}</div>
-                        <div style="font-weight:600">${title}</div>
+                        <div style="font-weight:600">${this.cleanText(title)}</div>
                     </div>
-                    <span class="badge">${qCount} Qs</span>
+                    <span class="badge">${count} Qs</span>
                 </li>
             `;
         }).join('');
@@ -161,14 +173,11 @@ const App = {
         this.elements.main.innerHTML = html;
     },
 
-    // 3. Quiz Interface
     startQuiz(subName, chNum) {
-        // Filter Questions
         this.data.activeSubject = subName;
         if (chNum === 'ALL') {
             this.data.activeQuestions = this.data.cache[subName];
         } else {
-            // Filter logic based on ID pattern: Subject_Ch1_1
             this.data.activeQuestions = this.data.cache[subName].filter(q => q.id.includes(`_Ch${chNum}_`));
         }
         
@@ -180,7 +189,6 @@ const App = {
         const q = this.data.activeQuestions[this.data.currentQIndex];
         const total = this.data.activeQuestions.length;
 
-        // Image Handling
         let imgHtml = '';
         if(q.images && q.images.length > 0) {
             imgHtml = q.images.map(img => 
@@ -196,20 +204,20 @@ const App = {
             </div>
 
             <div class="question-box">
-                <div class="q-text">${q.question_text}</div>
+                <div class="q-text">${this.cleanText(q.question_text)}</div>
                 <div class="q-images-container" style="text-align:center">${imgHtml}</div>
                 
                 <div class="options-stack">
                     ${q.options.map((opt, i) => `
                         <div class="option" onclick="App.handleAnswer(this, ${i}, '${q.correct_option}')">
-                            ${String.fromCharCode(65 + i)}. ${opt}
+                            ${String.fromCharCode(65 + i)}. ${this.cleanText(opt)}
                         </div>
                     `).join('')}
                 </div>
 
                 <div id="explanation" class="explanation">
                     <strong><i class="fa-solid fa-circle-info"></i> Explanation:</strong>
-                    <p>${q.explanation}</p>
+                    <p>${this.cleanText(q.explanation)}</p>
                 </div>
             </div>
 
@@ -227,26 +235,22 @@ const App = {
 
     // --- INTERACTION LOGIC ---
     handleAnswer(el, index, correctChar) {
-        if (el.parentElement.classList.contains('answered')) return; // Prevent re-answering
+        if (el.parentElement.classList.contains('answered')) return;
 
-        const selectedChar = String.fromCharCode(97 + index); // 'a', 'b', 'c'...
+        const selectedChar = String.fromCharCode(97 + index); // a, b, c
         const correctIndex = correctChar.toLowerCase().charCodeAt(0) - 97;
         const options = el.parentElement.children;
 
         el.parentElement.classList.add('answered');
 
-        // Style logic
         if (selectedChar === correctChar.toLowerCase()) {
             el.classList.add('selected-correct');
         } else {
             el.classList.add('selected-wrong');
-            options[correctIndex].classList.add('selected-correct'); // Show correct one
+            if(options[correctIndex]) options[correctIndex].classList.add('selected-correct');
         }
 
-        // Disable all options
         Array.from(options).forEach(opt => opt.classList.add('disabled'));
-
-        // Show explanation
         document.getElementById('explanation').classList.add('show');
     },
 
@@ -264,15 +268,15 @@ const App = {
             return;
         }
         
-        // Simple Search Logic (Can be expanded)
-        // Currently searches subjects for Home view
         if(window.location.hash === '' || window.location.hash === '#/') {
             const filtered = this.data.subjects.filter(s => s.name.toLowerCase().includes(query.toLowerCase()));
             const html = `
                 <div class="grid">
                     ${filtered.map(sub => `
                         <div class="card" onclick="location.hash = '#subject/${sub.name}'">
-                            <i class="fa-solid ${this.getIcon(sub.name)}"></i>
+                            <div class="card-icon-box">
+                                <i class="fa-solid ${this.getIcon(sub.name)}"></i>
+                            </div>
                             <h3>${sub.name}</h3>
                         </div>
                     `).join('')}
@@ -289,21 +293,31 @@ const App = {
     },
 
     getIcon(name) {
+        const normName = name.toLowerCase().trim();
         const map = {
-            'Surgery': 'fa-scalpel',
-            'Medicine': 'fa-user-doctor',
-            'Pediatrics': 'fa-baby',
-            'Anatomy': 'fa-bone',
-            'Pharmacology': 'fa-pills',
-            'Pathology': 'fa-microscope',
-            'OBGYN': 'fa-person-pregnant'
+            'anaesthesia': 'fa-syringe',
+            'anatomy': 'fa-bone',
+            'biochemistry': 'fa-flask',
+            'dermatology': 'fa-hand-dots',
+            'ent': 'fa-ear-listen',
+            'fmt': 'fa-skull-crossbones',
+            'medicine': 'fa-user-doctor',
+            'microbiology': 'fa-virus',
+            'obgyn': 'fa-person-pregnant',
+            'ophthalmology': 'fa-eye',
+            'orthopaedics': 'fa-crutch',
+            'psm': 'fa-users', 
+            'pathology': 'fa-microscope',
+            'pediatrics': 'fa-baby',
+            'pharmacology': 'fa-pills',
+            'physiology': 'fa-heart-pulse',
+            'psychiatry': 'fa-brain',
+            'radiology': 'fa-x-ray',
+            'surgery': 'fa-scalpel'
         };
-        return map[name] || 'fa-book-medical';
+        return map[normName] || 'fa-book-medical'; // Fallback
     }
 };
 
-// Start App
 window.addEventListener('DOMContentLoaded', () => App.init());
-
-// Expose to window for onclick events in HTML strings
 window.App = App;
