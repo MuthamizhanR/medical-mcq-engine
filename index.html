@@ -3,31 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>MedEngine | Pro</title>
+    <title>MedEngine Pro</title>
     
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="theme-btn" onclick="App.toggleTheme()">🌓</div>
-
-    <div class="bg-orb"></div>
+    <button class="theme-btn" onclick="App.toggleTheme()" aria-label="Toggle Dark Mode">
+        <i class="fa-solid fa-circle-half-stroke"></i>
+    </button>
 
     <div id="app-shell">
         
         <header id="main-header">
             <div class="logo-box" onclick="location.hash='#'">
-                <i class="fa-solid fa-heart-pulse" style="font-size: 2.5rem; color: var(--accent);"></i>
+                <i class="fa-solid fa-heart-pulse"></i>
             </div>
-            <h1>MEDTRIX <span style="font-size:0.5em; opacity:0.7; font-family:'Poppins'">ENGINE</span></h1>
-            <p class="tagline">Next-Gen Medical Intelligence</p>
+            <h1>MEDTRIX <span class="version-tag">ENGINE</span></h1>
             
             <div class="search-wrapper">
                 <i class="fa-solid fa-search"></i>
-                <input type="text" id="searchInput" placeholder="Search library or Q-ID...">
+                <input type="text" id="searchInput" placeholder="Search library...">
             </div>
         </header>
 
@@ -37,14 +37,8 @@
     </div>
 
     <div id="lightbox" class="lightbox hidden" onclick="this.classList.add('hidden')">
-        <img id="lightbox-img" src="" alt="Zoomed">
+        <img id="lightbox-img" src="" alt="Zoomed Medical Image">
     </div>
-
-    <div id="toast" class="toast">Notification</div>
-
-    <footer>
-        &copy; 2025 MEDTRIX Pro Engine
-    </footer>
 
     <script src="app.js"></script>
 </body>
