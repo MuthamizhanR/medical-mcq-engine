@@ -157,7 +157,7 @@ function loadQuestion(index) {
     els.quiz.progressBar.style.width = `${pct}%`;
 
     // Content
-    els.quiz.qText.innerText = q.question_text;
+    els.quiz.qText.innerHTML = q.question_text;
     
     // Images
     els.quiz.imgContainer.innerHTML = '';
@@ -228,7 +228,7 @@ function showFeedback(isCorrect, text) {
         title.style.color = "var(--wrong)";
     }
     
-    document.getElementById('explanationText').innerText = text || "No explanation provided.";
+    document.getElementById('explanationText').innerHTML = text || "No explanation provided.";
     
     // Auto scroll to feedback on mobile
     if(window.innerWidth < 768) {
