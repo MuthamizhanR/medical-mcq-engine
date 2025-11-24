@@ -441,3 +441,33 @@ const App = {
 
 // Start the Engine
 window.addEventListener('DOMContentLoaded', () => App.init());
+
+
+// --- MEDTRIX HISTORY LOGGER ---
+function saveToMedtrixHistory(q, el, cls) {
+    try {
+        if (!q) return;
+        let opts = q.options || [q.choice1, q.choice2, q.choice3, q.choice4].filter(Boolean);
+        let selText = el ? el.innerText : "Unknown";
+        let isCorrect = (cls === 'correct');
+        let corText = isCorrect ? selText : (q.answer ? (q['choice'+q.answer] || q.answer) : "See Review");
+
+        let entry = {
+            id: Date.now().toString(),
+            timestamp: Date.now(),
+            source: document.title,
+            question: q.question ? q.question.replace(/<[^>]*>/g, '') : "N/A",
+            options: opts,
+            selectedAnswer: selText,
+            correctAnswer: corText,
+            isCorrect: isCorrect,
+            image: q.image || q.img || null
+        };
+
+        let h = JSON.parse(localStorage.getItem('MEDTRIX_HISTORY') || '[]');
+        h.unshift(entry);
+        if (h.length > 100) h.pop();
+        localStorage.setItem('MEDTRIX_HISTORY', JSON.stringify(h));
+        console.log("✅ MEDTRIX LOG SAVED");
+    } catch(e) { console.error("Log Failed:", e); }
+}
