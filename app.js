@@ -1,5 +1,5 @@
 /**
- * MedEngine V2.9 - Pro Desktop/Mobile Hybrid Engine
+ * MedEngine V3.0 - Final Analysis, Index Patch & Pediatrics Fix
  */
 
 const App = {
@@ -10,10 +10,12 @@ const App = {
         cache: {},
         activeSubject: null,
         activeQuestions: [],
-        currentQIndex: 0
+        currentQIndex: 0,
+        // Track User Performance for the current session
+        sessionStats: { correct: 0, wrong: 0, total: 0 }
     },
 
-    // --- ELEMENTS ---
+    // --- DOM ELEMENTS ---
     elements: {
         main: document.getElementById('main-container'),
         search: document.getElementById('searchInput'),
@@ -24,7 +26,7 @@ const App = {
 
     // --- INITIALIZATION ---
     async init() {
-        // 1. Theme Logic (Run immediately)
+        // 1. Initialize Theme immediately
         const savedTheme = localStorage.getItem('medtrix-theme') || 'light';
         document.documentElement.setAttribute('data-theme', savedTheme);
 
@@ -38,28 +40,35 @@ const App = {
             this.data.subjects = await subRes.json();
             this.data.syllabus = await sylRes.json();
 
-            // 3. Setup Router & Events
+            // 3. Setup Routing & Search Events
             window.addEventListener('hashchange', () => this.router());
             this.elements.search.addEventListener('input', (e) => this.handleSearch(e.target.value));
 
             // 4. Desktop Keyboard Shortcuts
             document.addEventListener('keydown', (e) => {
-                // Only work if inside a quiz (Header is hidden)
+                // Only work if we are inside a quiz (Header is hidden)
                 if (this.elements.header.style.display === 'none') {
-                    if (e.key === 'ArrowRight') this.navQuestion(1);  // Next
-                    if (e.key === 'ArrowLeft') this.navQuestion(-1);  // Prev
-                    if (e.key === 'Escape') history.back();           // Exit
+                    if (e.key === 'ArrowRight') {
+                        // Check if it's the last question to trigger finish, else next
+                        if (this.data.currentQIndex === this.data.activeQuestions.length - 1) {
+                            this.finishQuiz();
+                        } else {
+                            this.navQuestion(1);
+                        }
+                    }
+                    if (e.key === 'ArrowLeft') this.navQuestion(-1);
+                    if (e.key === 'Escape') history.back();
                 }
             });
 
-            // 5. Start App
+            // 5. Start the Router
             this.router();
 
         } catch (error) {
             console.error(error);
             this.elements.main.innerHTML = `<div style="text-align:center; padding:50px; color:var(--error)">
-                <h3><i class="fa-solid fa-triangle-exclamation"></i> Critical Error</h3>
-                <p>Could not load Library. Check console.</p>
+                <h3><i class="fa-solid fa-triangle-exclamation"></i> Error</h3>
+                <p>Could not load Library. Check your JSON files.</p>
             </div>`;
         }
     },
@@ -104,6 +113,7 @@ const App = {
             <p style="margin-top:10px; font-family:'Orbitron'">ACCESSING MATRIX...</p>
         </div>`;
 
+        // Attempt to find file even if casing/spelling differs slightly
         const subjectObj = this.data.subjects.find(s => s.name === name);
         const fileName = subjectObj ? subjectObj.file : `${name}.json`;
         
@@ -115,7 +125,7 @@ const App = {
         }
     },
 
-    // --- THEME ENGINE ---
+    // --- THEME LOGIC ---
     toggleTheme() {
         const current = document.documentElement.getAttribute('data-theme');
         const next = current === 'dark' ? 'light' : 'dark';
@@ -123,7 +133,7 @@ const App = {
         localStorage.setItem('medtrix-theme', next);
     },
 
-    // --- TEXT SANITIZER (Fixes Encoding Errors) ---
+    // --- TEXT SANITIZER (Fixes Encoding & Symbols) ---
     cleanText(text) {
         if (!text) return "";
         const map = { 
@@ -138,8 +148,8 @@ const App = {
                     .replace(//g,"δ").replace(//g,"Δ").replace(//g,"θ");
     },
 
-    // --- UI RENDERERS ---
-    
+    // --- RENDERERS ---
+
     // 1. Home Grid
     renderHome() {
         this.elements.search.value = '';
@@ -156,8 +166,16 @@ const App = {
 
     // 2. Chapter List
     renderChapterList(subName) {
-        this.elements.main.className = ''; // List Layout (Single Column)
-        const chapters = this.data.syllabus[subName] || [];
+        this.elements.main.className = ''; // List Layout
+
+        // --- PEDIATRICS FIX START ---
+        // Look for 'Pediatrics' OR 'Paediatrics' in the syllabus
+        let chapters = this.data.syllabus[subName];
+        if (!chapters && subName === 'Paediatrics') chapters = this.data.syllabus['Pediatrics'];
+        if (!chapters && subName === 'Pediatrics') chapters = this.data.syllabus['Paediatrics'];
+        chapters = chapters || [];
+        // --- PEDIATRICS FIX END ---
+
         const allQuestions = this.data.cache[subName] || [];
 
         // Header
@@ -170,7 +188,7 @@ const App = {
             </div>
         `;
 
-        // "All Questions" Button
+        // "Full Bank" Button
         html += `
             <div class="card" style="flex-direction:row; justify-content:space-between; margin-bottom:15px; border-left:4px solid var(--accent);"
                  onclick="location.hash = '#quiz/${subName}/ALL'">
@@ -208,6 +226,9 @@ const App = {
         this.data.activeSubject = subName;
         this.elements.main.className = '';
         
+        // Reset Performance Stats
+        this.data.sessionStats = { correct: 0, wrong: 0, total: 0 };
+
         // Filter Questions
         if (chNum === 'ALL') {
             this.data.activeQuestions = this.data.cache[subName];
@@ -222,6 +243,7 @@ const App = {
     renderQuestion() {
         const q = this.data.activeQuestions[this.data.currentQIndex];
         const total = this.data.activeQuestions.length;
+        const current = this.data.currentQIndex + 1;
 
         // Image Handling
         let imgHtml = '';
@@ -231,15 +253,20 @@ const App = {
             ).join('');
         }
 
-        // Create ID Badge (Remove subject name to keep it short)
+        // Clean ID badge
         const shortID = q.id.replace(this.data.activeSubject + '_', '');
+
+        // Determine if this is the last question
+        const isLast = current === total;
+        const nextBtnText = isLast ? 'Finish & Analyse' : 'Next <i class="fa-solid fa-chevron-right"></i>';
+        const nextAction = isLast ? 'App.finishQuiz()' : 'App.navQuestion(1)';
 
         const html = `
             <div class="quiz-header">
                 <button class="btn btn-secondary" style="flex:0; padding:5px 15px" onclick="history.back()">
                     <i class="fa-solid fa-xmark"></i>
                 </button>
-                <span>${this.data.currentQIndex + 1} / ${total}</span>
+                <span>${current} / ${total}</span>
                 <span class="id-badge">${shortID}</span>
             </div>
 
@@ -265,8 +292,8 @@ const App = {
                 <button class="btn btn-secondary" onclick="App.navQuestion(-1)" ${this.data.currentQIndex === 0 ? 'disabled' : ''}>
                     <i class="fa-solid fa-chevron-left"></i>
                 </button>
-                <button class="btn btn-primary" onclick="App.navQuestion(1)">
-                    Next <i class="fa-solid fa-chevron-right"></i>
+                <button class="btn btn-primary" onclick="${nextAction}">
+                    ${nextBtnText}
                 </button>
             </div>
         `;
@@ -274,6 +301,7 @@ const App = {
     },
 
     handleAnswer(el, index, correctChar) {
+        // Prevent clicking twice
         if (el.parentElement.classList.contains('answered')) return;
         el.parentElement.classList.add('answered');
 
@@ -281,19 +309,23 @@ const App = {
         const correctIndex = correctChar.toLowerCase().charCodeAt(0) - 97;
         const options = el.parentElement.children;
 
-        // Logic
+        // --- STATS LOGIC ---
+        this.data.sessionStats.total++;
         if (selectedChar === correctChar.toLowerCase()) {
             el.classList.add('selected-correct');
+            this.data.sessionStats.correct++;
         } else {
             el.classList.add('selected-wrong');
-            // Auto-highlight correct answer
+            this.data.sessionStats.wrong++;
+            // Highlight the correct answer automatically
             if(options[correctIndex]) options[correctIndex].classList.add('selected-correct');
         }
+        // -------------------
 
-        // Disable clicks
+        // Disable all options
         Array.from(options).forEach(opt => opt.classList.add('disabled'));
 
-        // Reveal Explanation
+        // Show Explanation
         document.getElementById('explanation').classList.add('show');
     },
 
@@ -305,7 +337,64 @@ const App = {
         }
     },
 
-    // --- SEARCH ---
+    // --- 4. ANALYSIS & RESULTS ---
+    finishQuiz() {
+        const s = this.data.sessionStats;
+        const totalQs = this.data.activeQuestions.length;
+        const skipped = totalQs - s.total;
+        
+        // Avoid division by zero
+        const accuracy = s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+        
+        let msg = "Keep Practicing!";
+        if(accuracy > 50) msg = "Good Effort!";
+        if(accuracy > 80) msg = "Excellent Work!";
+
+        const html = `
+            <div class="result-box">
+                <div class="score-circle">
+                    <div class="score-number">${accuracy}%</div>
+                    <div class="score-label">Accuracy</div>
+                </div>
+                
+                <h2 style="font-family:'Orbitron'; color:var(--accent)">${msg}</h2>
+                <p style="color:var(--text-sub)">You attempted ${s.total} out of ${totalQs} questions.</p>
+
+                <div class="stat-grid">
+                    <div class="stat-card" style="border-bottom: 4px solid var(--success)">
+                        <div class="stat-val" style="color:var(--success)">${s.correct}</div>
+                        <div class="stat-name">Correct</div>
+                    </div>
+                    <div class="stat-card" style="border-bottom: 4px solid var(--error)">
+                        <div class="stat-val" style="color:var(--error)">${s.wrong}</div>
+                        <div class="stat-name">Incorrect</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-val">${skipped}</div>
+                        <div class="stat-name">Skipped</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-val">${totalQs}</div>
+                        <div class="stat-name">Total</div>
+                    </div>
+                </div>
+
+                <div class="action-row">
+                    <button class="btn btn-secondary" onclick="location.reload()">
+                        <i class="fa-solid fa-house"></i> Home
+                    </button>
+                    <button class="btn btn-primary" onclick="App.startQuiz('${this.data.activeSubject}', 'ALL')">
+                        <i class="fa-solid fa-rotate-right"></i> Retry
+                    </button>
+                </div>
+            </div>
+        `;
+
+        this.elements.main.innerHTML = `<div style="max-width:600px; margin:0 auto">${html}</div>`;
+        this.elements.header.style.display = 'block'; // Bring back header
+    },
+
+    // --- UTILS ---
     handleSearch(query) {
         if(window.location.hash !== '' && window.location.hash !== '#/') return;
         if(query.length < 2) { this.renderHome(); return; }
@@ -319,24 +408,25 @@ const App = {
         `).join('');
     },
     
-    // --- UTILS ---
     openImage(src) {
         this.elements.lightboxImg.src = src;
         this.elements.lightbox.classList.remove('hidden');
     },
 
     getIcon(name) {
+        const n = name.toLowerCase().trim();
         const map = {
             'anaesthesia': 'fa-syringe', 'anatomy': 'fa-bone', 'biochemistry': 'fa-flask',
             'dermatology': 'fa-hand-dots', 'ent': 'fa-ear-listen', 'fmt': 'fa-skull-crossbones',
             'medicine': 'fa-user-doctor', 'microbiology': 'fa-virus', 'obgyn': 'fa-person-pregnant',
             'ophthalmology': 'fa-eye', 'orthopaedics': 'fa-crutch', 'psm': 'fa-users', 
-            'pathology': 'fa-microscope', 'pediatrics': 'fa-baby', 'pharmacology': 'fa-pills',
-            'physiology': 'fa-heart-pulse', 'psychiatry': 'fa-brain', 'radiology': 'fa-x-ray', 'surgery': 'fa-scalpel'
+            'pathology': 'fa-microscope', 'pediatrics': 'fa-baby', 'paediatrics': 'fa-baby',
+            'pharmacology': 'fa-pills', 'physiology': 'fa-heart-pulse', 'psychiatry': 'fa-brain', 
+            'radiology': 'fa-x-ray', 'surgery': 'fa-scalpel'
         };
-        return map[name.toLowerCase().trim()] || 'fa-book-medical';
+        return map[n] || 'fa-book-medical';
     }
 };
 
-// Start Engine
+// Start the Engine
 window.addEventListener('DOMContentLoaded', () => App.init());
