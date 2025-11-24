@@ -5,17 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MedQuiz Engine</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="app-layout">
-        <div id="mobile-overlay" class="overlay hidden" onclick="toggleSidebar()"></div>
-
-        <aside class="sidebar" id="sidebar">
+        <aside class="sidebar">
             <div class="brand">
                 <h2>MedQuiz</h2>
-                <span class="version">v2.1</span>
-                <button class="close-sidebar" onclick="toggleSidebar()">×</button>
+                <span class="version">v2.0</span>
             </div>
             <div class="subject-search">
                 <input type="text" id="subjectSearch" placeholder="Filter subjects..." onkeyup="filterSubjects()">
@@ -27,41 +24,22 @@
 
         <main class="main-content">
             <header class="top-bar">
-                <div class="left-header">
-                    <button id="menu-btn" onclick="toggleSidebar()">☰</button>
-                    <h1 id="page-title">Dashboard</h1>
-                </div>
-                
+                <h1 id="quiz-title">Select a Subject</h1>
                 <div id="progress-container" class="hidden">
-                    <span id="q-counter">0/0</span>
+                    <span id="q-counter">Question 0/0</span>
                     <div class="progress-bar"><div id="progress-fill"></div></div>
                 </div>
             </header>
 
             <div id="content-area">
-                
                 <div id="welcome-screen">
                     <div class="welcome-card">
-                        <div class="icon">👋</div>
                         <h3>Welcome to MedQuiz</h3>
-                        <p>Select a subject from the menu to view available chapters/tests.</p>
+                        <p>Select a subject from the sidebar to begin practicing.</p>
                     </div>
-                </div>
-
-                <div id="chapter-selection" class="hidden">
-                    <div class="chapter-header">
-                        <h2 id="selected-subject-name">Subject Name</h2>
-                        <p>Select a specific test to begin:</p>
-                    </div>
-                    <div id="chapter-list" class="chapter-grid">
-                        </div>
                 </div>
 
                 <div id="quiz-interface" class="hidden">
-                    <div class="quiz-controls-top">
-                        <button id="back-to-chapters" onclick="goBackToChapters()">← Back to Chapters</button>
-                    </div>
-
                     <div class="question-card">
                         <div id="q-text" class="q-text"></div>
                         <div id="q-images" class="q-images"></div>
