@@ -1,168 +1,197 @@
 
 let subjects = [];
-let questions = [];
-let currentIdx = 0;
-let currentFile = "";
+let syllabus = {};
+let currentQuestions = [];
+let filteredQuestions = [];
+let currentIndex = 0;
+let currentSubject = null;
 
-// Init
-document.addEventListener('DOMContentLoaded', async () => {
+const views = {
+    home: document.getElementById('view-home'),
+    chapters: document.getElementById('view-chapters'),
+    quiz: document.getElementById('view-quiz')
+};
+
+// --- NAVIGATION ---
+function showView(viewName) {
+    Object.values(views).forEach(v => v.classList.remove('active'));
+    views[viewName].classList.add('active');
+    window.scrollTo(0, 0);
+}
+
+function goHome() { showView('home'); }
+function goBackToChapters() { showView('chapters'); }
+
+// --- INIT ---
+async function init() {
     try {
-        const res = await fetch('data/master_index.json');
-        if (!res.ok) throw new Error("Failed to load master index");
-        subjects = await res.json();
-        renderSidebar(subjects);
+        // Load Syllabus (The Chapter Order)
+        const sylRes = await fetch('./data/syllabus.json');
+        syllabus = await sylRes.json();
+        
+        // Load Subject List
+        const subRes = await fetch('./data/subjects.json');
+        subjects = await subRes.json();
+        
+        renderHome();
     } catch (e) {
-        console.error("Init error:", e);
-        document.getElementById('subject-list').innerHTML = "<li>Error loading index. Please check console.</li>";
+        console.error("Init failed", e);
+        document.getElementById('subjectGrid').innerHTML = '<p style="color:red; text-align:center;">Error loading data. Please check internet or file path.</p>';
     }
-});
+}
 
-// Sidebar Logic
-function renderSidebar(data) {
-    const list = document.getElementById('subject-list');
-    list.innerHTML = "";
-    data.forEach(s => {
-        const li = document.createElement('li');
-        li.textContent = `${s.subject} (${s.question_count})`;
-        li.onclick = () => loadSubject(s.file, s.subject, li);
-        list.appendChild(li);
+function renderHome() {
+    const grid = document.getElementById('subjectGrid');
+    grid.innerHTML = '';
+    subjects.forEach(sub => {
+        const card = document.createElement('div');
+        card.className = 'subject-card';
+        card.innerHTML = `<h3>${sub.name}</h3>`;
+        card.onclick = () => loadSubject(sub);
+        grid.appendChild(card);
     });
 }
 
-function filterSubjects() {
-    const term = document.getElementById('subjectSearch').value.toLowerCase();
-    const filtered = subjects.filter(s => s.subject.toLowerCase().includes(term));
-    renderSidebar(filtered);
-}
+// --- LOAD SUBJECT ---
+async function loadSubject(sub) {
+    currentSubject = sub;
+    document.getElementById('chapterPageTitle').innerText = sub.name;
+    const list = document.getElementById('chapterList');
+    list.innerHTML = '<li style="text-align:center; padding:20px;">Loading questions...</li>';
+    showView('chapters');
 
-// Load Quiz
-async function loadSubject(file, name, el) {
-    document.querySelectorAll('#subject-list li').forEach(l => l.classList.remove('active'));
-    if(el) el.classList.add('active');
-    
-    document.getElementById('welcome-screen').classList.add('hidden');
-    document.getElementById('quiz-interface').classList.remove('hidden');
-    document.getElementById('quiz-title').textContent = name;
-    document.getElementById('progress-container').classList.remove('hidden');
-    
-    currentFile = file;
     try {
-        const res = await fetch(`data/${file}`);
-        questions = await res.json();
-        currentIdx = 0;
-        renderQuestion();
+        const res = await fetch(`./data/${sub.file}`);
+        const data = await res.json();
+        currentQuestions = data;
+        renderChapters(data, sub.name);
     } catch (e) {
-        alert("Error loading question file: " + file);
+        list.innerHTML = '<li style="text-align:center; padding:20px; color:red;">Error loading chapters.</li>';
+        console.error(e);
     }
 }
 
-// Render Engine
-function renderQuestion() {
-    const q = questions[currentIdx];
+function renderChapters(data, subjectName) {
+    const list = document.getElementById('chapterList');
+    list.innerHTML = '';
+
+    // We use the syllabus to get the correct Chapter Titles
+    const chaptersFromSyllabus = syllabus[subjectName] || [];
+    
+    // Fallback if syllabus missing: Group by ID
+    if(chaptersFromSyllabus.length === 0) {
+        list.innerHTML = '<li style="padding:20px;">No chapter index found for this subject.</li>';
+        return;
+    }
+
+    chaptersFromSyllabus.forEach((title, index) => {
+        const chNum = index + 1;
+        // Filter questions by ID (e.g. Anaesthesia_Ch1_1)
+        const count = data.filter(q => q.id.includes(`_Ch${chNum}_`)).length;
+        
+        // Only show chapters that actually have questions
+        if (count > 0) {
+            const li = document.createElement('li');
+            li.className = 'chapter-item';
+            li.innerHTML = `<span><b>${chNum}.</b> ${title}</span> <span class="chapter-count">${count}</span>`;
+            li.onclick = () => startQuiz(chNum, title);
+            list.appendChild(li);
+        }
+    });
+}
+
+// --- QUIZ ---
+function startQuiz(chNum, title) {
+    // Filter by ID pattern _Ch1_
+    filteredQuestions = currentQuestions.filter(q => q.id.includes(`_Ch${chNum}_`));
+    document.getElementById('quizPageTitle').innerText = title;
+    currentIndex = 0;
+    loadQuestion(0);
+    showView('quiz');
+}
+
+function loadQuestion(index) {
+    const q = filteredQuestions[index];
+    document.getElementById('qIndex').innerText = index + 1;
+    document.getElementById('qTotal').innerText = filteredQuestions.length;
     
     // Progress
-    document.getElementById('q-counter').textContent = `Q ${currentIdx + 1} of ${questions.length}`;
-    const pct = ((currentIdx + 1) / questions.length) * 100;
-    document.getElementById('progress-fill').style.width = `${pct}%`;
-    document.getElementById('progress-fill').style.background = 'var(--primary)';
-    document.getElementById('progress-fill').style.height = '100%';
+    document.getElementById('progressBar').style.width = `${((index+1)/filteredQuestions.length)*100}%`;
 
-    // Content
-    document.getElementById('q-text').textContent = q.question_text;
+    document.getElementById('questionText').innerText = q.question_text;
     
     // Images
-    const imgContainer = document.getElementById('q-images');
-    imgContainer.innerHTML = "";
-    if(q.images && q.images.length > 0) {
-        q.images.forEach(img => {
-            const i = document.createElement('img');
-            i.src = `data/images/${img}`;
-            i.onclick = () => window.open(i.src, '_blank');
-            imgContainer.appendChild(i);
+    const imgCont = document.getElementById('imageContainer');
+    imgCont.innerHTML = '';
+    if(q.images) {
+        q.images.forEach(src => {
+            const img = document.createElement('img');
+            img.src = `./data/images/${src}`;
+            imgCont.appendChild(img);
         });
     }
 
     // Options
-    const optContainer = document.getElementById('options-container');
-    optContainer.innerHTML = "";
-    const labels = ['a', 'b', 'c', 'd'];
-    
-    q.options.forEach((optText, i) => {
+    const optsCont = document.getElementById('optionsContainer');
+    optsCont.innerHTML = '';
+    document.getElementById('feedbackArea').classList.add('hidden');
+    document.getElementById('nextBtn').disabled = true;
+
+    q.options.forEach((opt, i) => {
         const btn = document.createElement('button');
-        btn.className = 'opt-btn';
-        btn.textContent = optText;
-        btn.onclick = () => handleAnswer(labels[i], btn);
-        optContainer.appendChild(btn);
+        btn.className = 'option-btn';
+        const char = String.fromCharCode(97 + i);
+        btn.innerHTML = `<b>${char.toUpperCase()}.</b> ${opt}`;
+        btn.onclick = () => checkAnswer(btn, char, q);
+        optsCont.appendChild(btn);
     });
 
-    // Reset Explanation
-    document.getElementById('explanation-panel').classList.add('hidden');
-    document.getElementById('btn-prev').disabled = (currentIdx === 0);
-    document.getElementById('btn-next').disabled = (currentIdx === questions.length - 1);
+    // Nav
+    document.getElementById('prevBtn').onclick = () => {
+        if(currentIndex > 0) loadQuestion(--currentIndex);
+    };
+    document.getElementById('nextBtn').onclick = () => {
+        if(currentIndex < filteredQuestions.length - 1) loadQuestion(++currentIndex);
+    };
 }
 
-function handleAnswer(selected, btn) {
-    const q = questions[currentIdx];
-    // Normalizing answer key to ensure it matches 'a', 'b', 'c', 'd'
-    const correct = q.correct_option ? q.correct_option.toLowerCase().trim() : '';
+function checkAnswer(btn, selected, q) {
+    if(btn.classList.contains('disabled')) return;
     
-    // Disable all
-    document.querySelectorAll('.opt-btn').forEach(b => b.disabled = true);
+    const allBtns = document.querySelectorAll('.option-btn');
+    allBtns.forEach(b => b.classList.add('disabled'));
 
-    if(selected === correct) {
+    const correct = q.correct_option.trim().toLowerCase();
+    const isCorrect = selected === correct;
+
+    if(isCorrect) {
         btn.classList.add('correct');
-        showExplanation(true);
+        showFeedback(true, q.explanation);
     } else {
         btn.classList.add('wrong');
-        showExplanation(false);
-        
-        // Highlight correct answer automatically
-        const btns = document.querySelectorAll('.opt-btn');
-        const correctIdx = ['a','b','c','d'].indexOf(correct);
-        if(correctIdx > -1 && btns[correctIdx]) {
-            btns[correctIdx].classList.add('correct');
-        }
+        // Highlight correct
+        const correctIdx = correct.charCodeAt(0) - 97;
+        if(allBtns[correctIdx]) allBtns[correctIdx].classList.add('correct');
+        showFeedback(false, q.explanation);
     }
+    document.getElementById('nextBtn').disabled = false;
 }
 
-function showExplanation(isCorrect) {
-    const q = questions[currentIdx];
-    const panel = document.getElementById('explanation-panel');
-    const status = document.getElementById('answer-status');
-    const text = document.getElementById('exp-text');
-    
-    status.textContent = isCorrect ? "Correct!" : "Incorrect";
-    status.style.color = isCorrect ? "var(--success)" : "var(--error)";
-    
-    let expContent = q.explanation || "No detailed explanation provided.";
-    expContent = expContent.replace(/\n/g, '<br>');
-    
-    text.innerHTML = expContent;
-    panel.classList.remove('hidden');
-    panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+function showFeedback(isCorrect, text) {
+    const area = document.getElementById('feedbackArea');
+    area.classList.remove('hidden');
+    document.getElementById('feedbackIcon').innerText = isCorrect ? '✅' : '❌';
+    document.getElementById('feedbackTitle').innerText = isCorrect ? 'Correct' : 'Incorrect';
+    document.getElementById('feedbackTitle').style.color = isCorrect ? 'var(--correct)' : 'var(--wrong)';
+    document.getElementById('explanationText').innerText = text || "No explanation available.";
 }
 
-function toggleExp() {
-    const panel = document.getElementById('explanation-panel');
-    if (panel.classList.contains('hidden')) {
-        showExplanation(true);
-        document.getElementById('answer-status').textContent = "Revealed";
-        document.getElementById('answer-status').style.color = "var(--warning)";
-    } else {
-        panel.classList.add('hidden');
-    }
-}
+// Search
+document.getElementById('subjectSearch').onkeyup = (e) => {
+    const term = e.target.value.toLowerCase();
+    document.querySelectorAll('.subject-card').forEach(card => {
+        card.style.display = card.innerText.toLowerCase().includes(term) ? 'flex' : 'none';
+    });
+};
 
-function prevQ() {
-    if(currentIdx > 0) {
-        currentIdx--;
-        renderQuestion();
-    }
-}
-
-function nextQ() {
-    if(currentIdx < questions.length - 1) {
-        currentIdx++;
-        renderQuestion();
-    }
-}
+init();

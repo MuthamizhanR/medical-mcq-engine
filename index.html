@@ -2,67 +2,81 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MedQuiz Engine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Medical MCQ Engine</title>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="app-layout">
-        <aside class="sidebar">
-            <div class="brand">
-                <h2>MedQuiz</h2>
-                <span class="version">v2.0</span>
-            </div>
-            <div class="subject-search">
-                <input type="text" id="subjectSearch" placeholder="Filter subjects..." onkeyup="filterSubjects()">
-            </div>
-            <ul id="subject-list">
-                <li class="loading-item">Loading Index...</li>
-            </ul>
-        </aside>
 
-        <main class="main-content">
-            <header class="top-bar">
-                <h1 id="quiz-title">Select a Subject</h1>
-                <div id="progress-container" class="hidden">
-                    <span id="q-counter">Question 0/0</span>
-                    <div class="progress-bar"><div id="progress-fill"></div></div>
-                </div>
-            </header>
-
-            <div id="content-area">
-                <div id="welcome-screen">
-                    <div class="welcome-card">
-                        <h3>Welcome to MedQuiz</h3>
-                        <p>Select a subject from the sidebar to begin practicing.</p>
-                    </div>
-                </div>
-
-                <div id="quiz-interface" class="hidden">
-                    <div class="question-card">
-                        <div id="q-text" class="q-text"></div>
-                        <div id="q-images" class="q-images"></div>
-                        <div id="options-container" class="options-grid"></div>
-                    </div>
-
-                    <div id="explanation-panel" class="explanation-card hidden">
-                        <div class="exp-header">
-                            <h4>Explanation</h4>
-                            <span id="answer-status"></span>
-                        </div>
-                        <div id="exp-text"></div>
-                    </div>
-
-                    <div class="controls">
-                        <button id="btn-prev" onclick="prevQ()" disabled>Previous</button>
-                        <button id="btn-show" onclick="toggleExp()">Show Answer</button>
-                        <button id="btn-next" onclick="nextQ()">Next</button>
-                    </div>
-                </div>
-            </div>
-        </main>
+<div id="app">
+    <!-- VIEW 1: HOME (Subject List) -->
+    <div id="view-home" class="view active">
+        <header>
+            <h1>🩺 MedEngine</h1>
+            <p>Select a Subject to Start</p>
+        </header>
+        <div class="search-container">
+            <input type="text" id="subjectSearch" placeholder="Search subjects...">
+        </div>
+        <div id="subjectGrid" class="grid-container">
+            <!-- Subjects injected here -->
+        </div>
     </div>
-    <script src="script.js"></script>
+
+    <!-- VIEW 2: CHAPTERS (Topic List) -->
+    <div id="view-chapters" class="view">
+        <header class="sticky-header">
+            <button class="nav-btn" onclick="goHome()">← Back</button>
+            <h1 id="chapterPageTitle">Subject</h1>
+        </header>
+        <div class="content-area">
+            <p class="subtitle">Select a Chapter</p>
+            <ul id="chapterList" class="chapter-list">
+                <!-- Chapters injected here -->
+            </ul>
+        </div>
+    </div>
+
+    <!-- VIEW 3: QUIZ -->
+    <div id="view-quiz" class="view">
+        <header class="sticky-header">
+            <button class="nav-btn" onclick="goBackToChapters()">← Chapters</button>
+            <h1 id="quizPageTitle">Quiz</h1>
+        </header>
+        
+        <div class="quiz-container">
+            <div class="progress-bar"><div class="progress-fill" id="progressBar"></div></div>
+            
+            <div class="question-card">
+                <div class="q-meta">
+                    <span id="qIndex">1</span> / <span id="qTotal">10</span>
+                </div>
+                <div class="q-text" id="questionText">Loading...</div>
+                <div class="q-images" id="imageContainer"></div>
+                
+                <div class="options-grid" id="optionsContainer"></div>
+
+                <div id="feedbackArea" class="feedback-area hidden">
+                    <div class="feedback-header">
+                        <span id="feedbackIcon"></span>
+                        <h3 id="feedbackTitle"></h3>
+                    </div>
+                    <div class="explanation">
+                        <strong>Explanation:</strong>
+                        <p id="explanationText"></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <button id="prevBtn" class="btn secondary">Previous</button>
+                <button id="nextBtn" class="btn primary" disabled>Next</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
