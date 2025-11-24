@@ -327,6 +327,7 @@ const App = {
 
         // Show Explanation
         document.getElementById('explanation').classList.add('show');
+        saveToMedtrixHistory(this.currentQuestion, el, (selectedChar === correctChar.toLowerCase()));
     },
 
     navQuestion(dir) {
