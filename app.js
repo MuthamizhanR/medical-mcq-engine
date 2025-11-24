@@ -1,9 +1,8 @@
 /**
- * MedEngine V2.2 - Text Encoding Fix & Master Index Removed
+ * MedEngine V2.7 - Global Character Sanitation & Medtrix UI
  */
 
 const App = {
-    // --- STATE ---
     data: {
         subjects: [],
         syllabus: {},
@@ -13,7 +12,6 @@ const App = {
         currentQIndex: 0
     },
 
-    // --- CONFIG ---
     elements: {
         main: document.getElementById('main-container'),
         search: document.getElementById('searchInput'),
@@ -21,8 +19,11 @@ const App = {
         lightboxImg: document.getElementById('lightbox-img')
     },
 
-    // --- INITIALIZATION ---
     async init() {
+        // Theme Init
+        const savedTheme = localStorage.getItem('medtrix-theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+
         try {
             const [subRes, sylRes] = await Promise.all([
                 fetch('./data/subjects.json'),
@@ -37,17 +38,25 @@ const App = {
             this.router();
 
         } catch (error) {
-            this.elements.main.innerHTML = `<div class="loading" style="color:var(--error)">
-                <i class="fa-solid fa-triangle-exclamation"></i><br>Failed to load library.<br>Check file structure.
+            this.elements.main.innerHTML = `<div style="text-align:center; color:var(--error); margin-top:50px;">
+                <h2><i class="fa-solid fa-triangle-exclamation"></i> Error</h2>
+                <p>Could not load data library.</p>
             </div>`;
-            console.error(error);
         }
     },
 
-    // --- ROUTER ---
     async router() {
         const hash = window.location.hash.slice(1) || '/';
         const segments = hash.split('/');
+
+        // Toggle UI elements based on view
+        const isQuiz = segments[0] === 'quiz';
+        if(document.querySelector('.search-wrapper')) {
+            document.querySelector('.search-wrapper').style.display = isQuiz ? 'none' : 'block';
+        }
+        if(document.getElementById('main-header')) {
+            document.getElementById('main-header').style.display = isQuiz ? 'none' : 'block';
+        }
 
         if (hash === '/' || hash === '') {
             this.renderHome();
@@ -63,124 +72,128 @@ const App = {
 
         if (segments[0] === 'quiz') {
             const subName = decodeURIComponent(segments[1]);
-            const chapterIndex = segments[2]; // Keep as string to handle 'ALL'
+            const chapterIndex = segments[2];
             
             if (!this.data.cache[subName]) await this.loadSubjectData(subName);
             this.startQuiz(subName, chapterIndex);
             return;
         }
-        
-        if (segments[0] === 'q') {
-            this.handleDeepLink(segments[1]);
-        }
     },
 
-    // --- DATA MANAGER ---
     async loadSubjectData(name) {
         if (this.data.cache[name]) return;
-
-        this.elements.main.innerHTML = `<div class="loading"><i class="fa-solid fa-circle-notch fa-spin"></i><br>Loading ${name}...</div>`;
-
+        this.elements.main.innerHTML = `<div style="text-align:center; padding:50px; font-family:'Orbitron'">LOADING MATRIX...</div>`;
         const subjectObj = this.data.subjects.find(s => s.name === name);
-        // Fallback for misnamed files
         const fileName = subjectObj ? subjectObj.file : `${name}.json`;
-
-        try {
-            const res = await fetch(`./data/${fileName}`);
-            const json = await res.json();
-            this.data.cache[name] = json;
-        } catch (e) {
-            alert("Error loading subject file: " + fileName);
-            this.renderHome();
-        }
+        const res = await fetch(`./data/${fileName}`);
+        this.data.cache[name] = await res.json();
     },
 
-    // --- TEXT CLEANER ENGINE (Fixes Broken Symbols) ---
+    toggleTheme() {
+        const current = document.documentElement.getAttribute('data-theme');
+        const next = current === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        localStorage.setItem('medtrix-theme', next);
+    },
+
+    // --- UNIVERSAL TEXT CLEANER (The Fix) ---
     cleanText(text) {
         if (!text) return "";
-        return text
-            // Replace the triple bar '≡' with a hyphen
-            .replace(/≡/g, "-") 
-            .replace(//g, "•") // Fix weird bullet points
-            .replace(/â€“/g, "-") // Fix encoding dashes
-            .replace(/â€™/g, "'") // Fix apostrophes
-            .replace(/ï»¿/g, "") // BOM fix
-            // Fix Greek letters
+        
+        // Dictionary of common encoding garbage -> Correct Symbol
+        const map = {
+            '≡': '→',
+            '': '→',
+            '->': '→',
+            'â€“': '-',
+            'â€”': '—',
+            'â€™': "'",
+            'â€œ': '"',
+            'â€': '"',
+            'ï»¿': '',
+            '': '•',
+            '': '•',
+            '': '≥',
+            '': '≤',
+            '': '×',
+            '': 'µ' // Micro symbol
+        };
+
+        // 1. Replace Garbage Characters
+        let clean = text.replace(/≡||->|â€“|â€”|â€™|â€œ|â€|ï»¿||||||/g, matched => map[matched]);
+
+        // 2. Fix Broken Greek Letters (Common in Medical PDFs)
+        clean = clean
             .replace(//g, "α").replace(//g, "β").replace(//g, "γ").replace(//g, "δ")
-            .replace(//g, "µ");
+            .replace(//g, "ε").replace(//g, "θ").replace(//g, "λ").replace(//g, "μ")
+            .replace(//g, "π").replace(//g, "σ").replace(//g, "τ").replace(//g, "ω")
+            .replace(//g, "Δ"); // Delta
+
+        return clean;
     },
 
     // --- RENDERERS ---
     
     renderHome() {
         this.elements.search.value = '';
-        const html = `
-            <div class="grid">
-                ${this.data.subjects.map(sub => `
-                    <div class="card" onclick="location.hash = '#subject/${sub.name}'">
-                        <div class="card-icon-box">
-                            <i class="fa-solid ${this.getIcon(sub.name)}"></i>
-                        </div>
-                        <h3>${sub.name}</h3>
-                    </div>
-                `).join('')}
+        this.elements.main.className = 'grid'; 
+        const html = this.data.subjects.map(sub => `
+            <div class="card" onclick="location.hash = '#subject/${sub.name}'">
+                <div class="card-icon-box">
+                    <i class="fa-solid ${this.getIcon(sub.name)}"></i>
+                </div>
+                <h3>${sub.name}</h3>
             </div>
-        `;
+        `).join('');
         this.elements.main.innerHTML = html;
     },
 
     renderChapterList(subName) {
+        this.elements.main.className = ''; 
         const chapters = this.data.syllabus[subName] || [];
         const allQuestions = this.data.cache[subName] || [];
 
-        // Header for the list
         let listHtml = `
-            <li class="chapter-item special" onclick="location.hash = '#quiz/${subName}/ALL'">
+            <div class="list-header">
+                <button class="back-btn" onclick="location.hash = '#/'"><i class="fa-solid fa-arrow-left"></i></button>
+                <h2 style="font-family:'Orbitron'; color:var(--accent)">${subName}</h2>
+            </div>
+            
+            <div class="chapter-item" onclick="location.hash = '#quiz/${subName}/ALL'" style="border-color:var(--accent)">
                 <div>
-                    <div style="font-size:0.8rem; color:var(--primary); font-weight:700">FULL BANK</div>
+                    <div style="font-size:0.8rem; color:var(--accent); font-weight:700">FULL BANK</div>
                     <div style="font-weight:600">Practice All Questions</div>
                 </div>
                 <span class="badge">${allQuestions.length} Qs</span>
-            </li>
+            </div>
         `;
 
         listHtml += chapters.map((title, idx) => {
             const chNum = idx + 1;
-            // Filter based on ID pattern "_ChX_"
             const count = allQuestions.filter(q => q.id.includes(`_Ch${chNum}_`)).length;
             if(count === 0) return '';
-
             return `
-                <li class="chapter-item" onclick="location.hash = '#quiz/${subName}/${chNum}'">
+                <div class="chapter-item" onclick="location.hash = '#quiz/${subName}/${chNum}'">
                     <div>
-                        <div style="font-size:0.8rem; color:var(--text-sub); font-weight:700">CHAPTER ${chNum}</div>
+                        <div style="font-size:0.75rem; color:var(--subtext); font-weight:700">CHAPTER ${chNum}</div>
                         <div style="font-weight:600">${this.cleanText(title)}</div>
                     </div>
-                    <span class="badge">${count} Qs</span>
-                </li>
+                    <span class="badge" style="background:var(--subtext)">${count}</span>
+                </div>
             `;
         }).join('');
 
-        const html = `
-            <div class="list-header">
-                <button class="back-btn" onclick="location.hash = '#/'"><i class="fa-solid fa-arrow-left"></i></button>
-                <h1>${subName}</h1>
-            </div>
-            <ul style="list-style:none; padding-bottom:80px">
-                ${listHtml}
-            </ul>
-        `;
-        this.elements.main.innerHTML = html;
+        this.elements.main.innerHTML = `<div style="max-width:800px; margin:0 auto;">${listHtml}</div>`;
     },
 
     startQuiz(subName, chNum) {
         this.data.activeSubject = subName;
+        this.elements.main.className = ''; 
         if (chNum === 'ALL') {
             this.data.activeQuestions = this.data.cache[subName];
         } else {
             this.data.activeQuestions = this.data.cache[subName].filter(q => q.id.includes(`_Ch${chNum}_`));
         }
-        
         this.data.currentQIndex = 0;
         this.renderQuestion();
     },
@@ -197,15 +210,14 @@ const App = {
         }
 
         const html = `
-            <div class="quiz-header">
+            <div class="list-header" style="justify-content:space-between">
                 <button class="back-btn" onclick="history.back()"><i class="fa-solid fa-xmark"></i></button>
-                <span>Question ${this.data.currentQIndex + 1} / ${total}</span>
-                <span class="badge" style="font-family:monospace">${q.id.split('_').pop()}</span>
+                <span style="font-family:'Orbitron'; font-weight:bold">${this.data.currentQIndex + 1} / ${total}</span>
             </div>
 
             <div class="question-box">
                 <div class="q-text">${this.cleanText(q.question_text)}</div>
-                <div class="q-images-container" style="text-align:center">${imgHtml}</div>
+                <div style="text-align:center; margin:15px 0;">${imgHtml}</div>
                 
                 <div class="options-stack">
                     ${q.options.map((opt, i) => `
@@ -215,9 +227,9 @@ const App = {
                     `).join('')}
                 </div>
 
-                <div id="explanation" class="explanation">
-                    <strong><i class="fa-solid fa-circle-info"></i> Explanation:</strong>
-                    <p>${this.cleanText(q.explanation)}</p>
+                <div id="explanation" class="option" style="display:none; margin-top:20px; border-color:var(--accent); background:rgba(37,99,235,0.05); cursor:default">
+                    <strong><i class="fa-solid fa-circle-info"></i> Explanation:</strong><br><br>
+                    ${this.cleanText(q.explanation)}
                 </div>
             </div>
 
@@ -230,18 +242,16 @@ const App = {
                 </button>
             </div>
         `;
-        this.elements.main.innerHTML = html;
+        this.elements.main.innerHTML = `<div style="max-width:800px; margin:0 auto; padding-bottom:60px;">${html}</div>`;
     },
 
-    // --- INTERACTION LOGIC ---
     handleAnswer(el, index, correctChar) {
         if (el.parentElement.classList.contains('answered')) return;
+        el.parentElement.classList.add('answered');
 
-        const selectedChar = String.fromCharCode(97 + index); // a, b, c
+        const selectedChar = String.fromCharCode(97 + index); 
         const correctIndex = correctChar.toLowerCase().charCodeAt(0) - 97;
         const options = el.parentElement.children;
-
-        el.parentElement.classList.add('answered');
 
         if (selectedChar === correctChar.toLowerCase()) {
             el.classList.add('selected-correct');
@@ -249,9 +259,7 @@ const App = {
             el.classList.add('selected-wrong');
             if(options[correctIndex]) options[correctIndex].classList.add('selected-correct');
         }
-
-        Array.from(options).forEach(opt => opt.classList.add('disabled'));
-        document.getElementById('explanation').classList.add('show');
+        document.getElementById('explanation').style.display = 'block';
     },
 
     navQuestion(dir) {
@@ -263,61 +271,37 @@ const App = {
     },
 
     handleSearch(query) {
+        if(window.location.hash !== '' && window.location.hash !== '#/') return;
+        
         if(query.length < 2) {
-            if(window.location.hash === '' || window.location.hash === '#/') this.renderHome();
+            this.renderHome();
             return;
         }
-        
-        if(window.location.hash === '' || window.location.hash === '#/') {
-            const filtered = this.data.subjects.filter(s => s.name.toLowerCase().includes(query.toLowerCase()));
-            const html = `
-                <div class="grid">
-                    ${filtered.map(sub => `
-                        <div class="card" onclick="location.hash = '#subject/${sub.name}'">
-                            <div class="card-icon-box">
-                                <i class="fa-solid ${this.getIcon(sub.name)}"></i>
-                            </div>
-                            <h3>${sub.name}</h3>
-                        </div>
-                    `).join('')}
-                </div>
-            `;
-            this.elements.main.innerHTML = html;
-        }
+        const filtered = this.data.subjects.filter(s => s.name.toLowerCase().includes(query.toLowerCase()));
+        this.elements.main.innerHTML = filtered.map(sub => `
+            <div class="card" onclick="location.hash = '#subject/${sub.name}'">
+                <div class="card-icon-box"><i class="fa-solid ${this.getIcon(sub.name)}"></i></div>
+                <h3>${sub.name}</h3>
+            </div>
+        `).join('');
     },
     
-    // --- UTILS ---
     openImage(src) {
         this.elements.lightboxImg.src = src;
         this.elements.lightbox.classList.remove('hidden');
     },
 
     getIcon(name) {
-        const normName = name.toLowerCase().trim();
         const map = {
-            'anaesthesia': 'fa-syringe',
-            'anatomy': 'fa-bone',
-            'biochemistry': 'fa-flask',
-            'dermatology': 'fa-hand-dots',
-            'ent': 'fa-ear-listen',
-            'fmt': 'fa-skull-crossbones',
-            'medicine': 'fa-user-doctor',
-            'microbiology': 'fa-virus',
-            'obgyn': 'fa-person-pregnant',
-            'ophthalmology': 'fa-eye',
-            'orthopaedics': 'fa-crutch',
-            'psm': 'fa-users', 
-            'pathology': 'fa-microscope',
-            'pediatrics': 'fa-baby',
-            'pharmacology': 'fa-pills',
-            'physiology': 'fa-heart-pulse',
-            'psychiatry': 'fa-brain',
-            'radiology': 'fa-x-ray',
-            'surgery': 'fa-scalpel'
+            'anaesthesia': 'fa-syringe', 'anatomy': 'fa-bone', 'biochemistry': 'fa-flask',
+            'dermatology': 'fa-hand-dots', 'ent': 'fa-ear-listen', 'fmt': 'fa-skull-crossbones',
+            'medicine': 'fa-user-doctor', 'microbiology': 'fa-virus', 'obgyn': 'fa-person-pregnant',
+            'ophthalmology': 'fa-eye', 'orthopaedics': 'fa-crutch', 'psm': 'fa-users', 
+            'pathology': 'fa-microscope', 'pediatrics': 'fa-baby', 'pharmacology': 'fa-pills',
+            'physiology': 'fa-heart-pulse', 'psychiatry': 'fa-brain', 'radiology': 'fa-x-ray', 'surgery': 'fa-scalpel'
         };
-        return map[normName] || 'fa-book-medical'; // Fallback
+        return map[name.toLowerCase().trim()] || 'fa-book-medical';
     }
 };
 
 window.addEventListener('DOMContentLoaded', () => App.init());
-window.App = App;
