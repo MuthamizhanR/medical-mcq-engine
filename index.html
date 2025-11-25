@@ -10,6 +10,53 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <link rel="stylesheet" href="style.css">
+
+<style>
+    /* --- RESPONSIVE DASHBOARD BUTTON --- */
+    .medtrix-home-btn {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 10000;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        padding: 10px 20px;
+        border-radius: 30px;
+        color: white;
+        text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .medtrix-home-btn:hover {
+        background: rgba(255, 255, 255, 0.2);
+        transform: translateY(-2px);
+    }
+
+    /* MOBILE OPTIMIZATION */
+    @media (max-width: 600px) {
+        .medtrix-home-btn {
+            top: 15px;
+            left: 15px;
+            padding: 8px 14px; /* Smaller padding */
+            font-size: 12px;   /* Smaller text */
+            border-radius: 20px;
+            background: rgba(0, 0, 0, 0.3); /* Darker contrast for mobile legibility */
+        }
+        .medtrix-home-btn span {
+            font-size: 14px; /* Keep icon visible */
+        }
+    }
+</style>
+
 </head>
 <body>
 
