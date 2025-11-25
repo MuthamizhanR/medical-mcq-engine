@@ -57,6 +57,35 @@
     }
 </style>
 
+
+<style>
+    /* --- DESKTOP SCROLLBAR CUSTOMIZATION --- */
+    /* Works on Chrome, Edge, Safari */
+    ::-webkit-scrollbar {
+        width: 12px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #0f0c29; /* Match Background */
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: #1a1d29; /* Dark Grey Handle */
+        border-radius: 10px;
+        border: 2px solid #0f0c29; /* Padding effect */
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background-color: #00e676; /* Green on Hover (MEDTRIX Accent) */
+    }
+    
+    /* Firefox */
+    * {
+        scrollbar-width: thin;
+        scrollbar-color: #00e676 #0f0c29;
+    }
+</style>
+
 </head>
 <body>
 
