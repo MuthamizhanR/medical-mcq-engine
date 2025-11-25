@@ -61,16 +61,33 @@
 <body>
 
     <!-- MEDTRIX HOME BUTTON -->
-    <a href="https://MuthamizhanR.github.io/MEDTRIX/" style="
-        position: fixed; top: 20px; left: 20px; z-index: 9999;
-        background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);
-        border: 1px solid rgba(255,255,255,0.2); padding: 10px 20px;
-        border-radius: 30px; color: white; text-decoration: none;
-        font-family: sans-serif; font-weight: bold;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: flex; align-items: center; gap: 5px;
-    ">
-        <span>⬅️</span> Dashboard
-    </a>
+    <!-- MEDTRIX NAVIGATION BUTTON START -->
+<style>
+    .medtrix-home-btn {
+        position: fixed; top: 20px; left: 20px; z-index: 10000;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        padding: 10px 20px; border-radius: 30px;
+        color: white; text-decoration: none;
+        font-family: sans-serif; font-weight: 600; font-size: 14px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease; display: flex; align-items: center; gap: 8px;
+    }
+    .medtrix-home-btn:hover { background: rgba(255, 255, 255, 0.2); transform: translateY(-2px); }
+    
+    /* MOBILE TWEAKS */
+    @media (max-width: 600px) {
+        .medtrix-home-btn {
+            top: 10px; left: 10px; padding: 8px 12px; font-size: 12px;
+            background: rgba(0, 0, 0, 0.4); /* Darker for visibility */
+        }
+    }
+</style>
+<a href="https://MuthamizhanR.github.io/MEDTRIX/" class="medtrix-home-btn">
+    <span>⬅️</span> Dashboard
+</a>
+<!-- MEDTRIX NAVIGATION BUTTON END -->
     
 
 
